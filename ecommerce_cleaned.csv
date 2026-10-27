@@ -1,0 +1,3661 @@
+Category,Price (Rs.),Discount (%),Final_Price(Rs.),Payment_Method,Purchase_Date
+Home & Kitchen,118.84,25,89.13,Debit Card,2024-01-01
+Electronics,30.69,10,27.62,Debit Card,2024-01-01
+Electronics,304.33,50,152.16,Credit Card,2024-01-01
+Sports,190.85,15,162.22,Net Banking,2024-01-01
+Beauty,329.64,15,280.19,Credit Card,2024-01-01
+Clothing,160.88,25,120.66,Credit Card,2024-01-01
+Home & Kitchen,158.57,25,118.93,UPI,2024-01-01
+Electronics,280.75,0,280.75,UPI,2024-01-02
+Toys,12.15,5,11.54,Debit Card,2024-01-02
+Beauty,315.89,0,315.89,Cash on Delivery,2024-01-02
+Sports,311.01,5,295.46,UPI,2024-01-02
+Electronics,277.17,30,194.02,Debit Card,2024-01-02
+Clothing,320.98,10,288.88,Debit Card,2024-01-02
+Toys,450.73,50,225.37,Cash on Delivery,2024-01-02
+Clothing,381.42,0,381.42,Cash on Delivery,2024-01-02
+Beauty,438.9,30,307.23,Cash on Delivery,2024-01-02
+Toys,196.43,15,166.97,Net Banking,2024-01-02
+Books,80.01,15,68.01,Credit Card,2024-01-02
+Home & Kitchen,335.21,15,284.93,Net Banking,2024-01-02
+Sports,403.49,10,363.14,Credit Card,2024-01-02
+Clothing,470.95,20,376.76,Credit Card,2024-01-02
+Clothing,492.41,0,492.41,Credit Card,2024-01-02
+Toys,14.0,5,13.3,Debit Card,2024-01-02
+Sports,468.83,30,328.18,Debit Card,2024-01-02
+Toys,459.49,15,390.57,Net Banking,2024-01-03
+Books,167.63,25,125.72,Cash on Delivery,2024-01-03
+Electronics,446.14,0,446.14,UPI,2024-01-03
+Electronics,92.19,10,82.97,Cash on Delivery,2024-01-03
+Clothing,158.02,5,150.12,Cash on Delivery,2024-01-03
+Sports,83.5,20,66.8,Credit Card,2024-01-03
+Sports,322.93,5,306.78,Credit Card,2024-01-03
+Beauty,493.56,30,345.49,UPI,2024-01-03
+Toys,233.8,10,210.42,Net Banking,2024-01-03
+Sports,108.02,20,86.42,Credit Card,2024-01-04
+Home & Kitchen,136.1,0,136.1,Credit Card,2024-01-04
+Books,298.47,0,298.47,Debit Card,2024-01-04
+Sports,497.98,50,248.99,Cash on Delivery,2024-01-04
+Home & Kitchen,382.26,25,286.69,Debit Card,2024-01-04
+Beauty,461.31,30,322.92,UPI,2024-01-04
+Clothing,297.6,50,148.8,Debit Card,2024-01-04
+Home & Kitchen,40.1,5,38.09,Cash on Delivery,2024-01-04
+Sports,221.24,0,221.24,Net Banking,2024-01-04
+Electronics,251.69,50,125.84,Cash on Delivery,2024-01-04
+Electronics,243.69,50,121.84,Credit Card,2024-01-05
+Home & Kitchen,353.08,0,353.08,Debit Card,2024-01-05
+Clothing,51.66,30,36.16,Debit Card,2024-01-05
+Home & Kitchen,252.0,30,176.4,Net Banking,2024-01-05
+Books,318.02,50,159.01,Credit Card,2024-01-05
+Electronics,215.45,20,172.36,Credit Card,2024-01-05
+Sports,36.7,30,25.69,Net Banking,2024-01-05
+Electronics,93.6,0,93.6,UPI,2024-01-05
+Sports,316.1,5,300.3,Cash on Delivery,2024-01-05
+Books,433.97,20,347.18,UPI,2024-01-05
+Toys,77.79,10,70.01,UPI,2024-01-05
+Clothing,153.55,30,107.48,Cash on Delivery,2024-01-05
+Beauty,42.85,0,42.85,Credit Card,2024-01-06
+Clothing,140.83,10,126.75,Net Banking,2024-01-06
+Sports,431.98,25,323.99,UPI,2024-01-06
+Sports,133.61,10,120.25,Cash on Delivery,2024-01-06
+Toys,153.36,0,153.36,Credit Card,2024-01-06
+Toys,430.99,5,409.44,Cash on Delivery,2024-01-06
+Books,292.99,20,234.39,Debit Card,2024-01-06
+Clothing,243.88,20,195.1,Credit Card,2024-01-06
+Beauty,202.5,50,101.25,UPI,2024-01-07
+Beauty,376.52,0,376.52,Cash on Delivery,2024-01-07
+Home & Kitchen,179.92,25,134.94,Net Banking,2024-01-07
+Home & Kitchen,296.22,0,296.22,UPI,2024-01-07
+Electronics,265.4,50,132.7,Credit Card,2024-01-07
+Beauty,156.51,15,133.03,Credit Card,2024-01-07
+Beauty,497.92,25,373.44,Debit Card,2024-01-07
+Sports,374.32,50,187.16,Cash on Delivery,2024-01-07
+Toys,90.76,25,68.07,UPI,2024-01-07
+Clothing,438.09,20,350.47,Cash on Delivery,2024-01-07
+Beauty,311.55,25,233.66,Credit Card,2024-01-07
+Beauty,73.24,10,65.92,Cash on Delivery,2024-01-07
+Clothing,58.24,50,29.12,Credit Card,2024-01-07
+Clothing,336.44,25,252.33,Net Banking,2024-01-07
+Books,37.42,5,35.55,Net Banking,2024-01-08
+Home & Kitchen,303.09,10,272.78,Cash on Delivery,2024-01-08
+Beauty,91.27,0,91.27,Credit Card,2024-01-08
+Sports,213.0,50,106.5,Net Banking,2024-01-08
+Home & Kitchen,79.12,50,39.56,Credit Card,2024-01-08
+Books,304.57,5,289.34,Net Banking,2024-01-08
+Beauty,382.83,30,267.98,Cash on Delivery,2024-01-08
+Home & Kitchen,355.37,10,319.83,UPI,2024-01-08
+Toys,439.39,50,219.69,Credit Card,2024-01-08
+Toys,145.1,25,108.82,UPI,2024-01-09
+Beauty,496.05,5,471.25,Debit Card,2024-01-09
+Toys,67.54,20,54.03,Credit Card,2024-01-09
+Beauty,429.22,25,321.92,Debit Card,2024-01-09
+Home & Kitchen,479.54,0,479.54,UPI,2024-01-09
+Toys,229.31,0,229.31,Net Banking,2024-01-09
+Toys,340.26,5,323.25,Net Banking,2024-01-09
+Books,172.45,0,172.45,Credit Card,2024-01-09
+Home & Kitchen,49.6,20,39.68,Cash on Delivery,2024-01-09
+Toys,478.62,10,430.76,Credit Card,2024-01-09
+Home & Kitchen,219.9,0,219.9,Debit Card,2024-01-09
+Electronics,486.62,25,364.97,Net Banking,2024-01-09
+Electronics,309.54,15,263.11,Credit Card,2024-01-09
+Home & Kitchen,122.79,25,92.09,Debit Card,2024-01-09
+Clothing,166.89,10,150.2,Debit Card,2024-01-09
+Electronics,123.79,0,123.79,Debit Card,2024-01-09
+Books,64.22,15,54.59,Cash on Delivery,2024-01-10
+Clothing,341.04,10,306.94,Debit Card,2024-01-10
+Toys,61.37,20,49.1,Credit Card,2024-01-10
+Toys,132.67,20,106.14,Debit Card,2024-01-10
+Toys,348.15,15,295.93,Debit Card,2024-01-10
+Books,158.42,25,118.81,UPI,2024-01-10
+Toys,89.3,30,62.51,Cash on Delivery,2024-01-10
+Electronics,15.67,5,14.89,Net Banking,2024-01-10
+Beauty,167.31,20,133.85,Cash on Delivery,2024-01-10
+Beauty,246.05,30,172.23,UPI,2024-01-11
+Home & Kitchen,415.36,50,207.68,Net Banking,2024-01-11
+Books,399.53,0,399.53,UPI,2024-01-11
+Sports,309.46,0,309.46,Debit Card,2024-01-11
+Sports,230.09,15,195.58,Credit Card,2024-01-11
+Home & Kitchen,426.84,15,362.81,Net Banking,2024-01-11
+Toys,35.25,15,29.96,UPI,2024-01-11
+Books,89.74,30,62.82,UPI,2024-01-11
+Books,444.15,5,421.94,Net Banking,2024-01-11
+Electronics,29.79,15,25.32,Debit Card,2024-01-11
+Books,105.99,15,90.09,Credit Card,2024-01-11
+Sports,350.5,15,297.93,UPI,2024-01-12
+Sports,83.14,0,83.14,UPI,2024-01-12
+Clothing,139.5,25,104.62,Credit Card,2024-01-12
+Toys,494.3,20,395.44,Cash on Delivery,2024-01-12
+Clothing,198.5,30,138.95,UPI,2024-01-12
+Beauty,247.91,20,198.33,Cash on Delivery,2024-01-12
+Clothing,256.93,20,205.54,Credit Card,2024-01-12
+Home & Kitchen,383.01,0,383.01,Debit Card,2024-01-12
+Sports,96.7,15,82.19,Net Banking,2024-01-13
+Books,193.15,50,96.58,Credit Card,2024-01-13
+Beauty,462.11,30,323.48,Cash on Delivery,2024-01-13
+Home & Kitchen,278.78,15,236.96,Debit Card,2024-01-13
+Beauty,374.41,10,336.97,Net Banking,2024-01-13
+Home & Kitchen,58.77,25,44.08,Net Banking,2024-01-13
+Electronics,149.07,25,111.8,Credit Card,2024-01-13
+Home & Kitchen,189.9,15,161.41,Credit Card,2024-01-13
+Sports,250.41,50,125.2,Debit Card,2024-01-13
+Electronics,351.98,50,175.99,Debit Card,2024-01-14
+Home & Kitchen,364.44,20,291.55,Debit Card,2024-01-14
+Sports,117.95,15,100.26,Credit Card,2024-01-14
+Beauty,24.75,50,12.38,Net Banking,2024-01-14
+Home & Kitchen,190.88,10,171.79,UPI,2024-01-14
+Electronics,435.45,0,435.45,Credit Card,2024-01-14
+Clothing,370.12,10,333.11,Cash on Delivery,2024-01-14
+Books,417.07,50,208.53,Debit Card,2024-01-14
+Home & Kitchen,262.15,15,222.83,Cash on Delivery,2024-01-14
+Beauty,39.49,0,39.49,UPI,2024-01-14
+Books,433.59,25,325.19,Debit Card,2024-01-14
+Beauty,109.89,50,54.95,Credit Card,2024-01-14
+Beauty,399.82,50,199.91,Debit Card,2024-01-14
+Sports,421.62,15,358.38,Credit Card,2024-01-14
+Electronics,135.13,5,128.37,UPI,2024-01-14
+Sports,106.47,30,74.53,UPI,2024-01-14
+Clothing,51.45,15,43.73,Cash on Delivery,2024-01-14
+Toys,108.79,10,97.91,Debit Card,2024-01-14
+Toys,24.17,25,18.13,Credit Card,2024-01-15
+Beauty,302.93,5,287.78,UPI,2024-01-15
+Clothing,204.03,20,163.22,Net Banking,2024-01-15
+Toys,46.68,20,37.34,UPI,2024-01-15
+Clothing,152.52,0,152.52,Credit Card,2024-01-15
+Books,143.21,5,136.05,Credit Card,2024-01-15
+Sports,190.26,0,190.26,Debit Card,2024-01-15
+Home & Kitchen,213.59,0,213.59,Credit Card,2024-01-15
+Electronics,409.01,25,306.76,UPI,2024-01-15
+Toys,241.76,50,120.88,UPI,2024-01-15
+Clothing,150.55,25,112.91,Cash on Delivery,2024-01-15
+Electronics,90.62,5,86.09,Debit Card,2024-01-16
+Beauty,491.98,5,467.38,Cash on Delivery,2024-01-16
+Home & Kitchen,354.3,25,265.73,Credit Card,2024-01-16
+Home & Kitchen,392.26,5,372.65,Net Banking,2024-01-16
+Sports,183.74,20,146.99,Net Banking,2024-01-16
+Electronics,443.26,10,398.93,Credit Card,2024-01-16
+Beauty,437.28,10,393.55,Cash on Delivery,2024-01-16
+Beauty,143.63,25,107.72,Debit Card,2024-01-16
+Sports,178.91,30,125.24,Cash on Delivery,2024-01-16
+Beauty,377.15,0,377.15,Debit Card,2024-01-17
+Toys,94.02,20,75.22,Credit Card,2024-01-17
+Books,268.31,25,201.23,Cash on Delivery,2024-01-17
+Home & Kitchen,286.82,30,200.77,Cash on Delivery,2024-01-17
+Clothing,332.54,30,232.78,Credit Card,2024-01-17
+Clothing,457.07,0,457.07,Cash on Delivery,2024-01-17
+Clothing,154.47,5,146.75,Debit Card,2024-01-17
+Home & Kitchen,100.78,0,100.78,Net Banking,2024-01-17
+Sports,61.98,0,61.98,Credit Card,2024-01-17
+Toys,40.84,25,30.63,Credit Card,2024-01-17
+Clothing,47.18,0,47.18,Debit Card,2024-01-17
+Toys,358.89,0,358.89,Net Banking,2024-01-18
+Home & Kitchen,24.5,15,20.82,UPI,2024-01-18
+Sports,139.02,30,97.31,Cash on Delivery,2024-01-18
+Beauty,207.06,30,144.94,Net Banking,2024-01-18
+Home & Kitchen,111.69,0,111.69,Net Banking,2024-01-18
+Books,347.22,15,295.14,Net Banking,2024-01-18
+Books,43.02,10,38.72,Net Banking,2024-01-18
+Books,209.3,5,198.84,Credit Card,2024-01-18
+Electronics,200.86,10,180.77,Net Banking,2024-01-18
+Books,425.24,10,382.72,UPI,2024-01-18
+Electronics,455.26,15,386.97,Net Banking,2024-01-18
+Books,484.74,30,339.32,Cash on Delivery,2024-01-18
+Toys,489.29,10,440.36,Net Banking,2024-01-19
+Beauty,135.22,25,101.41,UPI,2024-01-19
+Sports,145.31,15,123.51,Net Banking,2024-01-19
+Beauty,61.62,15,52.38,Credit Card,2024-01-19
+Toys,315.06,25,236.3,Net Banking,2024-01-19
+Toys,471.77,15,401.0,Credit Card,2024-01-19
+Beauty,205.75,50,102.88,Cash on Delivery,2024-01-19
+Books,278.71,50,139.35,Net Banking,2024-01-20
+Sports,317.46,0,317.46,Cash on Delivery,2024-01-20
+Beauty,403.2,10,362.88,Debit Card,2024-01-20
+Home & Kitchen,97.7,15,83.05,Cash on Delivery,2024-01-20
+Beauty,199.88,10,179.89,Net Banking,2024-01-20
+Sports,308.0,25,231.0,Cash on Delivery,2024-01-20
+Books,126.22,0,126.22,Cash on Delivery,2024-01-20
+Clothing,282.41,5,268.29,Net Banking,2024-01-20
+Toys,83.67,10,75.3,Debit Card,2024-01-20
+Electronics,49.79,15,42.32,Net Banking,2024-01-21
+Books,353.97,0,353.97,Debit Card,2024-01-21
+Books,61.82,20,49.46,UPI,2024-01-21
+Home & Kitchen,78.92,25,59.19,Credit Card,2024-01-21
+Electronics,398.89,50,199.44,Cash on Delivery,2024-01-21
+Electronics,210.35,30,147.24,Net Banking,2024-01-21
+Toys,365.26,0,365.26,UPI,2024-01-21
+Electronics,132.78,0,132.78,Cash on Delivery,2024-01-21
+Clothing,342.32,20,273.86,Debit Card,2024-01-21
+Home & Kitchen,406.13,50,203.06,UPI,2024-01-21
+Sports,473.15,10,425.83,Debit Card,2024-01-21
+Toys,481.16,15,408.99,Debit Card,2024-01-21
+Sports,466.36,0,466.36,Debit Card,2024-01-21
+Clothing,369.95,15,314.46,Net Banking,2024-01-22
+Sports,431.13,50,215.56,Net Banking,2024-01-22
+Home & Kitchen,357.28,10,321.55,Cash on Delivery,2024-01-22
+Toys,243.52,15,206.99,Cash on Delivery,2024-01-22
+Toys,34.93,30,24.45,Cash on Delivery,2024-01-22
+Books,228.68,5,217.25,Net Banking,2024-01-22
+Toys,12.32,10,11.09,Cash on Delivery,2024-01-22
+Beauty,415.94,10,374.35,Cash on Delivery,2024-01-22
+Sports,355.88,5,338.09,UPI,2024-01-22
+Home & Kitchen,52.0,15,44.2,Net Banking,2024-01-22
+Beauty,381.94,15,324.65,Credit Card,2024-01-22
+Beauty,251.84,5,239.25,Credit Card,2024-01-23
+Electronics,394.9,30,276.43,Credit Card,2024-01-23
+Home & Kitchen,89.92,50,44.96,Net Banking,2024-01-23
+Toys,191.38,15,162.67,Net Banking,2024-01-23
+Clothing,251.88,10,226.69,Cash on Delivery,2024-01-23
+Electronics,294.52,10,265.07,Net Banking,2024-01-24
+Clothing,214.26,10,192.83,Cash on Delivery,2024-01-24
+Toys,55.74,20,44.59,UPI,2024-01-24
+Sports,70.53,15,59.95,Credit Card,2024-01-24
+Books,298.89,0,298.89,Credit Card,2024-01-24
+Toys,430.37,5,408.85,Cash on Delivery,2024-01-24
+Sports,331.13,20,264.9,Net Banking,2024-01-24
+Home & Kitchen,347.3,15,295.2,Debit Card,2024-01-24
+Clothing,67.02,5,63.67,UPI,2024-01-24
+Toys,425.9,5,404.6,Credit Card,2024-01-24
+Toys,15.56,10,14.0,Debit Card,2024-01-24
+Electronics,70.49,15,59.92,Debit Card,2024-01-24
+Sports,491.37,20,393.1,Debit Card,2024-01-25
+Clothing,122.79,15,104.37,UPI,2024-01-25
+Books,358.31,15,304.56,Debit Card,2024-01-25
+Books,31.24,5,29.68,Cash on Delivery,2024-01-25
+Sports,185.28,30,129.7,Credit Card,2024-01-26
+Electronics,205.68,10,185.11,Net Banking,2024-01-26
+Toys,268.42,5,255.0,Net Banking,2024-01-26
+Clothing,392.74,5,373.1,Cash on Delivery,2024-01-26
+Clothing,481.77,5,457.68,Debit Card,2024-01-26
+Home & Kitchen,209.19,20,167.35,Credit Card,2024-01-26
+Sports,158.67,0,158.67,Cash on Delivery,2024-01-26
+Books,162.92,20,130.34,Debit Card,2024-01-26
+Electronics,439.73,10,395.76,Debit Card,2024-01-26
+Toys,219.22,30,153.45,Credit Card,2024-01-26
+Toys,313.68,0,313.68,Debit Card,2024-01-26
+Books,16.47,5,15.65,Debit Card,2024-01-27
+Electronics,443.05,30,310.13,Debit Card,2024-01-27
+Home & Kitchen,239.67,15,203.72,UPI,2024-01-27
+Beauty,160.13,15,136.11,UPI,2024-01-27
+Home & Kitchen,62.19,50,31.09,Cash on Delivery,2024-01-27
+Toys,230.4,5,218.88,UPI,2024-01-27
+Beauty,116.25,0,116.25,Debit Card,2024-01-27
+Sports,394.83,20,315.86,Net Banking,2024-01-27
+Beauty,96.15,25,72.11,UPI,2024-01-27
+Books,368.07,5,349.67,Credit Card,2024-01-27
+Electronics,135.86,15,115.48,Cash on Delivery,2024-01-27
+Sports,358.33,5,340.41,Net Banking,2024-01-27
+Clothing,475.44,15,404.12,Cash on Delivery,2024-01-27
+Home & Kitchen,242.13,30,169.49,Net Banking,2024-01-28
+Books,431.44,50,215.72,UPI,2024-01-28
+Clothing,90.2,10,81.18,Debit Card,2024-01-28
+Books,235.18,0,235.18,UPI,2024-01-28
+Electronics,254.93,30,178.45,UPI,2024-01-28
+Beauty,421.16,30,294.81,Net Banking,2024-01-28
+Clothing,173.51,20,138.81,Net Banking,2024-01-28
+Toys,155.42,20,124.34,Credit Card,2024-01-28
+Home & Kitchen,309.9,5,294.4,Credit Card,2024-01-28
+Toys,57.82,10,52.04,Net Banking,2024-01-28
+Home & Kitchen,224.68,30,157.28,Net Banking,2024-01-28
+Beauty,83.47,20,66.78,Cash on Delivery,2024-01-28
+Clothing,299.87,5,284.88,Credit Card,2024-01-28
+Beauty,203.25,30,142.27,Cash on Delivery,2024-01-29
+Electronics,374.98,30,262.49,Credit Card,2024-01-29
+Home & Kitchen,197.02,25,147.77,Net Banking,2024-01-29
+Sports,345.47,25,259.1,Cash on Delivery,2024-01-29
+Electronics,323.21,25,242.41,Net Banking,2024-01-29
+Beauty,114.15,20,91.32,Credit Card,2024-01-29
+Clothing,494.49,30,346.14,Debit Card,2024-01-29
+Sports,334.77,15,284.55,Cash on Delivery,2024-01-29
+Electronics,352.73,25,264.55,Credit Card,2024-01-29
+Books,93.17,0,93.17,Cash on Delivery,2024-01-29
+Books,177.4,25,133.05,Debit Card,2024-01-29
+Clothing,186.27,0,186.27,Net Banking,2024-01-29
+Books,347.93,15,295.74,Debit Card,2024-01-29
+Beauty,273.03,10,245.73,Cash on Delivery,2024-01-29
+Clothing,420.58,15,357.49,Credit Card,2024-01-29
+Home & Kitchen,346.17,30,242.32,Cash on Delivery,2024-01-30
+Books,289.48,20,231.58,UPI,2024-01-30
+Sports,34.07,10,30.66,Debit Card,2024-01-30
+Books,247.76,25,185.82,Debit Card,2024-01-30
+Toys,24.51,0,24.51,Credit Card,2024-01-30
+Clothing,218.12,5,207.21,Credit Card,2024-01-30
+Home & Kitchen,252.08,10,226.87,Net Banking,2024-01-30
+Clothing,65.53,15,55.7,Debit Card,2024-01-30
+Home & Kitchen,181.18,20,144.94,Credit Card,2024-01-30
+Beauty,221.1,5,210.04,Debit Card,2024-01-30
+Sports,294.06,20,235.25,Cash on Delivery,2024-01-30
+Electronics,49.18,20,39.34,Credit Card,2024-01-30
+Clothing,410.07,20,328.06,Cash on Delivery,2024-01-30
+Clothing,252.65,10,227.39,Debit Card,2024-01-31
+Home & Kitchen,423.01,5,401.86,Net Banking,2024-01-31
+Clothing,126.42,5,120.1,Net Banking,2024-01-31
+Beauty,70.91,10,63.82,Debit Card,2024-01-31
+Toys,430.16,20,344.13,UPI,2024-01-31
+Home & Kitchen,329.03,25,246.77,Net Banking,2024-01-31
+Electronics,326.32,15,277.37,Net Banking,2024-01-31
+Home & Kitchen,254.11,25,190.58,Credit Card,2024-01-31
+Toys,312.3,10,281.07,UPI,2024-01-31
+Beauty,370.72,10,333.65,Cash on Delivery,2024-01-31
+Books,231.08,10,207.97,Debit Card,2024-01-31
+Books,144.67,0,144.67,Cash on Delivery,2024-01-31
+Electronics,424.82,50,212.41,Cash on Delivery,2024-01-31
+Beauty,115.08,15,97.82,Credit Card,2024-01-31
+Sports,292.11,30,204.48,UPI,2024-02-01
+Home & Kitchen,392.77,10,353.49,Credit Card,2024-02-01
+Books,458.91,5,435.96,Debit Card,2024-02-01
+Home & Kitchen,365.04,30,255.53,UPI,2024-02-01
+Electronics,222.53,30,155.77,Credit Card,2024-02-01
+Toys,386.36,20,309.09,Cash on Delivery,2024-02-01
+Clothing,146.37,25,109.78,Cash on Delivery,2024-02-01
+Beauty,327.53,30,229.27,Credit Card,2024-02-01
+Clothing,166.25,0,166.25,UPI,2024-02-01
+Home & Kitchen,395.74,20,316.59,UPI,2024-02-01
+Electronics,273.61,30,191.53,UPI,2024-02-02
+Sports,422.68,15,359.28,UPI,2024-02-02
+Toys,311.3,25,233.48,Credit Card,2024-02-02
+Electronics,477.51,30,334.26,UPI,2024-02-02
+Clothing,390.2,0,390.2,Net Banking,2024-02-02
+Books,352.89,10,317.6,UPI,2024-02-02
+Sports,332.0,20,265.6,Net Banking,2024-02-03
+Beauty,431.89,15,367.11,Net Banking,2024-02-03
+Home & Kitchen,212.42,50,106.21,Debit Card,2024-02-03
+Home & Kitchen,131.56,30,92.09,Debit Card,2024-02-03
+Home & Kitchen,248.01,50,124.0,Cash on Delivery,2024-02-03
+Home & Kitchen,356.81,15,303.29,UPI,2024-02-03
+Home & Kitchen,121.2,20,96.96,Credit Card,2024-02-03
+Toys,397.37,10,357.63,Credit Card,2024-02-03
+Sports,249.81,10,224.83,Net Banking,2024-02-03
+Sports,324.68,25,243.51,Debit Card,2024-02-03
+Home & Kitchen,453.99,5,431.29,Debit Card,2024-02-03
+Sports,61.67,15,52.42,Net Banking,2024-02-04
+Books,152.92,20,122.34,Cash on Delivery,2024-02-04
+Clothing,178.58,50,89.29,Credit Card,2024-02-04
+Electronics,274.4,25,205.8,Cash on Delivery,2024-02-04
+Beauty,424.75,20,339.8,Net Banking,2024-02-04
+Beauty,218.68,10,196.81,Credit Card,2024-02-04
+Electronics,165.23,15,140.45,Debit Card,2024-02-04
+Sports,342.6,20,274.08,Net Banking,2024-02-04
+Sports,195.95,25,146.96,Cash on Delivery,2024-02-04
+Home & Kitchen,214.98,10,193.48,Credit Card,2024-02-04
+Home & Kitchen,469.67,50,234.84,Cash on Delivery,2024-02-05
+Home & Kitchen,226.85,30,158.79,UPI,2024-02-05
+Clothing,399.49,50,199.75,Debit Card,2024-02-05
+Electronics,425.53,30,297.87,Credit Card,2024-02-05
+Home & Kitchen,189.68,5,180.2,UPI,2024-02-05
+Home & Kitchen,260.82,0,260.82,Credit Card,2024-02-05
+Electronics,361.85,25,271.39,UPI,2024-02-05
+Sports,323.64,50,161.82,Debit Card,2024-02-05
+Toys,401.08,5,381.03,Cash on Delivery,2024-02-05
+Beauty,412.71,20,330.17,Debit Card,2024-02-05
+Beauty,353.77,15,300.7,UPI,2024-02-05
+Sports,220.37,20,176.3,UPI,2024-02-05
+Toys,340.18,20,272.14,Cash on Delivery,2024-02-05
+Sports,488.2,5,463.79,UPI,2024-02-06
+Clothing,20.79,50,10.39,Net Banking,2024-02-06
+Books,200.93,30,140.65,Cash on Delivery,2024-02-06
+Electronics,361.89,0,361.89,UPI,2024-02-06
+Electronics,291.97,15,248.17,Debit Card,2024-02-06
+Clothing,24.55,10,22.1,UPI,2024-02-06
+Sports,118.21,30,82.75,Credit Card,2024-02-07
+Home & Kitchen,429.69,30,300.78,Cash on Delivery,2024-02-07
+Sports,31.22,50,15.61,UPI,2024-02-07
+Home & Kitchen,404.71,0,404.71,Cash on Delivery,2024-02-07
+Beauty,280.99,30,196.69,UPI,2024-02-07
+Home & Kitchen,261.58,30,183.11,Cash on Delivery,2024-02-07
+Sports,376.39,10,338.75,Credit Card,2024-02-07
+Clothing,460.68,10,414.61,Credit Card,2024-02-07
+Sports,412.15,20,329.72,Debit Card,2024-02-07
+Sports,56.45,50,28.23,Net Banking,2024-02-08
+Sports,12.7,50,6.35,Net Banking,2024-02-08
+Home & Kitchen,270.76,30,189.53,Cash on Delivery,2024-02-08
+Beauty,471.68,20,377.34,UPI,2024-02-08
+Books,406.69,0,406.69,Credit Card,2024-02-08
+Sports,363.52,30,254.46,Net Banking,2024-02-08
+Sports,17.86,20,14.29,UPI,2024-02-08
+Electronics,279.96,15,237.97,Net Banking,2024-02-08
+Electronics,316.9,20,253.52,Net Banking,2024-02-08
+Books,494.16,50,247.08,Credit Card,2024-02-09
+Home & Kitchen,287.25,20,229.8,Debit Card,2024-02-09
+Electronics,271.54,15,230.81,Debit Card,2024-02-09
+Clothing,258.6,15,219.81,Net Banking,2024-02-09
+Beauty,286.43,15,243.47,Cash on Delivery,2024-02-09
+Toys,340.1,10,306.09,Cash on Delivery,2024-02-09
+Home & Kitchen,338.28,10,304.45,Debit Card,2024-02-09
+Books,423.67,50,211.84,UPI,2024-02-09
+Sports,359.75,30,251.82,Debit Card,2024-02-09
+Books,181.69,10,163.52,Debit Card,2024-02-09
+Clothing,466.18,0,466.18,UPI,2024-02-09
+Clothing,232.79,20,186.23,Net Banking,2024-02-09
+Toys,149.93,0,149.93,UPI,2024-02-10
+Beauty,148.44,10,133.6,Net Banking,2024-02-10
+Clothing,235.54,30,164.88,Net Banking,2024-02-10
+Electronics,144.04,0,144.04,Debit Card,2024-02-10
+Home & Kitchen,317.67,20,254.14,Net Banking,2024-02-10
+Electronics,322.75,15,274.34,UPI,2024-02-10
+Beauty,310.78,5,295.24,Cash on Delivery,2024-02-10
+Clothing,328.65,0,328.65,UPI,2024-02-10
+Clothing,367.66,20,294.13,Cash on Delivery,2024-02-10
+Books,187.12,0,187.12,Cash on Delivery,2024-02-10
+Beauty,436.86,5,415.02,Net Banking,2024-02-11
+Clothing,264.43,0,264.43,UPI,2024-02-11
+Books,44.18,30,30.93,Cash on Delivery,2024-02-11
+Clothing,26.84,10,24.16,Credit Card,2024-02-11
+Beauty,411.18,5,390.62,Cash on Delivery,2024-02-11
+Home & Kitchen,418.85,0,418.85,UPI,2024-02-11
+Electronics,79.22,0,79.22,Cash on Delivery,2024-02-11
+Toys,367.98,5,349.58,Credit Card,2024-02-11
+Books,471.02,20,376.82,Net Banking,2024-02-11
+Beauty,376.51,15,320.03,UPI,2024-02-11
+Electronics,277.05,25,207.79,Debit Card,2024-02-11
+Electronics,357.02,5,339.17,Credit Card,2024-02-11
+Toys,323.14,25,242.35,UPI,2024-02-11
+Beauty,402.82,0,402.82,Debit Card,2024-02-12
+Books,187.72,20,150.18,Credit Card,2024-02-12
+Electronics,373.26,50,186.63,Credit Card,2024-02-12
+Beauty,187.72,30,131.4,Credit Card,2024-02-12
+Sports,250.78,0,250.78,UPI,2024-02-12
+Home & Kitchen,64.68,15,54.98,UPI,2024-02-12
+Clothing,173.69,20,138.95,Debit Card,2024-02-13
+Electronics,150.09,10,135.08,Debit Card,2024-02-13
+Toys,42.72,25,32.04,Cash on Delivery,2024-02-13
+Sports,442.96,5,420.81,Debit Card,2024-02-13
+Electronics,287.69,10,258.92,UPI,2024-02-13
+Books,409.61,10,368.65,UPI,2024-02-13
+Sports,388.38,5,368.96,Cash on Delivery,2024-02-13
+Books,292.67,25,219.5,Credit Card,2024-02-13
+Electronics,132.23,25,99.17,Net Banking,2024-02-13
+Clothing,227.08,15,193.02,Credit Card,2024-02-13
+Sports,12.24,10,11.02,Cash on Delivery,2024-02-13
+Beauty,96.68,30,67.68,Debit Card,2024-02-13
+Home & Kitchen,278.03,10,250.23,Credit Card,2024-02-14
+Sports,417.36,0,417.36,Cash on Delivery,2024-02-14
+Toys,72.87,20,58.3,Debit Card,2024-02-14
+Sports,217.61,10,195.85,Debit Card,2024-02-14
+Books,89.73,0,89.73,Credit Card,2024-02-14
+Sports,471.23,20,376.98,Net Banking,2024-02-14
+Toys,328.64,25,246.48,UPI,2024-02-14
+Clothing,491.63,15,417.89,UPI,2024-02-14
+Beauty,344.67,15,292.97,Credit Card,2024-02-15
+Books,236.71,25,177.53,UPI,2024-02-15
+Clothing,232.51,20,186.01,Debit Card,2024-02-15
+Books,318.96,30,223.27,Debit Card,2024-02-15
+Clothing,256.97,50,128.49,Credit Card,2024-02-15
+Clothing,210.96,15,179.32,Debit Card,2024-02-15
+Beauty,365.95,10,329.36,Credit Card,2024-02-15
+Home & Kitchen,230.16,50,115.08,UPI,2024-02-15
+Toys,397.79,25,298.34,Cash on Delivery,2024-02-15
+Electronics,207.02,30,144.91,UPI,2024-02-15
+Home & Kitchen,293.2,50,146.6,Net Banking,2024-02-16
+Sports,323.84,30,226.69,Debit Card,2024-02-16
+Beauty,418.98,15,356.13,Credit Card,2024-02-16
+Electronics,464.92,15,395.18,Cash on Delivery,2024-02-16
+Toys,169.52,0,169.52,Credit Card,2024-02-16
+Beauty,488.14,50,244.07,Debit Card,2024-02-16
+Sports,417.34,30,292.14,Debit Card,2024-02-17
+Sports,273.16,25,204.87,Debit Card,2024-02-17
+Clothing,460.83,30,322.58,Cash on Delivery,2024-02-17
+Books,119.63,15,101.69,UPI,2024-02-17
+Clothing,204.21,15,173.58,Net Banking,2024-02-17
+Clothing,379.55,15,322.62,Credit Card,2024-02-17
+Sports,400.48,5,380.46,Net Banking,2024-02-17
+Sports,420.22,0,420.22,Cash on Delivery,2024-02-17
+Sports,328.87,5,312.43,UPI,2024-02-17
+Sports,102.51,20,82.01,Cash on Delivery,2024-02-17
+Clothing,332.28,5,315.67,Cash on Delivery,2024-02-17
+Toys,197.33,20,157.86,Debit Card,2024-02-18
+Beauty,496.31,25,372.23,Cash on Delivery,2024-02-18
+Books,207.44,20,165.95,UPI,2024-02-18
+Clothing,332.57,0,332.57,Net Banking,2024-02-18
+Sports,197.79,30,138.45,UPI,2024-02-18
+Toys,231.78,15,197.01,Credit Card,2024-02-18
+Sports,41.11,25,30.83,Debit Card,2024-02-18
+Toys,150.05,0,150.05,Net Banking,2024-02-18
+Electronics,414.58,20,331.66,UPI,2024-02-18
+Toys,164.37,30,115.06,Net Banking,2024-02-18
+Toys,480.84,10,432.76,Debit Card,2024-02-18
+Books,461.93,25,346.45,Credit Card,2024-02-18
+Clothing,434.22,25,325.67,Debit Card,2024-02-18
+Books,159.05,30,111.34,Credit Card,2024-02-18
+Books,200.97,25,150.73,UPI,2024-02-19
+Books,33.8,30,23.66,UPI,2024-02-19
+Clothing,67.93,20,54.34,Debit Card,2024-02-19
+Electronics,438.61,30,307.03,UPI,2024-02-19
+Electronics,415.71,5,394.92,Cash on Delivery,2024-02-19
+Toys,221.76,0,221.76,Cash on Delivery,2024-02-19
+Home & Kitchen,100.72,30,70.5,Credit Card,2024-02-19
+Electronics,478.35,10,430.52,Debit Card,2024-02-19
+Home & Kitchen,267.6,20,214.08,Net Banking,2024-02-19
+Clothing,330.62,30,231.43,Net Banking,2024-02-19
+Clothing,327.53,0,327.53,UPI,2024-02-19
+Home & Kitchen,359.08,10,323.17,Credit Card,2024-02-20
+Beauty,313.73,30,219.61,UPI,2024-02-20
+Beauty,214.24,0,214.24,UPI,2024-02-20
+Home & Kitchen,68.81,25,51.61,Cash on Delivery,2024-02-20
+Clothing,138.51,15,117.73,Credit Card,2024-02-20
+Home & Kitchen,319.29,5,303.33,Credit Card,2024-02-20
+Electronics,470.9,10,423.81,UPI,2024-02-20
+Beauty,395.77,20,316.62,Debit Card,2024-02-20
+Electronics,145.56,50,72.78,Cash on Delivery,2024-02-20
+Clothing,395.04,20,316.03,Credit Card,2024-02-20
+Sports,183.4,5,174.23,Cash on Delivery,2024-02-20
+Clothing,159.01,30,111.31,Debit Card,2024-02-20
+Clothing,116.39,25,87.29,Net Banking,2024-02-20
+Electronics,81.41,5,77.34,Cash on Delivery,2024-02-20
+Clothing,483.9,15,411.31,UPI,2024-02-20
+Home & Kitchen,209.44,15,178.02,Credit Card,2024-02-21
+Toys,388.74,15,330.43,Net Banking,2024-02-21
+Clothing,50.79,25,38.09,Cash on Delivery,2024-02-21
+Beauty,18.83,20,15.06,Net Banking,2024-02-21
+Home & Kitchen,495.47,5,470.7,Cash on Delivery,2024-02-21
+Electronics,194.92,25,146.19,Net Banking,2024-02-21
+Books,171.63,50,85.81,Net Banking,2024-02-21
+Toys,253.16,50,126.58,UPI,2024-02-21
+Clothing,176.69,25,132.52,Net Banking,2024-02-21
+Sports,181.68,10,163.51,Debit Card,2024-02-21
+Clothing,86.11,30,60.28,Net Banking,2024-02-21
+Clothing,162.98,5,154.83,Net Banking,2024-02-21
+Toys,112.35,5,106.73,Credit Card,2024-02-22
+Beauty,417.57,50,208.78,UPI,2024-02-22
+Clothing,43.45,25,32.59,Net Banking,2024-02-22
+Beauty,317.02,0,317.02,Credit Card,2024-02-22
+Electronics,364.65,5,346.42,Credit Card,2024-02-22
+Books,420.46,5,399.44,Cash on Delivery,2024-02-22
+Electronics,315.17,0,315.17,Credit Card,2024-02-22
+Sports,468.35,15,398.1,UPI,2024-02-22
+Beauty,276.05,10,248.45,Cash on Delivery,2024-02-22
+Electronics,173.36,15,147.36,UPI,2024-02-22
+Books,404.26,0,404.26,UPI,2024-02-23
+Sports,413.43,5,392.76,Debit Card,2024-02-23
+Home & Kitchen,306.03,50,153.01,Cash on Delivery,2024-02-23
+Beauty,389.12,25,291.84,Net Banking,2024-02-23
+Home & Kitchen,327.39,15,278.28,Cash on Delivery,2024-02-23
+Beauty,101.29,15,86.1,UPI,2024-02-23
+Beauty,51.2,10,46.08,UPI,2024-02-23
+Clothing,141.16,5,134.1,Credit Card,2024-02-23
+Beauty,226.02,5,214.72,Net Banking,2024-02-23
+Electronics,359.46,50,179.73,Debit Card,2024-02-23
+Books,187.86,0,187.86,UPI,2024-02-24
+Books,61.7,5,58.62,UPI,2024-02-24
+Toys,338.65,30,237.05,Debit Card,2024-02-24
+Beauty,279.38,20,223.5,Net Banking,2024-02-24
+Beauty,200.58,5,190.55,Credit Card,2024-02-24
+Beauty,373.59,50,186.79,UPI,2024-02-24
+Sports,377.0,0,377.0,UPI,2024-02-24
+Electronics,281.5,20,225.2,Net Banking,2024-02-24
+Clothing,235.21,10,211.69,Debit Card,2024-02-24
+Home & Kitchen,67.85,15,57.67,Credit Card,2024-02-24
+Toys,204.49,5,194.27,Debit Card,2024-02-24
+Beauty,403.54,15,343.01,Debit Card,2024-02-25
+Books,259.47,15,220.55,Credit Card,2024-02-25
+Electronics,52.31,30,36.62,Net Banking,2024-02-25
+Toys,47.82,50,23.91,Debit Card,2024-02-25
+Clothing,408.9,30,286.23,Debit Card,2024-02-25
+Toys,52.16,10,46.94,Cash on Delivery,2024-02-25
+Electronics,203.99,20,163.19,Net Banking,2024-02-25
+Electronics,423.28,0,423.28,UPI,2024-02-25
+Home & Kitchen,70.44,25,52.83,Credit Card,2024-02-25
+Toys,397.97,15,338.27,Credit Card,2024-02-25
+Home & Kitchen,434.24,10,390.82,Cash on Delivery,2024-02-25
+Books,61.68,10,55.51,Cash on Delivery,2024-02-25
+Home & Kitchen,432.89,15,367.96,Credit Card,2024-02-25
+Home & Kitchen,467.03,0,467.03,Debit Card,2024-02-25
+Beauty,368.74,5,350.3,UPI,2024-02-26
+Toys,83.76,15,71.2,Debit Card,2024-02-26
+Toys,444.27,10,399.84,Cash on Delivery,2024-02-26
+Electronics,291.89,10,262.7,Credit Card,2024-02-26
+Beauty,308.57,10,277.71,Debit Card,2024-02-26
+Electronics,496.29,10,446.66,Cash on Delivery,2024-02-26
+Beauty,139.84,0,139.84,UPI,2024-02-26
+Sports,379.81,5,360.82,Credit Card,2024-02-26
+Clothing,324.41,50,162.21,UPI,2024-02-27
+Clothing,375.41,30,262.79,UPI,2024-02-27
+Clothing,198.3,30,138.81,UPI,2024-02-27
+Home & Kitchen,170.91,10,153.82,Debit Card,2024-02-27
+Clothing,125.65,10,113.09,UPI,2024-02-27
+Toys,333.36,10,300.02,Debit Card,2024-02-27
+Clothing,333.75,5,317.06,UPI,2024-02-27
+Sports,159.03,20,127.22,Cash on Delivery,2024-02-27
+Electronics,244.89,0,244.89,UPI,2024-02-27
+Clothing,302.29,10,272.06,Cash on Delivery,2024-02-27
+Clothing,222.11,50,111.06,Credit Card,2024-02-27
+Beauty,291.79,20,233.43,Net Banking,2024-02-27
+Home & Kitchen,74.43,15,63.27,Cash on Delivery,2024-02-27
+Beauty,371.81,50,185.91,Debit Card,2024-02-27
+Electronics,249.98,5,237.48,Cash on Delivery,2024-02-28
+Electronics,313.68,25,235.26,Credit Card,2024-02-28
+Books,266.65,15,226.65,Credit Card,2024-02-28
+Books,99.23,20,79.38,UPI,2024-02-28
+Beauty,448.57,20,358.86,Credit Card,2024-02-28
+Electronics,12.81,0,12.81,UPI,2024-02-28
+Books,264.45,5,251.23,Debit Card,2024-02-28
+Sports,276.08,25,207.06,Net Banking,2024-02-28
+Toys,114.7,10,103.23,Net Banking,2024-02-28
+Books,404.19,15,343.56,Net Banking,2024-02-28
+Electronics,265.27,25,198.95,Credit Card,2024-02-28
+Books,191.29,25,143.47,Cash on Delivery,2024-02-28
+Home & Kitchen,275.42,10,247.88,Cash on Delivery,2024-02-28
+Books,46.81,20,37.45,Cash on Delivery,2024-02-29
+Electronics,384.61,0,384.61,UPI,2024-02-29
+Home & Kitchen,47.44,10,42.7,Net Banking,2024-02-29
+Beauty,456.22,5,433.41,Cash on Delivery,2024-02-29
+Beauty,327.94,30,229.56,Net Banking,2024-02-29
+Home & Kitchen,373.45,30,261.41,Credit Card,2024-02-29
+Toys,324.93,25,243.7,Cash on Delivery,2024-02-29
+Books,236.16,15,200.74,Net Banking,2024-02-29
+Books,74.67,30,52.27,Credit Card,2024-02-29
+Beauty,134.04,50,67.02,Cash on Delivery,2024-02-29
+Home & Kitchen,460.19,50,230.09,Net Banking,2024-02-29
+Toys,162.91,5,154.76,Credit Card,2024-02-29
+Beauty,161.34,0,161.34,UPI,2024-02-29
+Beauty,209.89,30,146.92,UPI,2024-02-29
+Clothing,496.95,25,372.71,Debit Card,2024-03-01
+Electronics,102.67,50,51.34,Net Banking,2024-03-01
+Clothing,130.8,25,98.1,Debit Card,2024-03-01
+Beauty,147.82,20,118.26,Debit Card,2024-03-01
+Home & Kitchen,255.72,5,242.93,Debit Card,2024-03-01
+Electronics,378.63,20,302.9,Credit Card,2024-03-01
+Home & Kitchen,149.93,30,104.95,Credit Card,2024-03-01
+Beauty,215.61,15,183.27,Credit Card,2024-03-01
+Books,80.69,0,80.69,Cash on Delivery,2024-03-01
+Clothing,312.28,15,265.44,Net Banking,2024-03-01
+Sports,168.21,0,168.21,Cash on Delivery,2024-03-01
+Toys,40.04,0,40.04,Credit Card,2024-03-01
+Home & Kitchen,341.68,10,307.51,Net Banking,2024-03-01
+Electronics,469.59,5,446.11,Net Banking,2024-03-02
+Home & Kitchen,402.85,15,342.42,Credit Card,2024-03-02
+Home & Kitchen,177.35,20,141.88,Credit Card,2024-03-02
+Books,334.79,25,251.09,UPI,2024-03-02
+Sports,282.62,0,282.62,Credit Card,2024-03-02
+Electronics,431.46,10,388.31,Debit Card,2024-03-02
+Home & Kitchen,164.41,20,131.53,Net Banking,2024-03-02
+Sports,384.6,5,365.37,UPI,2024-03-02
+Clothing,326.52,10,293.87,Cash on Delivery,2024-03-02
+Books,58.82,5,55.88,Net Banking,2024-03-03
+Sports,375.0,20,300.0,UPI,2024-03-03
+Toys,136.24,0,136.24,Net Banking,2024-03-03
+Toys,491.44,50,245.72,UPI,2024-03-03
+Books,279.07,10,251.16,Debit Card,2024-03-03
+Clothing,298.79,15,253.97,Debit Card,2024-03-03
+Electronics,163.54,25,122.66,Debit Card,2024-03-03
+Books,312.88,50,156.44,Debit Card,2024-03-03
+Beauty,56.34,10,50.71,Credit Card,2024-03-04
+Home & Kitchen,432.11,10,388.9,Credit Card,2024-03-04
+Beauty,34.79,20,27.83,Debit Card,2024-03-04
+Sports,166.63,30,116.64,Debit Card,2024-03-04
+Beauty,383.36,0,383.36,UPI,2024-03-04
+Electronics,298.26,20,238.61,Debit Card,2024-03-04
+Toys,83.48,50,41.74,Net Banking,2024-03-04
+Sports,420.31,50,210.16,Debit Card,2024-03-04
+Electronics,140.84,25,105.63,UPI,2024-03-04
+Books,168.18,0,168.18,UPI,2024-03-04
+Books,247.08,20,197.66,Debit Card,2024-03-04
+Books,12.56,20,10.05,UPI,2024-03-05
+Books,464.22,20,371.38,Cash on Delivery,2024-03-05
+Clothing,29.8,10,26.82,Debit Card,2024-03-05
+Sports,431.38,0,431.38,Debit Card,2024-03-05
+Books,264.77,10,238.29,Credit Card,2024-03-05
+Sports,233.66,20,186.93,Cash on Delivery,2024-03-05
+Books,179.09,50,89.55,Debit Card,2024-03-05
+Toys,186.5,50,93.25,Credit Card,2024-03-05
+Clothing,343.71,50,171.85,Cash on Delivery,2024-03-05
+Electronics,334.97,30,234.48,Debit Card,2024-03-05
+Clothing,424.68,15,360.98,Cash on Delivery,2024-03-05
+Home & Kitchen,415.54,10,373.99,Cash on Delivery,2024-03-05
+Toys,94.31,15,80.16,UPI,2024-03-05
+Toys,174.34,25,130.75,Cash on Delivery,2024-03-06
+Toys,204.56,0,204.56,UPI,2024-03-06
+Beauty,459.93,15,390.94,Cash on Delivery,2024-03-06
+Home & Kitchen,169.53,50,84.77,Credit Card,2024-03-06
+Clothing,341.83,5,324.74,Debit Card,2024-03-06
+Home & Kitchen,254.57,50,127.28,UPI,2024-03-06
+Beauty,394.35,15,335.2,Net Banking,2024-03-06
+Clothing,337.11,50,168.56,Debit Card,2024-03-07
+Toys,117.18,10,105.46,Debit Card,2024-03-07
+Sports,475.29,25,356.47,Cash on Delivery,2024-03-07
+Clothing,412.92,50,206.46,Cash on Delivery,2024-03-07
+Clothing,334.28,30,234.0,Credit Card,2024-03-07
+Toys,413.31,30,289.32,Net Banking,2024-03-07
+Clothing,379.29,5,360.33,Net Banking,2024-03-07
+Electronics,306.97,20,245.58,Credit Card,2024-03-07
+Clothing,30.49,20,24.39,Cash on Delivery,2024-03-07
+Electronics,265.67,50,132.84,Net Banking,2024-03-07
+Sports,392.04,20,313.63,Cash on Delivery,2024-03-08
+Electronics,384.71,10,346.24,UPI,2024-03-08
+Home & Kitchen,140.0,5,133.0,UPI,2024-03-08
+Home & Kitchen,287.69,10,258.92,Credit Card,2024-03-08
+Home & Kitchen,390.3,20,312.24,Credit Card,2024-03-08
+Electronics,192.73,25,144.55,Net Banking,2024-03-08
+Books,117.37,0,117.37,Net Banking,2024-03-08
+Toys,482.74,20,386.19,Cash on Delivery,2024-03-08
+Sports,26.95,20,21.56,Debit Card,2024-03-08
+Home & Kitchen,357.41,25,268.06,Credit Card,2024-03-08
+Books,189.84,20,151.87,Credit Card,2024-03-08
+Sports,30.28,30,21.2,Credit Card,2024-03-09
+Sports,394.12,25,295.59,Credit Card,2024-03-09
+Clothing,463.55,15,394.02,Credit Card,2024-03-09
+Electronics,34.13,50,17.07,Cash on Delivery,2024-03-09
+Electronics,42.08,25,31.56,Cash on Delivery,2024-03-09
+Sports,336.05,30,235.23,UPI,2024-03-09
+Clothing,67.34,5,63.97,Credit Card,2024-03-09
+Home & Kitchen,478.62,5,454.69,Cash on Delivery,2024-03-09
+Toys,130.6,0,130.6,UPI,2024-03-09
+Electronics,334.67,50,167.34,Net Banking,2024-03-09
+Home & Kitchen,487.28,10,438.55,Credit Card,2024-03-09
+Toys,276.12,20,220.9,Net Banking,2024-03-09
+Sports,198.38,25,148.78,Credit Card,2024-03-09
+Books,444.87,30,311.41,Credit Card,2024-03-09
+Sports,343.43,25,257.57,Credit Card,2024-03-10
+Clothing,472.19,0,472.19,Debit Card,2024-03-10
+Clothing,101.4,5,96.33,UPI,2024-03-10
+Electronics,496.76,5,471.92,Cash on Delivery,2024-03-10
+Books,490.71,5,466.17,Debit Card,2024-03-10
+Electronics,228.99,5,217.54,Net Banking,2024-03-10
+Beauty,46.99,25,35.24,UPI,2024-03-10
+Clothing,311.9,0,311.9,UPI,2024-03-10
+Beauty,166.1,5,157.79,UPI,2024-03-10
+Books,268.42,5,255.0,Credit Card,2024-03-10
+Books,15.04,25,11.28,Net Banking,2024-03-10
+Toys,16.7,50,8.35,Cash on Delivery,2024-03-10
+Beauty,70.75,30,49.52,UPI,2024-03-10
+Toys,105.1,25,78.82,Net Banking,2024-03-10
+Home & Kitchen,164.7,10,148.23,Credit Card,2024-03-10
+Books,221.6,20,177.28,Credit Card,2024-03-10
+Home & Kitchen,32.71,50,16.36,UPI,2024-03-10
+Sports,100.84,20,80.67,Cash on Delivery,2024-03-10
+Beauty,338.0,0,338.0,Net Banking,2024-03-10
+Toys,399.06,5,379.11,Debit Card,2024-03-10
+Sports,183.1,5,173.94,Debit Card,2024-03-11
+Sports,166.78,20,133.42,Cash on Delivery,2024-03-11
+Clothing,53.79,5,51.1,Credit Card,2024-03-11
+Toys,56.78,10,51.1,UPI,2024-03-11
+Books,376.89,30,263.82,Cash on Delivery,2024-03-11
+Toys,365.33,5,347.06,Credit Card,2024-03-11
+Sports,259.28,5,246.32,Net Banking,2024-03-11
+Beauty,310.58,20,248.46,Net Banking,2024-03-11
+Home & Kitchen,373.51,5,354.83,Net Banking,2024-03-11
+Electronics,182.15,20,145.72,Cash on Delivery,2024-03-11
+Home & Kitchen,349.16,15,296.79,Credit Card,2024-03-11
+Clothing,40.87,15,34.74,Net Banking,2024-03-11
+Electronics,308.09,0,308.09,Credit Card,2024-03-11
+Electronics,93.08,20,74.46,Net Banking,2024-03-11
+Beauty,169.83,50,84.92,Credit Card,2024-03-11
+Home & Kitchen,153.01,10,137.71,Net Banking,2024-03-12
+Electronics,203.54,25,152.66,UPI,2024-03-12
+Electronics,255.81,50,127.91,Credit Card,2024-03-12
+Books,176.6,0,176.6,Credit Card,2024-03-12
+Clothing,203.19,20,162.55,UPI,2024-03-12
+Electronics,33.88,10,30.49,Credit Card,2024-03-12
+Sports,208.52,15,177.24,UPI,2024-03-12
+Sports,56.69,25,42.52,UPI,2024-03-12
+Electronics,314.34,50,157.17,Credit Card,2024-03-12
+Toys,214.85,25,161.14,Credit Card,2024-03-12
+Toys,499.0,50,249.5,Net Banking,2024-03-12
+Toys,84.09,5,79.89,UPI,2024-03-13
+Toys,222.78,15,189.36,Cash on Delivery,2024-03-13
+Toys,328.06,0,328.06,Credit Card,2024-03-13
+Toys,112.69,15,95.79,Credit Card,2024-03-13
+Clothing,425.7,20,340.56,Debit Card,2024-03-13
+Beauty,493.7,20,394.96,Cash on Delivery,2024-03-13
+Electronics,42.89,30,30.02,Cash on Delivery,2024-03-13
+Home & Kitchen,279.24,50,139.62,Credit Card,2024-03-13
+Home & Kitchen,479.55,50,239.78,Net Banking,2024-03-13
+Beauty,35.47,25,26.6,Cash on Delivery,2024-03-13
+Sports,385.34,20,308.27,UPI,2024-03-14
+Beauty,458.94,0,458.94,UPI,2024-03-14
+Books,44.04,15,37.43,Debit Card,2024-03-14
+Clothing,405.44,15,344.62,UPI,2024-03-14
+Books,220.76,15,187.65,Cash on Delivery,2024-03-14
+Toys,373.65,0,373.65,UPI,2024-03-14
+Clothing,217.51,30,152.26,Cash on Delivery,2024-03-14
+Beauty,33.21,20,26.57,Net Banking,2024-03-14
+Toys,145.56,0,145.56,Debit Card,2024-03-14
+Sports,17.03,25,12.77,Debit Card,2024-03-14
+Toys,71.25,0,71.25,UPI,2024-03-14
+Beauty,31.93,15,27.14,Net Banking,2024-03-14
+Toys,442.08,50,221.04,Credit Card,2024-03-14
+Clothing,22.12,50,11.06,Debit Card,2024-03-15
+Sports,320.09,0,320.09,UPI,2024-03-15
+Books,400.63,30,280.44,UPI,2024-03-15
+Sports,42.18,30,29.53,Debit Card,2024-03-15
+Electronics,16.08,30,11.26,Credit Card,2024-03-15
+Beauty,428.47,0,428.47,Credit Card,2024-03-15
+Home & Kitchen,463.6,25,347.7,Credit Card,2024-03-16
+Electronics,358.47,50,179.24,UPI,2024-03-16
+Sports,212.6,0,212.6,UPI,2024-03-16
+Clothing,357.91,10,322.12,Credit Card,2024-03-16
+Sports,50.88,15,43.25,UPI,2024-03-16
+Sports,193.51,20,154.81,Credit Card,2024-03-16
+Toys,176.73,30,123.71,Net Banking,2024-03-16
+Electronics,46.25,15,39.31,Net Banking,2024-03-17
+Books,79.07,30,55.35,Net Banking,2024-03-17
+Books,318.15,10,286.33,Credit Card,2024-03-17
+Home & Kitchen,169.15,0,169.15,Debit Card,2024-03-17
+Sports,261.0,10,234.9,UPI,2024-03-17
+Clothing,96.34,20,77.07,Credit Card,2024-03-17
+Clothing,245.22,50,122.61,Net Banking,2024-03-17
+Sports,493.04,0,493.04,Net Banking,2024-03-17
+Sports,28.12,0,28.12,Credit Card,2024-03-17
+Sports,495.55,5,470.77,UPI,2024-03-17
+Books,20.86,5,19.82,Debit Card,2024-03-18
+Clothing,49.72,10,44.75,Net Banking,2024-03-18
+Home & Kitchen,147.46,30,103.22,UPI,2024-03-18
+Clothing,408.64,25,306.48,Cash on Delivery,2024-03-18
+Toys,262.8,0,262.8,Credit Card,2024-03-18
+Books,286.37,25,214.78,Debit Card,2024-03-18
+Beauty,407.12,20,325.7,Net Banking,2024-03-18
+Books,187.36,5,177.99,Net Banking,2024-03-18
+Electronics,390.22,10,351.2,Credit Card,2024-03-19
+Toys,228.46,5,217.04,Debit Card,2024-03-19
+Clothing,323.74,10,291.37,Debit Card,2024-03-19
+Electronics,201.3,5,191.24,Net Banking,2024-03-19
+Electronics,274.22,25,205.67,Net Banking,2024-03-19
+Books,218.44,25,163.83,UPI,2024-03-19
+Electronics,34.09,20,27.27,Debit Card,2024-03-19
+Sports,264.46,20,211.57,Debit Card,2024-03-19
+Sports,433.2,15,368.22,Credit Card,2024-03-19
+Beauty,340.4,10,306.36,Credit Card,2024-03-19
+Beauty,442.41,15,376.05,Debit Card,2024-03-19
+Home & Kitchen,11.14,15,9.47,Credit Card,2024-03-19
+Clothing,310.93,15,264.29,Net Banking,2024-03-19
+Electronics,382.07,0,382.07,Credit Card,2024-03-19
+Clothing,425.83,10,383.25,Net Banking,2024-03-19
+Clothing,92.61,50,46.3,UPI,2024-03-19
+Clothing,180.06,5,171.06,Debit Card,2024-03-20
+Clothing,76.16,25,57.12,Cash on Delivery,2024-03-20
+Sports,109.76,20,87.81,Debit Card,2024-03-20
+Books,468.31,30,327.82,Debit Card,2024-03-20
+Sports,89.42,5,84.95,Debit Card,2024-03-20
+Beauty,368.62,25,276.47,Debit Card,2024-03-20
+Beauty,219.61,15,186.67,Net Banking,2024-03-20
+Beauty,40.78,50,20.39,Cash on Delivery,2024-03-20
+Home & Kitchen,355.35,5,337.58,Debit Card,2024-03-20
+Electronics,199.16,15,169.29,Debit Card,2024-03-20
+Home & Kitchen,450.17,0,450.17,Credit Card,2024-03-21
+Home & Kitchen,95.3,15,81.0,Net Banking,2024-03-21
+Books,282.59,25,211.94,Net Banking,2024-03-21
+Beauty,72.64,20,58.11,UPI,2024-03-21
+Sports,463.2,10,416.88,Credit Card,2024-03-21
+Toys,196.34,5,186.52,Net Banking,2024-03-21
+Sports,76.89,15,65.36,Debit Card,2024-03-21
+Sports,60.63,25,45.47,UPI,2024-03-21
+Home & Kitchen,313.5,10,282.15,Net Banking,2024-03-21
+Clothing,375.03,25,281.27,Debit Card,2024-03-21
+Clothing,170.46,10,153.41,Cash on Delivery,2024-03-21
+Home & Kitchen,318.69,25,239.02,Cash on Delivery,2024-03-21
+Toys,381.45,15,324.23,Cash on Delivery,2024-03-21
+Electronics,402.29,20,321.83,Net Banking,2024-03-21
+Clothing,421.76,50,210.88,Credit Card,2024-03-21
+Books,25.9,10,23.31,Net Banking,2024-03-21
+Clothing,15.38,50,7.69,Debit Card,2024-03-21
+Clothing,432.35,15,367.5,Cash on Delivery,2024-03-22
+Beauty,208.23,50,104.11,Debit Card,2024-03-22
+Books,444.98,0,444.98,Cash on Delivery,2024-03-22
+Books,366.79,20,293.43,Cash on Delivery,2024-03-22
+Electronics,166.34,5,158.02,Credit Card,2024-03-22
+Beauty,76.11,50,38.05,Debit Card,2024-03-22
+Beauty,419.33,20,335.46,Net Banking,2024-03-22
+Toys,356.78,20,285.42,Debit Card,2024-03-22
+Toys,433.77,15,368.7,Net Banking,2024-03-23
+Toys,12.1,20,9.68,UPI,2024-03-23
+Clothing,124.79,20,99.83,Cash on Delivery,2024-03-23
+Books,390.58,5,371.05,Debit Card,2024-03-23
+Beauty,271.74,30,190.22,Cash on Delivery,2024-03-23
+Toys,452.36,5,429.74,Net Banking,2024-03-23
+Books,418.67,50,209.34,Cash on Delivery,2024-03-23
+Clothing,94.33,10,84.9,Net Banking,2024-03-23
+Beauty,323.13,30,226.19,Cash on Delivery,2024-03-23
+Clothing,226.03,20,180.82,Net Banking,2024-03-23
+Clothing,64.64,50,32.32,Cash on Delivery,2024-03-23
+Books,151.72,5,144.13,Credit Card,2024-03-23
+Beauty,252.94,30,177.06,Net Banking,2024-03-24
+Beauty,218.86,10,196.97,Cash on Delivery,2024-03-24
+Home & Kitchen,488.06,15,414.85,Net Banking,2024-03-24
+Electronics,186.37,20,149.1,Cash on Delivery,2024-03-24
+Home & Kitchen,406.06,50,203.03,UPI,2024-03-24
+Home & Kitchen,216.55,20,173.24,Credit Card,2024-03-24
+Books,107.73,10,96.96,Net Banking,2024-03-24
+Clothing,308.6,10,277.74,Cash on Delivery,2024-03-24
+Clothing,390.11,0,390.11,Net Banking,2024-03-24
+Clothing,449.47,30,314.63,Debit Card,2024-03-24
+Beauty,352.66,5,335.03,Credit Card,2024-03-25
+Electronics,33.25,5,31.59,Debit Card,2024-03-25
+Sports,315.8,0,315.8,Debit Card,2024-03-25
+Home & Kitchen,333.61,10,300.25,Debit Card,2024-03-25
+Clothing,217.91,10,196.12,Credit Card,2024-03-25
+Electronics,219.64,5,208.66,Cash on Delivery,2024-03-25
+Home & Kitchen,59.16,20,47.33,Cash on Delivery,2024-03-25
+Toys,140.68,10,126.61,Debit Card,2024-03-25
+Books,215.34,5,204.57,Credit Card,2024-03-25
+Beauty,29.46,30,20.62,Debit Card,2024-03-26
+Sports,358.92,30,251.24,Cash on Delivery,2024-03-26
+Electronics,11.6,0,11.6,Net Banking,2024-03-26
+Sports,398.36,0,398.36,Debit Card,2024-03-26
+Sports,360.74,5,342.7,UPI,2024-03-26
+Books,147.43,15,125.32,Net Banking,2024-03-26
+Beauty,497.52,50,248.76,UPI,2024-03-26
+Beauty,496.92,15,422.38,Cash on Delivery,2024-03-26
+Toys,284.88,30,199.42,Credit Card,2024-03-27
+Toys,26.81,50,13.4,Net Banking,2024-03-27
+Electronics,216.18,30,151.33,Credit Card,2024-03-27
+Clothing,180.07,25,135.05,Net Banking,2024-03-27
+Clothing,470.39,30,329.27,Net Banking,2024-03-27
+Beauty,345.49,25,259.12,UPI,2024-03-27
+Beauty,49.99,20,39.99,Debit Card,2024-03-27
+Beauty,367.33,50,183.66,Debit Card,2024-03-27
+Sports,377.17,20,301.74,Net Banking,2024-03-28
+Sports,83.78,15,71.21,Credit Card,2024-03-28
+Electronics,98.61,0,98.61,Net Banking,2024-03-28
+Beauty,464.54,10,418.09,Cash on Delivery,2024-03-28
+Home & Kitchen,133.2,20,106.56,UPI,2024-03-28
+Home & Kitchen,394.76,25,296.07,Net Banking,2024-03-28
+Home & Kitchen,220.92,5,209.87,UPI,2024-03-28
+Electronics,32.18,50,16.09,Cash on Delivery,2024-03-28
+Clothing,441.72,0,441.72,UPI,2024-03-28
+Beauty,111.14,0,111.14,Cash on Delivery,2024-03-28
+Toys,47.54,10,42.79,Credit Card,2024-03-28
+Beauty,339.34,0,339.34,UPI,2024-03-28
+Sports,483.34,5,459.17,UPI,2024-03-28
+Sports,150.85,10,135.76,Credit Card,2024-03-28
+Toys,76.91,5,73.06,Credit Card,2024-03-28
+Books,324.65,25,243.49,Cash on Delivery,2024-03-28
+Clothing,191.05,50,95.53,UPI,2024-03-28
+Sports,145.89,15,124.01,Credit Card,2024-03-29
+Home & Kitchen,472.77,20,378.22,Cash on Delivery,2024-03-29
+Beauty,451.22,5,428.66,Net Banking,2024-03-29
+Toys,161.07,10,144.96,UPI,2024-03-29
+Sports,426.82,20,341.46,Credit Card,2024-03-29
+Sports,331.06,20,264.85,Net Banking,2024-03-29
+Beauty,353.92,20,283.14,Cash on Delivery,2024-03-29
+Electronics,53.34,15,45.34,Cash on Delivery,2024-03-29
+Sports,307.9,15,261.71,Debit Card,2024-03-29
+Clothing,220.71,10,198.64,Net Banking,2024-03-29
+Electronics,410.02,30,287.01,Net Banking,2024-03-29
+Clothing,378.27,0,378.27,Cash on Delivery,2024-03-29
+Beauty,55.84,0,55.84,Cash on Delivery,2024-03-29
+Home & Kitchen,223.13,5,211.97,UPI,2024-03-29
+Toys,70.94,25,53.2,UPI,2024-03-29
+Books,59.97,0,59.97,Credit Card,2024-03-29
+Beauty,117.78,25,88.34,Debit Card,2024-03-29
+Clothing,70.29,50,35.15,Net Banking,2024-03-29
+Sports,455.94,30,319.16,Net Banking,2024-03-29
+Beauty,343.3,30,240.31,Net Banking,2024-03-30
+Home & Kitchen,170.31,20,136.25,Net Banking,2024-03-30
+Electronics,437.53,15,371.9,Debit Card,2024-03-30
+Beauty,175.16,5,166.4,Cash on Delivery,2024-03-30
+Toys,103.58,30,72.51,Credit Card,2024-03-30
+Home & Kitchen,242.71,50,121.36,UPI,2024-03-30
+Toys,461.12,50,230.56,Credit Card,2024-03-30
+Clothing,257.48,15,218.86,UPI,2024-03-30
+Beauty,407.75,25,305.81,Net Banking,2024-03-30
+Toys,342.06,15,290.75,Debit Card,2024-03-30
+Books,391.14,15,332.47,Debit Card,2024-03-30
+Sports,337.7,10,303.93,UPI,2024-03-30
+Clothing,94.64,30,66.25,Credit Card,2024-03-31
+Toys,146.22,50,73.11,Debit Card,2024-03-31
+Beauty,268.63,15,228.34,UPI,2024-03-31
+Books,213.68,15,181.63,UPI,2024-03-31
+Clothing,200.63,5,190.6,Cash on Delivery,2024-03-31
+Beauty,13.43,10,12.09,Credit Card,2024-03-31
+Clothing,152.19,15,129.36,Credit Card,2024-03-31
+Sports,140.52,30,98.36,Cash on Delivery,2024-03-31
+Beauty,142.61,10,128.35,Credit Card,2024-03-31
+Clothing,320.44,0,320.44,Credit Card,2024-03-31
+Toys,100.64,15,85.54,Cash on Delivery,2024-03-31
+Beauty,236.31,20,189.05,Net Banking,2024-03-31
+Electronics,130.6,10,117.54,Debit Card,2024-03-31
+Home & Kitchen,361.04,0,361.04,Debit Card,2024-04-01
+Home & Kitchen,343.77,30,240.64,Net Banking,2024-04-01
+Toys,173.19,25,129.89,UPI,2024-04-01
+Toys,440.27,20,352.22,Cash on Delivery,2024-04-01
+Beauty,83.58,20,66.86,Net Banking,2024-04-01
+Toys,222.65,20,178.12,Cash on Delivery,2024-04-01
+Toys,389.7,10,350.73,Cash on Delivery,2024-04-01
+Books,380.81,20,304.65,Credit Card,2024-04-01
+Toys,56.77,10,51.09,Debit Card,2024-04-01
+Beauty,417.94,0,417.94,Cash on Delivery,2024-04-02
+Clothing,394.16,0,394.16,UPI,2024-04-02
+Electronics,225.4,15,191.59,Debit Card,2024-04-02
+Clothing,331.21,30,231.85,Credit Card,2024-04-02
+Home & Kitchen,375.73,25,281.8,UPI,2024-04-02
+Electronics,207.86,10,187.07,Credit Card,2024-04-02
+Home & Kitchen,258.78,15,219.96,Net Banking,2024-04-02
+Clothing,92.92,10,83.63,Credit Card,2024-04-02
+Clothing,428.53,15,364.25,Net Banking,2024-04-02
+Toys,152.43,20,121.94,Debit Card,2024-04-02
+Electronics,24.9,10,22.41,UPI,2024-04-02
+Sports,473.96,25,355.47,UPI,2024-04-03
+Sports,439.4,10,395.46,Cash on Delivery,2024-04-03
+Home & Kitchen,286.5,10,257.85,Debit Card,2024-04-03
+Home & Kitchen,414.08,20,331.26,Net Banking,2024-04-03
+Toys,430.8,50,215.4,UPI,2024-04-03
+Toys,168.52,5,160.09,Net Banking,2024-04-03
+Sports,209.44,30,146.61,UPI,2024-04-03
+Beauty,31.89,25,23.92,UPI,2024-04-03
+Clothing,385.62,25,289.22,Net Banking,2024-04-03
+Toys,316.26,0,316.26,Debit Card,2024-04-04
+Home & Kitchen,258.67,25,194.0,Debit Card,2024-04-04
+Sports,18.99,5,18.04,Debit Card,2024-04-04
+Electronics,265.71,25,199.28,Net Banking,2024-04-04
+Sports,237.77,20,190.22,Credit Card,2024-04-04
+Electronics,187.93,20,150.34,Credit Card,2024-04-04
+Toys,230.0,25,172.5,Credit Card,2024-04-04
+Toys,323.34,30,226.34,Net Banking,2024-04-04
+Books,15.79,15,13.42,Cash on Delivery,2024-04-04
+Electronics,107.61,25,80.71,UPI,2024-04-04
+Clothing,278.52,50,139.26,Debit Card,2024-04-04
+Toys,435.6,50,217.8,Net Banking,2024-04-04
+Home & Kitchen,190.17,0,190.17,Debit Card,2024-04-04
+Clothing,118.28,15,100.54,Debit Card,2024-04-04
+Clothing,473.74,15,402.68,Credit Card,2024-04-05
+Clothing,437.91,5,416.01,Credit Card,2024-04-05
+Electronics,426.13,20,340.9,Credit Card,2024-04-05
+Clothing,259.42,20,207.54,Cash on Delivery,2024-04-05
+Sports,357.62,50,178.81,Debit Card,2024-04-05
+Sports,375.79,30,263.05,Cash on Delivery,2024-04-05
+Beauty,21.3,5,20.23,Net Banking,2024-04-05
+Electronics,398.25,15,338.51,Net Banking,2024-04-05
+Electronics,254.31,0,254.31,UPI,2024-04-05
+Clothing,368.17,50,184.09,Debit Card,2024-04-05
+Home & Kitchen,16.56,25,12.42,Credit Card,2024-04-05
+Home & Kitchen,453.53,20,362.82,Debit Card,2024-04-05
+Books,64.99,15,55.24,Debit Card,2024-04-05
+Clothing,119.22,20,95.38,Net Banking,2024-04-05
+Home & Kitchen,110.52,10,99.47,Cash on Delivery,2024-04-05
+Electronics,458.08,10,412.27,UPI,2024-04-06
+Books,70.29,25,52.72,Net Banking,2024-04-06
+Toys,94.21,25,70.66,Net Banking,2024-04-06
+Beauty,269.81,5,256.32,Debit Card,2024-04-06
+Home & Kitchen,463.05,15,393.59,Debit Card,2024-04-06
+Clothing,276.84,30,193.79,UPI,2024-04-06
+Beauty,210.68,30,147.48,UPI,2024-04-06
+Beauty,60.84,10,54.76,Credit Card,2024-04-06
+Electronics,252.82,5,240.18,Debit Card,2024-04-06
+Sports,482.4,50,241.2,Debit Card,2024-04-07
+Home & Kitchen,430.5,5,408.97,Net Banking,2024-04-07
+Home & Kitchen,51.82,0,51.82,Cash on Delivery,2024-04-07
+Sports,171.96,20,137.57,Cash on Delivery,2024-04-07
+Beauty,454.48,0,454.48,Cash on Delivery,2024-04-07
+Books,448.26,30,313.78,Debit Card,2024-04-07
+Sports,396.49,0,396.49,Credit Card,2024-04-07
+Clothing,61.37,5,58.3,Credit Card,2024-04-07
+Beauty,180.91,10,162.82,Credit Card,2024-04-07
+Sports,336.97,0,336.97,Cash on Delivery,2024-04-07
+Sports,470.63,30,329.44,UPI,2024-04-07
+Clothing,419.52,25,314.64,Cash on Delivery,2024-04-07
+Beauty,37.67,25,28.25,UPI,2024-04-07
+Books,121.91,5,115.81,Cash on Delivery,2024-04-08
+Home & Kitchen,114.99,5,109.24,Credit Card,2024-04-08
+Clothing,188.19,50,94.09,UPI,2024-04-08
+Clothing,213.66,20,170.93,Net Banking,2024-04-08
+Toys,341.06,10,306.95,Cash on Delivery,2024-04-08
+Sports,250.31,50,125.16,Credit Card,2024-04-08
+Toys,271.62,20,217.3,Cash on Delivery,2024-04-08
+Books,36.34,50,18.17,Cash on Delivery,2024-04-08
+Clothing,231.04,10,207.94,Net Banking,2024-04-08
+Toys,227.48,0,227.48,Debit Card,2024-04-08
+Sports,302.08,25,226.56,UPI,2024-04-08
+Sports,439.88,5,417.89,Credit Card,2024-04-08
+Home & Kitchen,230.47,0,230.47,Cash on Delivery,2024-04-08
+Beauty,85.67,30,59.97,Debit Card,2024-04-09
+Beauty,464.83,50,232.41,Net Banking,2024-04-09
+Electronics,68.94,30,48.26,Net Banking,2024-04-09
+Home & Kitchen,430.85,20,344.68,UPI,2024-04-09
+Books,274.57,10,247.11,Net Banking,2024-04-09
+Beauty,182.13,50,91.06,UPI,2024-04-09
+Electronics,27.16,10,24.44,Net Banking,2024-04-09
+Books,56.11,20,44.89,UPI,2024-04-09
+Electronics,122.81,20,98.25,Net Banking,2024-04-09
+Beauty,25.36,25,19.02,Debit Card,2024-04-09
+Electronics,419.81,15,356.84,Credit Card,2024-04-09
+Electronics,230.19,25,172.64,Debit Card,2024-04-10
+Sports,39.82,5,37.83,Net Banking,2024-04-10
+Clothing,335.27,5,318.51,Credit Card,2024-04-10
+Sports,479.26,10,431.33,Cash on Delivery,2024-04-10
+Clothing,241.58,30,169.11,UPI,2024-04-10
+Books,498.59,10,448.73,UPI,2024-04-10
+Sports,71.33,20,57.06,Cash on Delivery,2024-04-10
+Clothing,287.09,20,229.67,Debit Card,2024-04-10
+Beauty,111.4,25,83.55,Credit Card,2024-04-10
+Books,265.32,20,212.26,Credit Card,2024-04-10
+Clothing,117.23,0,117.23,UPI,2024-04-11
+Home & Kitchen,171.02,5,162.47,Credit Card,2024-04-11
+Sports,89.61,20,71.69,Credit Card,2024-04-11
+Books,118.52,5,112.59,Net Banking,2024-04-11
+Toys,276.2,5,262.39,Net Banking,2024-04-11
+Home & Kitchen,106.34,20,85.07,UPI,2024-04-11
+Sports,330.56,15,280.98,Net Banking,2024-04-11
+Sports,122.58,20,98.06,Cash on Delivery,2024-04-11
+Sports,96.31,5,91.49,Debit Card,2024-04-11
+Sports,346.81,15,294.79,Cash on Delivery,2024-04-11
+Clothing,190.47,20,152.38,UPI,2024-04-11
+Clothing,400.84,10,360.76,Credit Card,2024-04-12
+Books,479.63,0,479.63,UPI,2024-04-12
+Home & Kitchen,343.88,5,326.69,Cash on Delivery,2024-04-12
+Books,245.53,0,245.53,UPI,2024-04-12
+Electronics,318.83,20,255.06,Net Banking,2024-04-12
+Sports,10.33,0,10.33,Cash on Delivery,2024-04-12
+Beauty,470.33,0,470.33,Credit Card,2024-04-12
+Clothing,221.16,30,154.81,Cash on Delivery,2024-04-12
+Books,167.77,30,117.44,Net Banking,2024-04-12
+Home & Kitchen,464.26,30,324.98,Cash on Delivery,2024-04-12
+Electronics,59.56,25,44.67,Cash on Delivery,2024-04-12
+Clothing,154.02,30,107.81,Debit Card,2024-04-12
+Toys,72.75,20,58.2,Debit Card,2024-04-12
+Home & Kitchen,290.14,15,246.62,Credit Card,2024-04-13
+Books,11.83,5,11.24,UPI,2024-04-13
+Home & Kitchen,208.82,0,208.82,Cash on Delivery,2024-04-13
+Home & Kitchen,109.89,15,93.41,UPI,2024-04-13
+Sports,383.4,50,191.7,Net Banking,2024-04-13
+Clothing,488.6,25,366.45,Cash on Delivery,2024-04-13
+Toys,251.47,25,188.6,Net Banking,2024-04-13
+Beauty,284.31,30,199.02,UPI,2024-04-13
+Books,161.32,0,161.32,Credit Card,2024-04-14
+Beauty,473.47,5,449.8,Net Banking,2024-04-14
+Home & Kitchen,235.77,30,165.04,UPI,2024-04-14
+Home & Kitchen,325.63,50,162.81,Debit Card,2024-04-14
+Beauty,248.95,15,211.61,Debit Card,2024-04-14
+Toys,375.59,30,262.91,Net Banking,2024-04-14
+Books,124.53,30,87.17,Net Banking,2024-04-14
+Electronics,250.19,20,200.15,Debit Card,2024-04-14
+Clothing,142.25,15,120.91,UPI,2024-04-14
+Sports,308.9,30,216.23,Cash on Delivery,2024-04-14
+Sports,487.54,50,243.77,Net Banking,2024-04-14
+Sports,476.73,20,381.38,Credit Card,2024-04-14
+Home & Kitchen,10.82,25,8.12,Cash on Delivery,2024-04-14
+Home & Kitchen,214.45,0,214.45,Credit Card,2024-04-14
+Clothing,282.5,5,268.38,Cash on Delivery,2024-04-14
+Home & Kitchen,279.35,5,265.38,Cash on Delivery,2024-04-15
+Clothing,166.33,50,83.17,Cash on Delivery,2024-04-15
+Home & Kitchen,276.95,20,221.56,Credit Card,2024-04-15
+Beauty,266.23,30,186.36,UPI,2024-04-15
+Sports,378.49,30,264.94,UPI,2024-04-15
+Clothing,289.27,15,245.88,Cash on Delivery,2024-04-15
+Sports,489.79,50,244.9,Cash on Delivery,2024-04-15
+Sports,374.81,50,187.41,Credit Card,2024-04-15
+Home & Kitchen,330.53,50,165.26,Cash on Delivery,2024-04-15
+Home & Kitchen,298.05,5,283.15,Credit Card,2024-04-15
+Books,386.32,10,347.69,UPI,2024-04-16
+Sports,428.42,30,299.89,Cash on Delivery,2024-04-16
+Books,176.27,10,158.64,Debit Card,2024-04-16
+Beauty,436.53,0,436.53,Net Banking,2024-04-16
+Beauty,124.56,0,124.56,Credit Card,2024-04-16
+Sports,323.61,5,307.43,Net Banking,2024-04-16
+Toys,53.1,50,26.55,UPI,2024-04-16
+Sports,421.25,25,315.94,Cash on Delivery,2024-04-16
+Books,285.77,15,242.9,Credit Card,2024-04-16
+Beauty,333.18,10,299.86,Debit Card,2024-04-16
+Toys,409.56,10,368.6,Credit Card,2024-04-16
+Sports,373.25,10,335.93,Credit Card,2024-04-16
+Home & Kitchen,222.65,15,189.25,Debit Card,2024-04-16
+Beauty,71.21,20,56.97,Cash on Delivery,2024-04-16
+Clothing,405.3,20,324.24,Net Banking,2024-04-16
+Books,313.29,15,266.3,Debit Card,2024-04-16
+Books,407.74,5,387.35,Credit Card,2024-04-16
+Clothing,14.61,5,13.88,UPI,2024-04-16
+Books,46.11,0,46.11,UPI,2024-04-17
+Beauty,416.11,0,416.11,Credit Card,2024-04-17
+Sports,142.35,5,135.23,Net Banking,2024-04-17
+Home & Kitchen,138.58,15,117.79,Credit Card,2024-04-17
+Clothing,238.9,25,179.18,Cash on Delivery,2024-04-17
+Beauty,49.61,20,39.69,Credit Card,2024-04-17
+Clothing,319.97,15,271.97,Credit Card,2024-04-17
+Electronics,28.61,10,25.75,Debit Card,2024-04-17
+Beauty,344.08,30,240.86,Debit Card,2024-04-17
+Clothing,130.27,20,104.22,Cash on Delivery,2024-04-18
+Electronics,275.43,50,137.72,Cash on Delivery,2024-04-18
+Clothing,317.59,30,222.31,UPI,2024-04-18
+Beauty,293.03,5,278.38,UPI,2024-04-18
+Sports,196.87,50,98.44,Cash on Delivery,2024-04-18
+Toys,464.8,30,325.36,Credit Card,2024-04-18
+Home & Kitchen,18.66,0,18.66,UPI,2024-04-18
+Clothing,416.7,0,416.7,Credit Card,2024-04-18
+Clothing,474.63,5,450.9,Net Banking,2024-04-18
+Clothing,401.32,50,200.66,Net Banking,2024-04-18
+Sports,436.99,20,349.59,Debit Card,2024-04-18
+Books,105.0,10,94.5,Debit Card,2024-04-18
+Home & Kitchen,234.62,15,199.43,Credit Card,2024-04-18
+Electronics,221.5,50,110.75,Debit Card,2024-04-18
+Books,48.15,10,43.34,Net Banking,2024-04-18
+Toys,28.6,25,21.45,Credit Card,2024-04-19
+Toys,398.16,5,378.25,Credit Card,2024-04-19
+Electronics,472.29,0,472.29,Debit Card,2024-04-19
+Electronics,101.33,15,86.13,Credit Card,2024-04-19
+Home & Kitchen,284.25,20,227.4,Net Banking,2024-04-19
+Beauty,25.16,50,12.58,Cash on Delivery,2024-04-19
+Electronics,38.74,10,34.87,Credit Card,2024-04-19
+Toys,380.07,10,342.06,UPI,2024-04-19
+Electronics,267.4,5,254.03,Cash on Delivery,2024-04-19
+Beauty,172.71,25,129.53,Credit Card,2024-04-19
+Home & Kitchen,95.92,25,71.94,Debit Card,2024-04-19
+Books,37.22,30,26.05,Credit Card,2024-04-19
+Home & Kitchen,388.45,15,330.18,Net Banking,2024-04-19
+Clothing,362.83,30,253.98,Debit Card,2024-04-19
+Electronics,466.59,50,233.29,Net Banking,2024-04-19
+Toys,61.84,50,30.92,Net Banking,2024-04-19
+Home & Kitchen,467.8,0,467.8,Debit Card,2024-04-20
+Clothing,393.1,15,334.13,Debit Card,2024-04-20
+Clothing,234.28,25,175.71,Cash on Delivery,2024-04-20
+Home & Kitchen,496.82,0,496.82,Debit Card,2024-04-20
+Electronics,300.06,0,300.06,Cash on Delivery,2024-04-20
+Books,460.93,20,368.74,Credit Card,2024-04-20
+Clothing,40.21,10,36.19,Debit Card,2024-04-20
+Clothing,285.27,25,213.95,Cash on Delivery,2024-04-21
+Clothing,392.7,25,294.52,UPI,2024-04-21
+Toys,480.15,10,432.13,UPI,2024-04-21
+Books,115.36,5,109.59,UPI,2024-04-21
+Sports,289.28,20,231.42,Credit Card,2024-04-21
+Clothing,322.39,5,306.27,UPI,2024-04-21
+Beauty,129.89,5,123.4,Debit Card,2024-04-21
+Books,459.92,20,367.94,Net Banking,2024-04-21
+Sports,249.4,30,174.58,UPI,2024-04-21
+Clothing,95.41,15,81.1,Debit Card,2024-04-21
+Electronics,365.46,20,292.37,Cash on Delivery,2024-04-21
+Books,428.23,20,342.58,UPI,2024-04-21
+Sports,290.57,25,217.93,Net Banking,2024-04-21
+Electronics,153.13,5,145.47,Credit Card,2024-04-21
+Toys,197.88,10,178.09,Debit Card,2024-04-21
+Books,141.28,20,113.02,Cash on Delivery,2024-04-21
+Home & Kitchen,131.08,50,65.54,Net Banking,2024-04-22
+Books,57.71,15,49.05,Credit Card,2024-04-22
+Toys,255.6,25,191.7,Net Banking,2024-04-22
+Toys,389.72,10,350.75,Debit Card,2024-04-22
+Electronics,98.89,15,84.06,Debit Card,2024-04-22
+Toys,248.11,30,173.68,Net Banking,2024-04-22
+Beauty,259.36,5,246.39,UPI,2024-04-22
+Home & Kitchen,23.62,15,20.08,UPI,2024-04-22
+Clothing,219.54,15,186.61,UPI,2024-04-22
+Clothing,365.44,20,292.35,Debit Card,2024-04-22
+Electronics,152.24,50,76.12,UPI,2024-04-22
+Clothing,451.34,10,406.21,Credit Card,2024-04-22
+Toys,494.04,5,469.34,Credit Card,2024-04-23
+Toys,352.6,0,352.6,Cash on Delivery,2024-04-23
+Books,265.56,25,199.17,Credit Card,2024-04-23
+Books,407.45,30,285.21,UPI,2024-04-23
+Electronics,261.33,30,182.93,Credit Card,2024-04-23
+Home & Kitchen,253.96,10,228.56,Cash on Delivery,2024-04-23
+Clothing,60.45,20,48.36,UPI,2024-04-23
+Sports,494.64,15,420.44,Debit Card,2024-04-23
+Toys,63.37,20,50.7,UPI,2024-04-23
+Toys,277.93,50,138.97,Net Banking,2024-04-23
+Toys,21.41,5,20.34,Net Banking,2024-04-23
+Books,414.86,50,207.43,Net Banking,2024-04-24
+Books,27.88,50,13.94,Credit Card,2024-04-24
+Home & Kitchen,204.93,50,102.47,Debit Card,2024-04-24
+Home & Kitchen,499.03,50,249.51,Net Banking,2024-04-24
+Electronics,133.93,0,133.93,Cash on Delivery,2024-04-24
+Sports,116.19,20,92.95,Cash on Delivery,2024-04-24
+Beauty,244.52,5,232.29,Credit Card,2024-04-24
+Sports,479.45,20,383.56,Cash on Delivery,2024-04-24
+Home & Kitchen,105.25,30,73.67,Debit Card,2024-04-24
+Books,83.16,0,83.16,Net Banking,2024-04-24
+Sports,56.97,0,56.97,Debit Card,2024-04-24
+Beauty,397.35,10,357.62,Debit Card,2024-04-25
+Toys,387.94,5,368.54,Cash on Delivery,2024-04-25
+Clothing,185.03,30,129.52,Credit Card,2024-04-25
+Home & Kitchen,493.53,30,345.47,Cash on Delivery,2024-04-25
+Home & Kitchen,105.58,30,73.91,Credit Card,2024-04-25
+Clothing,321.56,25,241.17,Cash on Delivery,2024-04-25
+Books,473.92,15,402.83,Cash on Delivery,2024-04-25
+Clothing,469.25,15,398.86,Net Banking,2024-04-25
+Beauty,15.53,10,13.98,UPI,2024-04-25
+Sports,277.08,5,263.23,Credit Card,2024-04-25
+Sports,299.6,25,224.7,Debit Card,2024-04-25
+Books,152.84,5,145.2,Cash on Delivery,2024-04-25
+Home & Kitchen,334.87,15,284.64,Debit Card,2024-04-25
+Clothing,462.61,0,462.61,Cash on Delivery,2024-04-25
+Toys,122.84,5,116.7,UPI,2024-04-26
+Clothing,334.65,50,167.32,Credit Card,2024-04-26
+Sports,258.5,20,206.8,Net Banking,2024-04-26
+Home & Kitchen,204.49,50,102.25,Debit Card,2024-04-26
+Books,353.61,20,282.89,Credit Card,2024-04-26
+Clothing,493.32,10,443.99,Credit Card,2024-04-26
+Sports,111.63,30,78.14,Cash on Delivery,2024-04-26
+Electronics,14.54,5,13.81,Net Banking,2024-04-26
+Books,382.18,10,343.96,Debit Card,2024-04-26
+Books,283.16,30,198.21,UPI,2024-04-26
+Home & Kitchen,229.63,15,195.19,Credit Card,2024-04-26
+Clothing,33.31,15,28.31,Credit Card,2024-04-26
+Clothing,416.42,50,208.21,Debit Card,2024-04-26
+Home & Kitchen,228.39,20,182.71,Credit Card,2024-04-26
+Books,219.2,30,153.44,Debit Card,2024-04-27
+Clothing,255.65,10,230.09,Cash on Delivery,2024-04-27
+Toys,37.73,15,32.07,Net Banking,2024-04-27
+Beauty,66.61,0,66.61,Cash on Delivery,2024-04-27
+Clothing,84.13,30,58.89,Credit Card,2024-04-27
+Clothing,59.22,10,53.3,Credit Card,2024-04-27
+Electronics,311.05,30,217.73,Net Banking,2024-04-27
+Electronics,357.95,50,178.97,Cash on Delivery,2024-04-27
+Beauty,10.58,5,10.05,Credit Card,2024-04-27
+Beauty,352.62,0,352.62,Credit Card,2024-04-27
+Toys,177.14,25,132.85,Net Banking,2024-04-27
+Toys,51.09,10,45.98,Cash on Delivery,2024-04-27
+Beauty,450.24,0,450.24,Credit Card,2024-04-28
+Electronics,209.68,5,199.2,Cash on Delivery,2024-04-28
+Clothing,487.58,15,414.44,Debit Card,2024-04-28
+Home & Kitchen,113.71,5,108.02,Credit Card,2024-04-28
+Home & Kitchen,159.95,30,111.96,Net Banking,2024-04-28
+Books,441.92,30,309.34,Net Banking,2024-04-28
+Home & Kitchen,263.81,0,263.81,Cash on Delivery,2024-04-28
+Electronics,422.91,10,380.62,Debit Card,2024-04-28
+Clothing,355.16,10,319.64,UPI,2024-04-28
+Toys,30.8,50,15.4,UPI,2024-04-28
+Clothing,422.69,20,338.15,Net Banking,2024-04-28
+Sports,233.88,10,210.49,Credit Card,2024-04-28
+Electronics,203.98,10,183.58,Cash on Delivery,2024-04-28
+Beauty,80.57,25,60.43,Net Banking,2024-04-28
+Sports,310.66,50,155.33,Credit Card,2024-04-28
+Sports,316.12,25,237.09,Debit Card,2024-04-28
+Books,224.05,10,201.65,Debit Card,2024-04-28
+Toys,177.58,20,142.06,Debit Card,2024-04-28
+Sports,141.64,50,70.82,Cash on Delivery,2024-04-29
+Beauty,34.93,50,17.46,UPI,2024-04-29
+Clothing,23.78,5,22.59,Net Banking,2024-04-29
+Beauty,281.6,50,140.8,Net Banking,2024-04-29
+Home & Kitchen,271.43,50,135.72,Debit Card,2024-04-29
+Books,496.58,25,372.44,Debit Card,2024-04-29
+Electronics,338.85,5,321.91,UPI,2024-04-29
+Toys,107.11,30,74.98,Net Banking,2024-04-29
+Beauty,420.41,0,420.41,Debit Card,2024-04-29
+Clothing,495.02,0,495.02,Debit Card,2024-04-30
+Home & Kitchen,169.92,25,127.44,Net Banking,2024-04-30
+Electronics,75.65,15,64.3,Credit Card,2024-04-30
+Beauty,446.06,15,379.15,Net Banking,2024-04-30
+Books,203.49,30,142.44,Net Banking,2024-04-30
+Clothing,407.94,0,407.94,Credit Card,2024-04-30
+Toys,38.62,50,19.31,Credit Card,2024-04-30
+Toys,463.31,15,393.81,UPI,2024-04-30
+Sports,33.67,20,26.94,Net Banking,2024-04-30
+Sports,436.07,5,414.27,Debit Card,2024-05-01
+Home & Kitchen,132.48,20,105.98,UPI,2024-05-01
+Home & Kitchen,29.92,50,14.96,Debit Card,2024-05-01
+Books,364.19,10,327.77,Net Banking,2024-05-01
+Home & Kitchen,371.23,5,352.67,Debit Card,2024-05-01
+Books,484.89,20,387.91,Credit Card,2024-05-01
+Beauty,81.48,5,77.41,Net Banking,2024-05-01
+Books,170.58,30,119.41,Cash on Delivery,2024-05-01
+Toys,102.19,15,86.86,Cash on Delivery,2024-05-02
+Toys,209.12,30,146.38,UPI,2024-05-02
+Toys,261.76,10,235.58,Cash on Delivery,2024-05-02
+Clothing,440.6,25,330.45,UPI,2024-05-02
+Clothing,27.49,20,21.99,Net Banking,2024-05-02
+Sports,147.6,50,73.8,Credit Card,2024-05-02
+Clothing,441.14,15,374.97,UPI,2024-05-02
+Sports,145.91,15,124.02,Cash on Delivery,2024-05-02
+Books,404.85,25,303.64,Credit Card,2024-05-02
+Toys,361.61,15,307.37,UPI,2024-05-02
+Sports,290.25,0,290.25,UPI,2024-05-02
+Books,306.61,20,245.29,Net Banking,2024-05-03
+Sports,155.2,30,108.64,Credit Card,2024-05-03
+Clothing,486.2,30,340.34,Net Banking,2024-05-03
+Beauty,489.9,10,440.91,Net Banking,2024-05-03
+Toys,337.91,5,321.01,Net Banking,2024-05-03
+Clothing,172.92,50,86.46,Debit Card,2024-05-03
+Electronics,110.59,25,82.94,Debit Card,2024-05-03
+Toys,363.56,50,181.78,Net Banking,2024-05-03
+Books,39.02,25,29.27,Cash on Delivery,2024-05-03
+Books,212.78,15,180.86,Net Banking,2024-05-03
+Home & Kitchen,138.31,10,124.48,Credit Card,2024-05-04
+Beauty,240.01,30,168.01,UPI,2024-05-04
+Books,323.53,15,275.0,Debit Card,2024-05-04
+Toys,42.14,25,31.61,UPI,2024-05-04
+Books,408.43,50,204.22,Debit Card,2024-05-04
+Electronics,30.54,25,22.91,Debit Card,2024-05-04
+Electronics,398.76,30,279.13,Credit Card,2024-05-04
+Electronics,83.69,10,75.32,UPI,2024-05-05
+Toys,342.2,30,239.54,UPI,2024-05-05
+Sports,23.78,25,17.84,Debit Card,2024-05-05
+Toys,348.31,20,278.65,Debit Card,2024-05-05
+Electronics,54.39,25,40.79,Credit Card,2024-05-05
+Electronics,483.76,50,241.88,Net Banking,2024-05-05
+Home & Kitchen,123.41,25,92.56,UPI,2024-05-05
+Electronics,344.85,5,327.61,Debit Card,2024-05-05
+Beauty,471.43,0,471.43,UPI,2024-05-06
+Home & Kitchen,266.52,20,213.22,UPI,2024-05-06
+Home & Kitchen,367.95,30,257.56,UPI,2024-05-06
+Clothing,265.25,0,265.25,UPI,2024-05-06
+Electronics,476.41,10,428.77,Net Banking,2024-05-06
+Books,256.82,15,218.3,Debit Card,2024-05-06
+Toys,498.58,25,373.94,Debit Card,2024-05-06
+Clothing,481.63,20,385.3,Cash on Delivery,2024-05-06
+Clothing,216.4,0,216.4,UPI,2024-05-07
+Beauty,134.41,20,107.53,Credit Card,2024-05-07
+Clothing,376.63,15,320.14,Credit Card,2024-05-07
+Books,211.67,50,105.83,Net Banking,2024-05-07
+Clothing,334.28,15,284.14,Cash on Delivery,2024-05-07
+Toys,11.54,25,8.65,Credit Card,2024-05-07
+Books,225.18,30,157.63,UPI,2024-05-07
+Books,464.05,20,371.24,Credit Card,2024-05-07
+Clothing,273.0,0,273.0,Credit Card,2024-05-07
+Home & Kitchen,90.24,0,90.24,Credit Card,2024-05-07
+Books,452.56,20,362.05,UPI,2024-05-08
+Electronics,15.81,25,11.86,UPI,2024-05-08
+Sports,321.66,0,321.66,Credit Card,2024-05-08
+Beauty,414.68,5,393.95,Cash on Delivery,2024-05-08
+Electronics,37.79,10,34.01,Net Banking,2024-05-08
+Beauty,92.56,10,83.3,Debit Card,2024-05-08
+Clothing,432.25,0,432.25,Credit Card,2024-05-08
+Home & Kitchen,272.8,30,190.96,Credit Card,2024-05-08
+Toys,351.68,30,246.18,Debit Card,2024-05-08
+Sports,122.14,5,116.03,Credit Card,2024-05-08
+Toys,256.77,10,231.09,Cash on Delivery,2024-05-08
+Toys,53.69,20,42.95,UPI,2024-05-08
+Beauty,249.14,15,211.77,Debit Card,2024-05-08
+Electronics,385.98,15,328.08,Net Banking,2024-05-08
+Electronics,258.91,25,194.18,Cash on Delivery,2024-05-08
+Beauty,168.6,15,143.31,Credit Card,2024-05-08
+Beauty,455.09,20,364.07,Cash on Delivery,2024-05-09
+Electronics,411.81,5,391.22,Cash on Delivery,2024-05-09
+Electronics,335.99,20,268.79,Net Banking,2024-05-09
+Toys,268.49,25,201.37,UPI,2024-05-09
+Beauty,105.45,10,94.91,Debit Card,2024-05-09
+Toys,133.72,25,100.29,Debit Card,2024-05-09
+Toys,463.05,15,393.59,Credit Card,2024-05-10
+Electronics,242.33,15,205.98,Net Banking,2024-05-10
+Electronics,247.95,15,210.76,Cash on Delivery,2024-05-10
+Books,62.65,50,31.32,UPI,2024-05-10
+Beauty,421.02,25,315.76,Debit Card,2024-05-10
+Sports,342.35,10,308.12,UPI,2024-05-10
+Home & Kitchen,210.86,10,189.77,Credit Card,2024-05-10
+Sports,26.26,50,13.13,Credit Card,2024-05-10
+Books,95.75,5,90.96,UPI,2024-05-10
+Books,127.6,30,89.32,Cash on Delivery,2024-05-10
+Sports,496.79,5,471.95,Credit Card,2024-05-10
+Home & Kitchen,259.15,0,259.15,Credit Card,2024-05-10
+Electronics,443.94,5,421.74,Cash on Delivery,2024-05-11
+Beauty,10.09,15,8.58,Cash on Delivery,2024-05-11
+Clothing,401.02,15,340.87,Cash on Delivery,2024-05-11
+Home & Kitchen,246.03,15,209.13,Debit Card,2024-05-11
+Beauty,425.6,20,340.48,Cash on Delivery,2024-05-11
+Home & Kitchen,182.47,10,164.22,Cash on Delivery,2024-05-11
+Beauty,32.39,20,25.91,Credit Card,2024-05-11
+Clothing,11.62,15,9.88,Debit Card,2024-05-11
+Home & Kitchen,297.02,5,282.17,Credit Card,2024-05-11
+Clothing,246.98,30,172.89,UPI,2024-05-11
+Books,210.37,30,147.26,Debit Card,2024-05-11
+Books,393.43,50,196.72,Net Banking,2024-05-12
+Sports,272.92,30,191.04,Net Banking,2024-05-12
+Clothing,359.51,30,251.66,UPI,2024-05-12
+Beauty,327.07,5,310.72,Net Banking,2024-05-12
+Clothing,493.99,50,247.0,Cash on Delivery,2024-05-12
+Beauty,479.32,25,359.49,UPI,2024-05-13
+Toys,245.25,20,196.2,UPI,2024-05-13
+Books,175.77,25,131.83,Credit Card,2024-05-13
+Toys,12.14,15,10.32,Credit Card,2024-05-13
+Sports,339.34,15,288.44,Net Banking,2024-05-13
+Beauty,443.0,5,420.85,UPI,2024-05-13
+Electronics,101.83,25,76.37,Cash on Delivery,2024-05-13
+Electronics,300.96,0,300.96,Net Banking,2024-05-13
+Toys,447.35,0,447.35,Net Banking,2024-05-13
+Home & Kitchen,205.9,30,144.13,Credit Card,2024-05-13
+Home & Kitchen,261.8,50,130.9,Net Banking,2024-05-13
+Home & Kitchen,156.47,15,133.0,Credit Card,2024-05-13
+Toys,135.87,25,101.9,Debit Card,2024-05-13
+Sports,85.98,20,68.78,Credit Card,2024-05-14
+Sports,155.98,20,124.78,Credit Card,2024-05-14
+Electronics,283.36,50,141.68,Cash on Delivery,2024-05-14
+Clothing,233.2,20,186.56,Cash on Delivery,2024-05-14
+Books,476.97,10,429.27,Credit Card,2024-05-14
+Sports,384.99,15,327.24,Net Banking,2024-05-14
+Beauty,486.79,0,486.79,UPI,2024-05-14
+Books,287.43,50,143.72,Net Banking,2024-05-14
+Electronics,331.23,5,314.67,Credit Card,2024-05-14
+Sports,439.67,50,219.84,Debit Card,2024-05-14
+Clothing,239.31,10,215.38,UPI,2024-05-14
+Books,227.44,10,204.7,Net Banking,2024-05-14
+Beauty,356.61,20,285.29,Credit Card,2024-05-14
+Electronics,77.45,20,61.96,Cash on Delivery,2024-05-14
+Sports,235.28,25,176.46,Cash on Delivery,2024-05-15
+Books,363.65,25,272.74,Net Banking,2024-05-15
+Clothing,14.66,50,7.33,Credit Card,2024-05-15
+Electronics,298.02,25,223.51,Credit Card,2024-05-15
+Clothing,93.05,50,46.52,Cash on Delivery,2024-05-15
+Books,280.8,15,238.68,Debit Card,2024-05-15
+Toys,17.08,30,11.96,Debit Card,2024-05-15
+Sports,304.77,20,243.82,Credit Card,2024-05-15
+Clothing,495.35,30,346.75,Debit Card,2024-05-15
+Clothing,152.62,50,76.31,Credit Card,2024-05-15
+Sports,233.63,30,163.54,Credit Card,2024-05-16
+Clothing,92.83,25,69.62,Net Banking,2024-05-16
+Clothing,499.91,30,349.94,Credit Card,2024-05-16
+Toys,158.49,15,134.72,Net Banking,2024-05-16
+Home & Kitchen,457.3,0,457.3,Net Banking,2024-05-16
+Home & Kitchen,87.6,25,65.7,UPI,2024-05-16
+Sports,482.59,15,410.2,Credit Card,2024-05-17
+Home & Kitchen,229.13,50,114.56,UPI,2024-05-17
+Beauty,229.58,50,114.79,Debit Card,2024-05-17
+Electronics,303.14,0,303.14,Debit Card,2024-05-17
+Toys,362.6,20,290.08,Cash on Delivery,2024-05-17
+Beauty,238.8,10,214.92,Debit Card,2024-05-17
+Home & Kitchen,31.97,10,28.77,UPI,2024-05-17
+Home & Kitchen,177.59,20,142.07,Credit Card,2024-05-17
+Sports,432.56,30,302.79,Debit Card,2024-05-17
+Home & Kitchen,118.69,0,118.69,UPI,2024-05-17
+Beauty,396.59,15,337.1,Debit Card,2024-05-17
+Sports,363.37,50,181.69,Debit Card,2024-05-17
+Books,477.68,30,334.38,UPI,2024-05-17
+Books,476.64,50,238.32,Cash on Delivery,2024-05-17
+Home & Kitchen,367.63,15,312.49,Debit Card,2024-05-18
+Home & Kitchen,410.07,50,205.03,Cash on Delivery,2024-05-18
+Clothing,32.57,15,27.68,Debit Card,2024-05-18
+Sports,361.29,5,343.23,Credit Card,2024-05-18
+Books,386.53,10,347.88,UPI,2024-05-18
+Toys,117.78,10,106.0,Net Banking,2024-05-18
+Clothing,129.71,25,97.28,Cash on Delivery,2024-05-18
+Toys,359.22,25,269.42,Debit Card,2024-05-18
+Electronics,400.08,50,200.04,UPI,2024-05-18
+Toys,378.85,20,303.08,UPI,2024-05-18
+Clothing,479.79,50,239.9,Cash on Delivery,2024-05-18
+Home & Kitchen,460.89,10,414.8,Debit Card,2024-05-18
+Electronics,170.72,5,162.18,Net Banking,2024-05-19
+Toys,338.82,50,169.41,Net Banking,2024-05-19
+Books,253.05,20,202.44,Net Banking,2024-05-19
+Electronics,179.16,30,125.41,Debit Card,2024-05-19
+Beauty,415.0,5,394.25,Debit Card,2024-05-19
+Home & Kitchen,262.74,15,223.33,Credit Card,2024-05-19
+Beauty,425.48,15,361.66,Cash on Delivery,2024-05-19
+Toys,419.4,50,209.7,Debit Card,2024-05-19
+Home & Kitchen,269.57,10,242.61,Debit Card,2024-05-19
+Clothing,172.74,15,146.83,Net Banking,2024-05-19
+Beauty,281.71,0,281.71,Net Banking,2024-05-19
+Toys,133.33,5,126.66,Credit Card,2024-05-19
+Electronics,227.45,20,181.96,Net Banking,2024-05-19
+Beauty,417.6,20,334.08,UPI,2024-05-19
+Books,482.52,5,458.39,Credit Card,2024-05-19
+Books,481.16,25,360.87,Cash on Delivery,2024-05-20
+Sports,432.01,5,410.41,Debit Card,2024-05-20
+Sports,333.98,30,233.79,Net Banking,2024-05-20
+Books,247.48,50,123.74,UPI,2024-05-20
+Toys,431.65,25,323.74,Credit Card,2024-05-20
+Home & Kitchen,116.68,50,58.34,UPI,2024-05-20
+Clothing,262.71,10,236.44,Net Banking,2024-05-20
+Beauty,22.37,5,21.25,Cash on Delivery,2024-05-20
+Sports,168.52,30,117.96,UPI,2024-05-20
+Books,94.05,25,70.54,Debit Card,2024-05-20
+Sports,213.18,15,181.2,Cash on Delivery,2024-05-20
+Beauty,471.41,25,353.56,Cash on Delivery,2024-05-20
+Home & Kitchen,383.65,15,326.1,Net Banking,2024-05-20
+Electronics,242.01,50,121.0,Net Banking,2024-05-20
+Sports,40.02,50,20.01,Credit Card,2024-05-20
+Toys,60.79,20,48.63,Credit Card,2024-05-21
+Electronics,447.66,30,313.36,UPI,2024-05-21
+Beauty,213.47,20,170.78,Credit Card,2024-05-21
+Home & Kitchen,474.05,20,379.24,Cash on Delivery,2024-05-21
+Clothing,74.67,20,59.74,Cash on Delivery,2024-05-21
+Toys,51.73,30,36.21,Debit Card,2024-05-21
+Sports,273.42,0,273.42,Credit Card,2024-05-21
+Toys,388.94,20,311.15,Net Banking,2024-05-21
+Clothing,14.4,20,11.52,Debit Card,2024-05-21
+Home & Kitchen,50.63,50,25.32,Cash on Delivery,2024-05-21
+Home & Kitchen,224.52,50,112.26,Debit Card,2024-05-21
+Electronics,411.94,0,411.94,Cash on Delivery,2024-05-22
+Home & Kitchen,47.45,25,35.59,Debit Card,2024-05-22
+Electronics,395.07,25,296.3,Debit Card,2024-05-22
+Books,389.96,15,331.47,Debit Card,2024-05-22
+Sports,187.4,0,187.4,Credit Card,2024-05-22
+Beauty,347.43,15,295.32,Net Banking,2024-05-22
+Home & Kitchen,56.46,30,39.52,Debit Card,2024-05-22
+Clothing,148.98,50,74.49,Debit Card,2024-05-22
+Clothing,121.13,0,121.13,Net Banking,2024-05-22
+Beauty,182.2,30,127.54,Credit Card,2024-05-22
+Home & Kitchen,144.19,20,115.35,Debit Card,2024-05-22
+Books,456.08,30,319.26,Credit Card,2024-05-22
+Electronics,138.46,0,138.46,Cash on Delivery,2024-05-22
+Clothing,294.78,10,265.3,Net Banking,2024-05-22
+Sports,308.79,25,231.59,Net Banking,2024-05-22
+Sports,391.77,30,274.24,UPI,2024-05-23
+Clothing,430.32,15,365.77,Debit Card,2024-05-23
+Home & Kitchen,179.89,50,89.94,Net Banking,2024-05-23
+Toys,340.82,0,340.82,Debit Card,2024-05-23
+Books,269.76,20,215.81,Credit Card,2024-05-23
+Toys,253.19,5,240.53,Debit Card,2024-05-23
+Toys,137.79,0,137.79,Cash on Delivery,2024-05-23
+Toys,452.0,15,384.2,Cash on Delivery,2024-05-23
+Electronics,198.45,25,148.84,Cash on Delivery,2024-05-23
+Sports,220.98,30,154.69,Net Banking,2024-05-23
+Books,432.65,30,302.85,Net Banking,2024-05-23
+Home & Kitchen,210.4,0,210.4,Net Banking,2024-05-23
+Electronics,92.47,15,78.6,UPI,2024-05-24
+Beauty,241.05,15,204.89,Cash on Delivery,2024-05-24
+Electronics,376.07,30,263.25,Debit Card,2024-05-24
+Beauty,77.58,10,69.82,Debit Card,2024-05-24
+Toys,302.73,30,211.91,UPI,2024-05-24
+Toys,326.97,20,261.58,Credit Card,2024-05-24
+Toys,323.5,5,307.32,Cash on Delivery,2024-05-24
+Books,90.77,5,86.23,Cash on Delivery,2024-05-24
+Sports,345.03,25,258.77,Credit Card,2024-05-24
+Sports,163.15,5,154.99,UPI,2024-05-24
+Electronics,17.01,30,11.91,Net Banking,2024-05-24
+Home & Kitchen,285.18,0,285.18,Net Banking,2024-05-24
+Toys,467.12,0,467.12,UPI,2024-05-24
+Books,96.82,5,91.98,Credit Card,2024-05-24
+Sports,432.41,20,345.93,Debit Card,2024-05-24
+Home & Kitchen,51.92,0,51.92,Debit Card,2024-05-24
+Home & Kitchen,105.52,0,105.52,Net Banking,2024-05-25
+Home & Kitchen,175.33,20,140.26,Net Banking,2024-05-25
+Electronics,316.84,25,237.63,Debit Card,2024-05-25
+Books,97.95,25,73.46,UPI,2024-05-25
+Electronics,185.53,20,148.42,Credit Card,2024-05-25
+Beauty,438.95,20,351.16,UPI,2024-05-25
+Books,439.81,15,373.84,Net Banking,2024-05-25
+Sports,186.17,50,93.08,UPI,2024-05-25
+Clothing,222.07,25,166.55,Cash on Delivery,2024-05-25
+Toys,377.75,50,188.88,Credit Card,2024-05-25
+Sports,191.22,15,162.54,UPI,2024-05-26
+Clothing,337.72,5,320.83,Credit Card,2024-05-26
+Books,408.9,5,388.45,Cash on Delivery,2024-05-26
+Toys,59.11,25,44.33,UPI,2024-05-26
+Electronics,182.87,0,182.87,Cash on Delivery,2024-05-26
+Beauty,83.57,5,79.39,UPI,2024-05-26
+Beauty,473.99,30,331.79,Credit Card,2024-05-26
+Books,93.6,10,84.24,Cash on Delivery,2024-05-26
+Electronics,34.02,20,27.22,UPI,2024-05-26
+Beauty,146.47,10,131.82,Debit Card,2024-05-26
+Sports,74.87,50,37.44,Cash on Delivery,2024-05-27
+Beauty,330.67,15,281.07,Credit Card,2024-05-27
+Books,130.16,50,65.08,Credit Card,2024-05-27
+Sports,326.51,20,261.21,Debit Card,2024-05-27
+Toys,51.29,30,35.9,Net Banking,2024-05-27
+Toys,204.25,20,163.4,Credit Card,2024-05-27
+Home & Kitchen,95.24,15,80.95,Net Banking,2024-05-27
+Sports,140.42,0,140.42,Cash on Delivery,2024-05-28
+Sports,235.71,20,188.57,Net Banking,2024-05-28
+Beauty,373.86,30,261.7,Credit Card,2024-05-28
+Toys,187.2,25,140.4,Net Banking,2024-05-28
+Toys,216.75,0,216.75,UPI,2024-05-28
+Beauty,201.42,20,161.14,UPI,2024-05-28
+Home & Kitchen,211.85,20,169.48,UPI,2024-05-28
+Beauty,431.57,25,323.68,Credit Card,2024-05-28
+Sports,221.39,20,177.11,Debit Card,2024-05-28
+Home & Kitchen,267.16,20,213.73,Debit Card,2024-05-29
+Electronics,157.2,10,141.48,Credit Card,2024-05-29
+Sports,49.46,0,49.46,Cash on Delivery,2024-05-29
+Sports,27.03,15,22.98,Cash on Delivery,2024-05-29
+Books,56.51,5,53.68,Debit Card,2024-05-29
+Beauty,124.21,0,124.21,UPI,2024-05-29
+Sports,213.23,20,170.58,Net Banking,2024-05-29
+Sports,434.47,0,434.47,Cash on Delivery,2024-05-29
+Toys,350.82,30,245.57,UPI,2024-05-29
+Books,457.39,50,228.69,Credit Card,2024-05-30
+Electronics,32.78,30,22.95,Credit Card,2024-05-30
+Books,183.04,30,128.13,UPI,2024-05-30
+Sports,403.71,50,201.85,UPI,2024-05-30
+Toys,121.26,0,121.26,Cash on Delivery,2024-05-30
+Home & Kitchen,446.21,30,312.35,UPI,2024-05-30
+Electronics,333.31,25,249.98,Cash on Delivery,2024-05-30
+Toys,216.97,50,108.48,Debit Card,2024-05-30
+Electronics,481.88,15,409.6,Debit Card,2024-05-30
+Clothing,482.74,5,458.6,Net Banking,2024-05-30
+Beauty,271.48,50,135.74,Cash on Delivery,2024-05-30
+Electronics,394.31,20,315.45,Credit Card,2024-05-30
+Home & Kitchen,200.57,15,170.48,Net Banking,2024-05-30
+Home & Kitchen,342.71,20,274.17,Cash on Delivery,2024-05-30
+Electronics,290.44,5,275.92,UPI,2024-05-30
+Books,100.23,50,50.12,Net Banking,2024-05-31
+Sports,395.32,50,197.66,Debit Card,2024-05-31
+Home & Kitchen,246.62,0,246.62,Debit Card,2024-05-31
+Sports,460.68,5,437.65,UPI,2024-05-31
+Beauty,163.3,30,114.31,Credit Card,2024-05-31
+Sports,15.8,30,11.06,Cash on Delivery,2024-05-31
+Sports,362.57,5,344.44,Credit Card,2024-05-31
+Sports,353.96,10,318.56,Cash on Delivery,2024-05-31
+Home & Kitchen,268.57,30,188.0,Credit Card,2024-06-01
+Home & Kitchen,285.47,20,228.38,Net Banking,2024-06-01
+Beauty,306.77,50,153.38,Net Banking,2024-06-01
+Electronics,459.61,10,413.65,Debit Card,2024-06-01
+Sports,95.58,25,71.69,Credit Card,2024-06-01
+Books,300.81,5,285.77,Debit Card,2024-06-01
+Clothing,53.33,15,45.33,Cash on Delivery,2024-06-01
+Home & Kitchen,101.57,20,81.26,Debit Card,2024-06-01
+Home & Kitchen,77.22,15,65.64,Cash on Delivery,2024-06-01
+Toys,448.07,0,448.07,Cash on Delivery,2024-06-01
+Sports,247.86,20,198.29,UPI,2024-06-01
+Toys,241.25,20,193.0,Credit Card,2024-06-01
+Sports,57.65,30,40.35,Cash on Delivery,2024-06-01
+Beauty,41.41,30,28.99,Net Banking,2024-06-01
+Beauty,127.78,0,127.78,UPI,2024-06-01
+Toys,264.94,15,225.2,Cash on Delivery,2024-06-01
+Toys,340.43,30,238.3,Cash on Delivery,2024-06-01
+Electronics,315.5,15,268.18,Cash on Delivery,2024-06-01
+Clothing,172.78,5,164.14,Debit Card,2024-06-01
+Toys,62.48,20,49.98,UPI,2024-06-02
+Beauty,351.79,30,246.25,Net Banking,2024-06-02
+Home & Kitchen,463.22,5,440.06,Cash on Delivery,2024-06-02
+Clothing,113.41,0,113.41,UPI,2024-06-02
+Clothing,485.72,10,437.15,Debit Card,2024-06-02
+Sports,30.56,30,21.39,UPI,2024-06-02
+Books,410.41,50,205.21,Credit Card,2024-06-02
+Home & Kitchen,279.28,5,265.32,Credit Card,2024-06-02
+Books,268.14,0,268.14,Debit Card,2024-06-02
+Clothing,178.63,30,125.04,Credit Card,2024-06-02
+Beauty,31.78,15,27.01,Debit Card,2024-06-02
+Sports,309.55,10,278.6,Credit Card,2024-06-02
+Toys,256.42,0,256.42,Debit Card,2024-06-02
+Home & Kitchen,350.61,10,315.55,Debit Card,2024-06-03
+Electronics,168.59,20,134.87,Credit Card,2024-06-03
+Beauty,264.31,5,251.09,UPI,2024-06-03
+Electronics,340.11,25,255.08,UPI,2024-06-03
+Electronics,106.14,0,106.14,Debit Card,2024-06-03
+Sports,475.72,10,428.15,Cash on Delivery,2024-06-03
+Home & Kitchen,336.93,5,320.08,Credit Card,2024-06-03
+Beauty,95.18,25,71.39,Debit Card,2024-06-03
+Books,197.26,20,157.81,Cash on Delivery,2024-06-03
+Toys,107.27,10,96.54,Cash on Delivery,2024-06-03
+Toys,219.2,30,153.44,Net Banking,2024-06-04
+Toys,291.53,0,291.53,Cash on Delivery,2024-06-04
+Toys,176.59,20,141.27,Cash on Delivery,2024-06-04
+Toys,181.73,15,154.47,Net Banking,2024-06-04
+Toys,336.21,10,302.59,UPI,2024-06-04
+Toys,415.44,5,394.67,UPI,2024-06-04
+Clothing,389.67,0,389.67,Debit Card,2024-06-04
+Electronics,286.47,25,214.85,UPI,2024-06-04
+Books,255.74,25,191.81,UPI,2024-06-04
+Books,393.18,50,196.59,Net Banking,2024-06-04
+Home & Kitchen,70.14,30,49.1,Credit Card,2024-06-04
+Books,423.41,25,317.56,Cash on Delivery,2024-06-04
+Home & Kitchen,203.87,5,193.68,UPI,2024-06-04
+Books,134.42,25,100.81,Debit Card,2024-06-04
+Beauty,365.18,15,310.4,UPI,2024-06-04
+Beauty,344.29,20,275.43,UPI,2024-06-04
+Toys,411.25,10,370.12,Credit Card,2024-06-04
+Electronics,332.45,50,166.22,UPI,2024-06-04
+Books,25.72,20,20.58,UPI,2024-06-04
+Clothing,375.69,20,300.55,UPI,2024-06-05
+Sports,122.36,0,122.36,Net Banking,2024-06-05
+Electronics,57.79,30,40.45,Credit Card,2024-06-05
+Beauty,286.09,30,200.26,Net Banking,2024-06-05
+Beauty,16.11,15,13.69,Cash on Delivery,2024-06-05
+Electronics,439.29,20,351.43,UPI,2024-06-05
+Books,192.48,15,163.61,Credit Card,2024-06-05
+Sports,81.82,10,73.64,Net Banking,2024-06-05
+Clothing,366.52,20,293.22,UPI,2024-06-05
+Books,26.71,30,18.7,Cash on Delivery,2024-06-05
+Toys,20.31,5,19.29,Net Banking,2024-06-05
+Electronics,254.76,0,254.76,Debit Card,2024-06-06
+Toys,158.0,10,142.2,Debit Card,2024-06-06
+Electronics,453.64,5,430.96,UPI,2024-06-06
+Beauty,96.8,50,48.4,Net Banking,2024-06-06
+Toys,274.85,5,261.11,Debit Card,2024-06-06
+Clothing,324.36,15,275.71,Credit Card,2024-06-06
+Clothing,11.59,30,8.11,Net Banking,2024-06-06
+Clothing,273.34,15,232.34,Debit Card,2024-06-06
+Books,108.51,25,81.38,Cash on Delivery,2024-06-07
+Toys,200.87,0,200.87,Credit Card,2024-06-07
+Sports,143.47,25,107.6,Debit Card,2024-06-07
+Books,422.02,30,295.41,Debit Card,2024-06-07
+Home & Kitchen,55.86,25,41.89,Cash on Delivery,2024-06-07
+Beauty,485.71,20,388.57,Credit Card,2024-06-07
+Clothing,34.36,5,32.64,Cash on Delivery,2024-06-07
+Home & Kitchen,55.64,15,47.29,Credit Card,2024-06-07
+Toys,432.1,5,410.5,Net Banking,2024-06-07
+Clothing,383.58,10,345.22,UPI,2024-06-07
+Toys,456.74,0,456.74,Net Banking,2024-06-07
+Electronics,469.47,30,328.63,Cash on Delivery,2024-06-07
+Sports,107.22,0,107.22,Debit Card,2024-06-08
+Electronics,215.01,50,107.5,Net Banking,2024-06-08
+Books,138.04,0,138.04,Debit Card,2024-06-08
+Home & Kitchen,52.6,0,52.6,Credit Card,2024-06-08
+Electronics,276.94,50,138.47,Credit Card,2024-06-08
+Books,362.26,0,362.26,Net Banking,2024-06-08
+Home & Kitchen,423.56,5,402.38,Net Banking,2024-06-08
+Toys,280.19,0,280.19,Debit Card,2024-06-08
+Toys,340.21,5,323.2,UPI,2024-06-09
+Electronics,147.71,0,147.71,Net Banking,2024-06-09
+Sports,195.94,10,176.35,Cash on Delivery,2024-06-09
+Books,78.34,25,58.76,Net Banking,2024-06-09
+Home & Kitchen,206.34,20,165.07,Net Banking,2024-06-09
+Books,107.72,15,91.56,Debit Card,2024-06-09
+Toys,367.32,20,293.86,Net Banking,2024-06-09
+Home & Kitchen,97.09,10,87.38,Debit Card,2024-06-09
+Sports,490.62,20,392.5,UPI,2024-06-09
+Home & Kitchen,447.61,10,402.85,Credit Card,2024-06-09
+Sports,39.88,5,37.89,Credit Card,2024-06-09
+Sports,338.0,10,304.2,Credit Card,2024-06-10
+Clothing,243.84,50,121.92,Debit Card,2024-06-10
+Beauty,486.77,30,340.74,Cash on Delivery,2024-06-10
+Home & Kitchen,19.55,5,18.57,UPI,2024-06-10
+Electronics,398.4,10,358.56,Debit Card,2024-06-10
+Electronics,451.25,30,315.88,Net Banking,2024-06-10
+Beauty,237.25,25,177.94,Credit Card,2024-06-10
+Toys,348.31,15,296.06,Cash on Delivery,2024-06-10
+Electronics,422.68,50,211.34,UPI,2024-06-11
+Home & Kitchen,79.42,50,39.71,Credit Card,2024-06-11
+Electronics,339.17,30,237.42,UPI,2024-06-11
+Home & Kitchen,55.69,50,27.84,Net Banking,2024-06-11
+Clothing,39.97,20,31.98,Cash on Delivery,2024-06-11
+Home & Kitchen,250.0,25,187.5,Cash on Delivery,2024-06-11
+Toys,70.67,25,53.0,Net Banking,2024-06-11
+Sports,193.28,10,173.95,UPI,2024-06-11
+Clothing,496.13,15,421.71,Debit Card,2024-06-11
+Toys,249.34,20,199.47,Credit Card,2024-06-11
+Electronics,452.02,10,406.82,Credit Card,2024-06-11
+Toys,133.11,10,119.8,Debit Card,2024-06-11
+Electronics,151.85,15,129.07,Cash on Delivery,2024-06-11
+Electronics,286.47,5,272.15,Credit Card,2024-06-12
+Sports,237.9,30,166.53,Debit Card,2024-06-12
+Sports,63.31,20,50.65,UPI,2024-06-12
+Sports,354.46,0,354.46,Net Banking,2024-06-12
+Electronics,451.3,20,361.04,Cash on Delivery,2024-06-12
+Clothing,151.92,5,144.32,Credit Card,2024-06-12
+Books,112.53,15,95.65,Credit Card,2024-06-12
+Electronics,112.0,0,112.0,UPI,2024-06-12
+Toys,185.46,10,166.91,Net Banking,2024-06-12
+Books,259.1,0,259.1,Credit Card,2024-06-12
+Toys,207.67,30,145.37,Debit Card,2024-06-12
+Sports,232.55,25,174.41,Cash on Delivery,2024-06-12
+Sports,135.91,5,129.11,Credit Card,2024-06-12
+Toys,265.96,10,239.36,Credit Card,2024-06-12
+Toys,142.54,30,99.78,Debit Card,2024-06-12
+Electronics,347.27,25,260.45,Credit Card,2024-06-12
+Books,212.45,20,169.96,Credit Card,2024-06-12
+Sports,415.39,15,353.08,Cash on Delivery,2024-06-12
+Clothing,392.84,25,294.63,Net Banking,2024-06-12
+Home & Kitchen,443.2,25,332.4,Credit Card,2024-06-12
+Toys,191.15,50,95.58,UPI,2024-06-13
+Books,46.41,0,46.41,Credit Card,2024-06-13
+Electronics,223.89,0,223.89,Cash on Delivery,2024-06-13
+Books,76.8,5,72.96,Debit Card,2024-06-13
+Electronics,39.08,0,39.08,Debit Card,2024-06-13
+Beauty,214.77,50,107.39,UPI,2024-06-13
+Books,182.37,20,145.9,Cash on Delivery,2024-06-13
+Home & Kitchen,428.08,30,299.66,Debit Card,2024-06-13
+Books,457.69,20,366.15,Net Banking,2024-06-13
+Beauty,145.13,25,108.85,Credit Card,2024-06-13
+Books,206.82,30,144.77,Cash on Delivery,2024-06-13
+Books,471.66,5,448.08,Credit Card,2024-06-13
+Books,419.32,0,419.32,Debit Card,2024-06-14
+Books,41.5,5,39.42,Cash on Delivery,2024-06-14
+Sports,393.54,15,334.51,Cash on Delivery,2024-06-14
+Clothing,465.09,15,395.33,UPI,2024-06-14
+Clothing,125.93,20,100.74,Net Banking,2024-06-14
+Home & Kitchen,124.29,50,62.15,Debit Card,2024-06-14
+Beauty,174.43,30,122.1,Credit Card,2024-06-14
+Electronics,89.64,30,62.75,Debit Card,2024-06-15
+Toys,95.06,5,90.31,Cash on Delivery,2024-06-15
+Clothing,455.43,15,387.12,UPI,2024-06-15
+Home & Kitchen,170.44,15,144.87,Cash on Delivery,2024-06-15
+Home & Kitchen,73.19,30,51.23,Cash on Delivery,2024-06-15
+Beauty,474.27,5,450.56,Cash on Delivery,2024-06-15
+Toys,136.17,10,122.55,Net Banking,2024-06-15
+Home & Kitchen,444.09,50,222.04,Credit Card,2024-06-15
+Sports,169.69,20,135.75,Cash on Delivery,2024-06-15
+Beauty,48.61,25,36.46,Net Banking,2024-06-15
+Sports,357.54,15,303.91,Cash on Delivery,2024-06-15
+Sports,188.56,15,160.28,Debit Card,2024-06-15
+Clothing,230.41,5,218.89,Debit Card,2024-06-15
+Electronics,412.56,50,206.28,Net Banking,2024-06-16
+Books,462.66,20,370.13,Cash on Delivery,2024-06-16
+Books,63.54,0,63.54,Cash on Delivery,2024-06-16
+Electronics,283.44,15,240.92,UPI,2024-06-16
+Sports,114.84,20,91.87,Cash on Delivery,2024-06-17
+Sports,42.01,5,39.91,Credit Card,2024-06-17
+Electronics,69.77,5,66.28,Debit Card,2024-06-17
+Electronics,151.5,10,136.35,Credit Card,2024-06-17
+Electronics,360.82,5,342.78,UPI,2024-06-17
+Clothing,18.84,0,18.84,Credit Card,2024-06-17
+Books,289.83,10,260.85,Credit Card,2024-06-17
+Clothing,201.72,10,181.55,Debit Card,2024-06-17
+Electronics,116.1,10,104.49,UPI,2024-06-17
+Sports,419.54,10,377.59,Cash on Delivery,2024-06-17
+Books,29.3,0,29.3,Net Banking,2024-06-18
+Electronics,109.99,15,93.49,Cash on Delivery,2024-06-18
+Electronics,41.41,20,33.13,Cash on Delivery,2024-06-18
+Home & Kitchen,337.81,25,253.36,Credit Card,2024-06-18
+Sports,407.91,10,367.12,Credit Card,2024-06-18
+Home & Kitchen,186.09,0,186.09,UPI,2024-06-18
+Toys,367.38,15,312.27,Debit Card,2024-06-18
+Toys,138.83,10,124.95,Net Banking,2024-06-18
+Home & Kitchen,206.99,20,165.59,Debit Card,2024-06-18
+Home & Kitchen,152.98,15,130.03,UPI,2024-06-18
+Toys,440.49,5,418.47,Cash on Delivery,2024-06-18
+Home & Kitchen,426.71,50,213.35,Debit Card,2024-06-18
+Clothing,276.74,0,276.74,Debit Card,2024-06-18
+Toys,175.18,10,157.66,Debit Card,2024-06-19
+Beauty,258.08,25,193.56,Net Banking,2024-06-19
+Toys,25.94,5,24.64,UPI,2024-06-19
+Sports,368.83,10,331.95,Debit Card,2024-06-19
+Electronics,131.14,5,124.58,Net Banking,2024-06-19
+Electronics,369.15,0,369.15,Credit Card,2024-06-19
+Books,124.31,50,62.16,UPI,2024-06-19
+Beauty,195.38,15,166.07,Cash on Delivery,2024-06-19
+Books,459.93,0,459.93,Credit Card,2024-06-19
+Home & Kitchen,90.06,10,81.05,Net Banking,2024-06-19
+Clothing,214.75,0,214.75,Debit Card,2024-06-19
+Toys,411.1,30,287.77,Cash on Delivery,2024-06-19
+Electronics,317.23,30,222.06,UPI,2024-06-19
+Clothing,50.89,20,40.71,Credit Card,2024-06-20
+Clothing,195.46,20,156.37,UPI,2024-06-20
+Electronics,235.33,50,117.67,Credit Card,2024-06-20
+Sports,52.31,50,26.16,Debit Card,2024-06-20
+Beauty,464.57,10,418.11,Cash on Delivery,2024-06-20
+Books,119.38,10,107.44,UPI,2024-06-20
+Clothing,305.1,25,228.83,UPI,2024-06-20
+Beauty,22.77,50,11.38,Credit Card,2024-06-20
+Electronics,413.4,30,289.38,Debit Card,2024-06-20
+Clothing,448.02,30,313.61,UPI,2024-06-20
+Toys,420.68,30,294.48,UPI,2024-06-20
+Home & Kitchen,176.77,0,176.77,UPI,2024-06-21
+Sports,288.05,0,288.05,Net Banking,2024-06-21
+Home & Kitchen,202.35,30,141.64,UPI,2024-06-21
+Beauty,243.77,30,170.64,Credit Card,2024-06-21
+Books,19.42,0,19.42,UPI,2024-06-21
+Home & Kitchen,374.73,15,318.52,Cash on Delivery,2024-06-21
+Electronics,256.51,0,256.51,Net Banking,2024-06-21
+Electronics,18.15,0,18.15,Net Banking,2024-06-21
+Clothing,214.77,20,171.82,UPI,2024-06-21
+Clothing,164.44,50,82.22,Debit Card,2024-06-22
+Toys,341.92,20,273.54,Debit Card,2024-06-22
+Electronics,199.44,15,169.52,Credit Card,2024-06-22
+Electronics,476.53,15,405.05,Cash on Delivery,2024-06-22
+Home & Kitchen,215.44,50,107.72,UPI,2024-06-22
+Beauty,196.56,30,137.59,UPI,2024-06-22
+Home & Kitchen,67.95,50,33.98,Debit Card,2024-06-22
+Clothing,322.28,5,306.17,Debit Card,2024-06-22
+Books,315.16,50,157.58,Net Banking,2024-06-22
+Books,259.65,0,259.65,UPI,2024-06-22
+Beauty,96.86,10,87.17,Net Banking,2024-06-23
+Sports,345.75,0,345.75,UPI,2024-06-23
+Books,205.38,30,143.77,Debit Card,2024-06-23
+Toys,446.49,50,223.25,Net Banking,2024-06-23
+Sports,236.78,25,177.59,Net Banking,2024-06-23
+Sports,130.51,30,91.36,Cash on Delivery,2024-06-23
+Beauty,82.95,10,74.66,Credit Card,2024-06-23
+Books,277.39,20,221.91,UPI,2024-06-23
+Toys,498.37,10,448.53,Credit Card,2024-06-23
+Clothing,161.02,30,112.71,Debit Card,2024-06-24
+Toys,303.28,0,303.28,Net Banking,2024-06-24
+Beauty,214.8,25,161.1,Net Banking,2024-06-24
+Clothing,128.89,25,96.67,Net Banking,2024-06-24
+Books,58.66,15,49.86,Debit Card,2024-06-24
+Clothing,350.78,10,315.7,Debit Card,2024-06-24
+Beauty,470.18,50,235.09,Debit Card,2024-06-24
+Clothing,191.08,20,152.86,UPI,2024-06-24
+Clothing,106.96,10,96.26,Debit Card,2024-06-25
+Sports,479.89,15,407.91,Credit Card,2024-06-25
+Toys,329.85,10,296.87,Credit Card,2024-06-25
+Toys,442.58,5,420.45,Net Banking,2024-06-25
+Sports,486.15,5,461.84,Net Banking,2024-06-25
+Home & Kitchen,205.66,20,164.53,Debit Card,2024-06-25
+Electronics,352.47,0,352.47,Net Banking,2024-06-25
+Toys,248.35,0,248.35,Debit Card,2024-06-25
+Beauty,458.8,50,229.4,Net Banking,2024-06-25
+Beauty,78.87,5,74.93,Debit Card,2024-06-25
+Clothing,181.26,50,90.63,Cash on Delivery,2024-06-26
+Clothing,123.37,25,92.53,Credit Card,2024-06-26
+Home & Kitchen,369.05,5,350.6,Debit Card,2024-06-26
+Beauty,372.91,25,279.68,Cash on Delivery,2024-06-26
+Toys,44.62,50,22.31,Debit Card,2024-06-26
+Electronics,286.82,25,215.12,Net Banking,2024-06-26
+Electronics,206.43,25,154.82,UPI,2024-06-26
+Clothing,207.54,10,186.79,Debit Card,2024-06-26
+Books,125.28,0,125.28,Cash on Delivery,2024-06-26
+Books,285.83,10,257.25,UPI,2024-06-27
+Home & Kitchen,374.41,20,299.53,Debit Card,2024-06-27
+Home & Kitchen,319.86,15,271.88,Credit Card,2024-06-27
+Sports,67.67,50,33.84,Net Banking,2024-06-27
+Sports,155.36,10,139.82,Credit Card,2024-06-27
+Books,22.47,50,11.23,UPI,2024-06-27
+Toys,388.1,25,291.08,Cash on Delivery,2024-06-28
+Books,107.85,0,107.85,Credit Card,2024-06-28
+Toys,487.62,25,365.72,Credit Card,2024-06-28
+Toys,248.71,15,211.4,Cash on Delivery,2024-06-28
+Electronics,251.32,5,238.75,Credit Card,2024-06-28
+Beauty,297.35,30,208.15,Debit Card,2024-06-28
+Sports,195.46,0,195.46,UPI,2024-06-28
+Clothing,117.74,20,94.19,Net Banking,2024-06-28
+Electronics,286.86,25,215.15,Net Banking,2024-06-28
+Home & Kitchen,226.61,0,226.61,Net Banking,2024-06-28
+Toys,245.98,15,209.08,Cash on Delivery,2024-06-28
+Books,382.19,0,382.19,Credit Card,2024-06-29
+Sports,63.89,5,60.7,Cash on Delivery,2024-06-29
+Electronics,469.59,10,422.63,Credit Card,2024-06-29
+Books,282.65,20,226.12,Credit Card,2024-06-29
+Books,354.11,0,354.11,Debit Card,2024-06-29
+Sports,46.48,0,46.48,Net Banking,2024-06-29
+Electronics,31.72,20,25.38,UPI,2024-06-29
+Sports,24.41,10,21.97,Cash on Delivery,2024-06-29
+Toys,480.9,5,456.85,Net Banking,2024-06-29
+Sports,49.67,30,34.77,Credit Card,2024-06-30
+Toys,369.33,5,350.86,UPI,2024-06-30
+Books,90.16,5,85.65,UPI,2024-06-30
+Home & Kitchen,185.13,5,175.87,Cash on Delivery,2024-06-30
+Toys,317.61,0,317.61,Debit Card,2024-06-30
+Electronics,57.23,5,54.37,Debit Card,2024-06-30
+Electronics,414.76,0,414.76,Debit Card,2024-06-30
+Books,172.11,25,129.08,Net Banking,2024-07-01
+Toys,404.07,15,343.46,UPI,2024-07-01
+Toys,482.78,30,337.95,Credit Card,2024-07-01
+Books,256.66,10,230.99,Credit Card,2024-07-01
+Toys,490.75,30,343.52,Credit Card,2024-07-01
+Sports,464.98,10,418.48,Debit Card,2024-07-01
+Sports,243.15,25,182.36,Debit Card,2024-07-01
+Electronics,37.39,50,18.7,UPI,2024-07-01
+Sports,433.94,0,433.94,Cash on Delivery,2024-07-01
+Clothing,177.67,10,159.9,Credit Card,2024-07-01
+Electronics,188.07,50,94.03,Debit Card,2024-07-01
+Beauty,462.91,20,370.33,Cash on Delivery,2024-07-02
+Clothing,147.44,25,110.58,Net Banking,2024-07-02
+Beauty,94.97,30,66.48,UPI,2024-07-02
+Clothing,468.37,15,398.11,UPI,2024-07-02
+Beauty,298.24,30,208.77,UPI,2024-07-02
+Clothing,76.69,0,76.69,Debit Card,2024-07-02
+Beauty,362.88,25,272.16,Net Banking,2024-07-03
+Electronics,196.1,15,166.69,Credit Card,2024-07-03
+Beauty,427.72,30,299.4,UPI,2024-07-03
+Sports,465.65,50,232.82,Debit Card,2024-07-03
+Beauty,449.76,15,382.3,Net Banking,2024-07-03
+Sports,421.0,10,378.9,Net Banking,2024-07-03
+Books,41.21,0,41.21,Credit Card,2024-07-03
+Toys,323.46,10,291.11,Debit Card,2024-07-03
+Beauty,17.62,30,12.33,Credit Card,2024-07-03
+Toys,43.23,30,30.26,Credit Card,2024-07-03
+Sports,82.48,10,74.23,Net Banking,2024-07-03
+Beauty,228.74,0,228.74,UPI,2024-07-04
+Books,103.52,10,93.17,UPI,2024-07-04
+Books,493.54,20,394.83,UPI,2024-07-04
+Sports,349.27,15,296.88,Debit Card,2024-07-04
+Sports,399.69,25,299.77,Cash on Delivery,2024-07-04
+Toys,102.86,30,72.0,UPI,2024-07-05
+Books,321.92,50,160.96,Debit Card,2024-07-05
+Toys,42.38,15,36.02,UPI,2024-07-05
+Sports,272.29,0,272.29,Debit Card,2024-07-05
+Beauty,416.65,15,354.15,Net Banking,2024-07-05
+Toys,393.1,0,393.1,Cash on Delivery,2024-07-05
+Toys,359.32,0,359.32,UPI,2024-07-05
+Electronics,24.68,30,17.28,UPI,2024-07-06
+Beauty,82.45,0,82.45,Debit Card,2024-07-06
+Toys,326.03,10,293.43,Cash on Delivery,2024-07-06
+Electronics,142.61,10,128.35,Cash on Delivery,2024-07-06
+Beauty,459.39,30,321.57,Cash on Delivery,2024-07-06
+Toys,241.52,5,229.44,Debit Card,2024-07-07
+Beauty,362.99,15,308.54,Credit Card,2024-07-07
+Sports,87.7,0,87.7,Credit Card,2024-07-07
+Beauty,193.42,10,174.08,Net Banking,2024-07-07
+Electronics,388.03,5,368.63,Net Banking,2024-07-07
+Electronics,211.17,50,105.58,UPI,2024-07-07
+Electronics,381.37,20,305.1,Debit Card,2024-07-07
+Toys,400.25,30,280.17,Credit Card,2024-07-07
+Books,147.52,25,110.64,Credit Card,2024-07-07
+Home & Kitchen,492.64,20,394.11,Credit Card,2024-07-07
+Clothing,247.81,0,247.81,UPI,2024-07-07
+Toys,345.41,10,310.87,Net Banking,2024-07-07
+Beauty,112.45,0,112.45,Credit Card,2024-07-07
+Home & Kitchen,53.69,25,40.27,Credit Card,2024-07-07
+Home & Kitchen,292.38,30,204.67,Credit Card,2024-07-07
+Sports,169.71,25,127.28,Credit Card,2024-07-08
+Sports,296.55,5,281.72,Credit Card,2024-07-08
+Home & Kitchen,321.07,20,256.86,Cash on Delivery,2024-07-08
+Sports,135.71,50,67.86,Debit Card,2024-07-08
+Books,487.32,10,438.59,Net Banking,2024-07-08
+Electronics,370.53,0,370.53,UPI,2024-07-08
+Toys,69.38,15,58.97,Credit Card,2024-07-08
+Books,275.25,20,220.2,Cash on Delivery,2024-07-08
+Books,210.7,10,189.63,UPI,2024-07-08
+Toys,386.46,30,270.52,Credit Card,2024-07-08
+Electronics,176.01,0,176.01,Debit Card,2024-07-09
+Sports,361.24,50,180.62,Credit Card,2024-07-09
+Electronics,104.5,20,83.6,Net Banking,2024-07-09
+Electronics,273.52,25,205.14,Credit Card,2024-07-09
+Electronics,458.09,10,412.28,Net Banking,2024-07-09
+Beauty,462.62,30,323.83,Debit Card,2024-07-09
+Books,335.84,5,319.05,Net Banking,2024-07-09
+Clothing,481.0,30,336.7,UPI,2024-07-09
+Home & Kitchen,457.4,50,228.7,UPI,2024-07-09
+Home & Kitchen,302.97,15,257.52,Cash on Delivery,2024-07-09
+Books,427.4,20,341.92,UPI,2024-07-09
+Home & Kitchen,440.43,5,418.41,UPI,2024-07-10
+Sports,137.6,30,96.32,Debit Card,2024-07-10
+Electronics,37.82,5,35.93,Debit Card,2024-07-10
+Electronics,59.48,50,29.74,Credit Card,2024-07-10
+Clothing,407.36,0,407.36,UPI,2024-07-10
+Sports,347.3,0,347.3,UPI,2024-07-10
+Home & Kitchen,495.95,5,471.15,Debit Card,2024-07-10
+Sports,454.39,15,386.23,Credit Card,2024-07-10
+Clothing,260.12,0,260.12,Credit Card,2024-07-11
+Beauty,85.54,25,64.16,Credit Card,2024-07-11
+Sports,284.81,0,284.81,Cash on Delivery,2024-07-11
+Electronics,410.94,0,410.94,Net Banking,2024-07-11
+Home & Kitchen,467.35,50,233.68,Debit Card,2024-07-11
+Beauty,257.18,5,244.32,Credit Card,2024-07-11
+Clothing,323.65,30,226.55,Debit Card,2024-07-11
+Clothing,309.01,20,247.21,Credit Card,2024-07-11
+Electronics,389.86,10,350.87,Net Banking,2024-07-11
+Books,301.53,5,286.45,Cash on Delivery,2024-07-11
+Beauty,196.18,30,137.33,Credit Card,2024-07-11
+Home & Kitchen,239.96,50,119.98,Debit Card,2024-07-11
+Home & Kitchen,233.42,0,233.42,Credit Card,2024-07-11
+Clothing,23.54,20,18.83,Debit Card,2024-07-11
+Sports,163.86,25,122.9,Net Banking,2024-07-11
+Sports,387.5,30,271.25,UPI,2024-07-11
+Electronics,456.79,15,388.27,Credit Card,2024-07-11
+Sports,247.75,5,235.36,Net Banking,2024-07-11
+Clothing,474.3,10,426.87,Net Banking,2024-07-12
+Beauty,135.77,25,101.83,Credit Card,2024-07-12
+Sports,344.57,50,172.28,Cash on Delivery,2024-07-12
+Home & Kitchen,196.14,25,147.1,UPI,2024-07-12
+Clothing,280.31,10,252.28,UPI,2024-07-12
+Toys,343.0,0,343.0,Net Banking,2024-07-12
+Electronics,148.73,10,133.86,Cash on Delivery,2024-07-12
+Toys,476.9,30,333.83,Credit Card,2024-07-12
+Sports,187.71,10,168.94,Cash on Delivery,2024-07-12
+Beauty,278.86,5,264.92,Credit Card,2024-07-12
+Sports,48.49,10,43.64,Credit Card,2024-07-12
+Toys,308.37,50,154.19,UPI,2024-07-12
+Home & Kitchen,187.84,20,150.27,Net Banking,2024-07-12
+Sports,119.97,50,59.98,Debit Card,2024-07-12
+Books,444.5,30,311.15,Debit Card,2024-07-13
+Books,105.61,10,95.05,Cash on Delivery,2024-07-13
+Books,368.42,20,294.74,UPI,2024-07-13
+Books,173.32,10,155.99,UPI,2024-07-13
+Toys,282.3,50,141.15,UPI,2024-07-13
+Electronics,50.81,10,45.73,UPI,2024-07-13
+Books,108.88,15,92.55,Net Banking,2024-07-13
+Home & Kitchen,243.62,20,194.9,Credit Card,2024-07-13
+Home & Kitchen,370.42,30,259.29,UPI,2024-07-13
+Books,260.56,5,247.53,Net Banking,2024-07-14
+Clothing,291.47,15,247.75,Cash on Delivery,2024-07-14
+Clothing,82.72,20,66.18,Cash on Delivery,2024-07-14
+Home & Kitchen,339.21,10,305.29,Credit Card,2024-07-14
+Toys,194.33,20,155.46,Cash on Delivery,2024-07-14
+Toys,48.52,25,36.39,Cash on Delivery,2024-07-14
+Electronics,146.46,5,139.14,Net Banking,2024-07-14
+Sports,349.84,15,297.36,UPI,2024-07-14
+Clothing,212.08,10,190.87,Credit Card,2024-07-14
+Clothing,263.46,30,184.42,Debit Card,2024-07-14
+Sports,64.68,30,45.28,Credit Card,2024-07-14
+Home & Kitchen,90.79,0,90.79,Net Banking,2024-07-15
+Sports,430.99,30,301.69,Credit Card,2024-07-15
+Electronics,69.19,15,58.81,Debit Card,2024-07-15
+Clothing,428.52,50,214.26,Credit Card,2024-07-15
+Clothing,90.01,30,63.01,UPI,2024-07-15
+Books,365.39,5,347.12,Credit Card,2024-07-15
+Sports,480.49,0,480.49,Cash on Delivery,2024-07-15
+Sports,255.19,0,255.19,Debit Card,2024-07-15
+Books,168.56,0,168.56,Net Banking,2024-07-15
+Beauty,271.29,0,271.29,Credit Card,2024-07-15
+Beauty,72.08,15,61.27,UPI,2024-07-15
+Electronics,151.14,10,136.03,UPI,2024-07-15
+Home & Kitchen,143.25,20,114.6,UPI,2024-07-15
+Home & Kitchen,41.2,5,39.14,Net Banking,2024-07-15
+Books,277.14,10,249.43,UPI,2024-07-15
+Electronics,215.89,50,107.94,Net Banking,2024-07-15
+Electronics,250.1,25,187.57,Credit Card,2024-07-15
+Books,434.51,15,369.33,Credit Card,2024-07-15
+Books,341.41,10,307.27,Net Banking,2024-07-15
+Electronics,182.3,15,154.96,Credit Card,2024-07-16
+Sports,152.63,30,106.84,Debit Card,2024-07-16
+Clothing,267.88,50,133.94,UPI,2024-07-16
+Toys,132.08,20,105.66,Cash on Delivery,2024-07-16
+Electronics,130.53,15,110.95,UPI,2024-07-16
+Electronics,362.98,0,362.98,UPI,2024-07-16
+Electronics,145.86,50,72.93,UPI,2024-07-16
+Beauty,26.18,20,20.94,UPI,2024-07-17
+Home & Kitchen,156.3,0,156.3,UPI,2024-07-17
+Home & Kitchen,241.97,10,217.77,Cash on Delivery,2024-07-17
+Beauty,480.82,5,456.78,UPI,2024-07-17
+Sports,177.91,5,169.01,Credit Card,2024-07-17
+Sports,144.11,0,144.11,Debit Card,2024-07-17
+Electronics,99.49,20,79.59,Debit Card,2024-07-17
+Electronics,87.03,5,82.68,Net Banking,2024-07-17
+Home & Kitchen,379.22,15,322.34,Net Banking,2024-07-17
+Electronics,450.82,5,428.28,Credit Card,2024-07-18
+Clothing,405.45,25,304.09,UPI,2024-07-18
+Home & Kitchen,493.1,25,369.83,Net Banking,2024-07-18
+Toys,361.98,10,325.78,UPI,2024-07-18
+Electronics,18.8,25,14.1,UPI,2024-07-18
+Electronics,210.34,0,210.34,Debit Card,2024-07-18
+Beauty,299.69,5,284.71,Cash on Delivery,2024-07-18
+Toys,219.48,25,164.61,Debit Card,2024-07-18
+Toys,286.83,20,229.46,Net Banking,2024-07-18
+Beauty,430.19,20,344.15,Cash on Delivery,2024-07-18
+Home & Kitchen,15.48,20,12.38,UPI,2024-07-18
+Toys,154.93,30,108.45,Cash on Delivery,2024-07-18
+Books,496.31,25,372.23,Cash on Delivery,2024-07-18
+Sports,415.93,30,291.15,Credit Card,2024-07-18
+Sports,122.96,15,104.52,Cash on Delivery,2024-07-18
+Books,428.84,0,428.84,Net Banking,2024-07-18
+Beauty,177.76,10,159.98,Cash on Delivery,2024-07-18
+Home & Kitchen,431.84,10,388.66,Credit Card,2024-07-18
+Books,183.51,15,155.98,UPI,2024-07-18
+Home & Kitchen,429.78,5,408.29,Debit Card,2024-07-19
+Toys,403.69,5,383.51,Debit Card,2024-07-19
+Clothing,122.21,20,97.77,Net Banking,2024-07-19
+Clothing,421.59,0,421.59,Credit Card,2024-07-19
+Books,96.23,20,76.98,Debit Card,2024-07-19
+Clothing,15.47,10,13.92,UPI,2024-07-19
+Home & Kitchen,264.13,5,250.92,Cash on Delivery,2024-07-19
+Books,350.21,20,280.17,Debit Card,2024-07-19
+Electronics,94.83,0,94.83,Credit Card,2024-07-19
+Electronics,147.85,25,110.89,Credit Card,2024-07-19
+Toys,456.87,25,342.65,Credit Card,2024-07-19
+Electronics,448.19,5,425.78,Credit Card,2024-07-19
+Electronics,356.25,30,249.37,UPI,2024-07-19
+Clothing,450.5,5,427.97,Debit Card,2024-07-20
+Sports,491.92,30,344.34,Cash on Delivery,2024-07-20
+Home & Kitchen,389.85,30,272.89,Net Banking,2024-07-20
+Electronics,294.36,50,147.18,Cash on Delivery,2024-07-20
+Toys,261.57,50,130.78,Debit Card,2024-07-20
+Sports,308.95,30,216.26,Cash on Delivery,2024-07-20
+Electronics,33.8,50,16.9,Net Banking,2024-07-20
+Books,455.69,25,341.77,Debit Card,2024-07-20
+Home & Kitchen,224.1,25,168.07,Cash on Delivery,2024-07-20
+Books,247.3,25,185.48,Cash on Delivery,2024-07-21
+Home & Kitchen,28.94,10,26.05,Debit Card,2024-07-21
+Electronics,40.86,30,28.6,Credit Card,2024-07-21
+Books,187.3,50,93.65,Net Banking,2024-07-21
+Electronics,159.29,0,159.29,Cash on Delivery,2024-07-21
+Beauty,359.09,15,305.23,Net Banking,2024-07-21
+Books,270.41,5,256.89,UPI,2024-07-21
+Clothing,393.56,25,295.17,Net Banking,2024-07-21
+Home & Kitchen,92.03,20,73.62,Credit Card,2024-07-21
+Electronics,398.65,30,279.05,Net Banking,2024-07-21
+Home & Kitchen,429.88,25,322.41,Credit Card,2024-07-21
+Home & Kitchen,108.07,50,54.03,Net Banking,2024-07-21
+Sports,153.68,25,115.26,UPI,2024-07-21
+Toys,268.14,0,268.14,Debit Card,2024-07-21
+Clothing,32.66,15,27.76,Cash on Delivery,2024-07-22
+Electronics,319.29,50,159.65,UPI,2024-07-22
+Home & Kitchen,211.62,0,211.62,Net Banking,2024-07-22
+Toys,222.36,0,222.36,Net Banking,2024-07-22
+Home & Kitchen,388.41,25,291.31,Cash on Delivery,2024-07-22
+Home & Kitchen,79.25,25,59.44,Credit Card,2024-07-22
+Toys,163.27,25,122.45,UPI,2024-07-22
+Toys,155.75,50,77.88,Credit Card,2024-07-22
+Books,301.12,0,301.12,Cash on Delivery,2024-07-22
+Clothing,312.85,25,234.64,Net Banking,2024-07-22
+Books,198.11,50,99.06,Credit Card,2024-07-22
+Electronics,43.97,10,39.57,Net Banking,2024-07-23
+Clothing,308.25,50,154.12,Debit Card,2024-07-23
+Toys,261.36,10,235.22,Credit Card,2024-07-23
+Sports,317.98,5,302.08,Credit Card,2024-07-23
+Books,158.66,5,150.73,Debit Card,2024-07-23
+Beauty,74.55,30,52.18,Cash on Delivery,2024-07-23
+Clothing,41.68,0,41.68,Net Banking,2024-07-23
+Home & Kitchen,408.28,25,306.21,UPI,2024-07-23
+Clothing,448.81,20,359.05,Credit Card,2024-07-23
+Home & Kitchen,435.73,50,217.87,Debit Card,2024-07-23
+Home & Kitchen,31.08,15,26.42,UPI,2024-07-23
+Toys,221.29,20,177.03,Net Banking,2024-07-23
+Home & Kitchen,38.91,50,19.45,Net Banking,2024-07-23
+Books,311.38,15,264.67,Debit Card,2024-07-24
+Home & Kitchen,141.52,20,113.22,UPI,2024-07-24
+Home & Kitchen,167.6,25,125.7,Debit Card,2024-07-24
+Clothing,430.38,0,430.38,UPI,2024-07-24
+Beauty,342.66,30,239.86,UPI,2024-07-24
+Clothing,229.85,5,218.36,Credit Card,2024-07-24
+Electronics,109.9,15,93.42,Credit Card,2024-07-24
+Home & Kitchen,176.59,50,88.3,Net Banking,2024-07-24
+Sports,406.83,15,345.81,Net Banking,2024-07-24
+Books,249.63,10,224.67,Net Banking,2024-07-24
+Electronics,325.14,20,260.11,Cash on Delivery,2024-07-24
+Beauty,179.62,50,89.81,Credit Card,2024-07-24
+Toys,330.88,15,281.25,Credit Card,2024-07-24
+Electronics,165.56,30,115.89,Debit Card,2024-07-24
+Books,437.82,0,437.82,Credit Card,2024-07-25
+Electronics,299.27,5,284.31,Debit Card,2024-07-25
+Clothing,219.19,25,164.39,UPI,2024-07-25
+Books,221.69,5,210.61,Credit Card,2024-07-25
+Electronics,310.01,10,279.01,Debit Card,2024-07-25
+Books,332.89,0,332.89,Net Banking,2024-07-25
+Sports,56.83,30,39.78,Credit Card,2024-07-25
+Toys,307.03,30,214.92,Net Banking,2024-07-25
+Beauty,499.65,10,449.69,Debit Card,2024-07-25
+Books,436.57,0,436.57,UPI,2024-07-25
+Sports,287.83,30,201.48,Debit Card,2024-07-25
+Toys,329.94,15,280.45,Debit Card,2024-07-25
+Sports,368.86,50,184.43,Cash on Delivery,2024-07-25
+Beauty,377.99,10,340.19,Debit Card,2024-07-26
+Clothing,41.27,5,39.21,Net Banking,2024-07-26
+Books,414.17,10,372.75,UPI,2024-07-26
+Toys,115.23,25,86.42,UPI,2024-07-26
+Books,84.47,5,80.25,Cash on Delivery,2024-07-26
+Sports,209.81,0,209.81,UPI,2024-07-26
+Electronics,171.56,20,137.25,UPI,2024-07-26
+Clothing,210.43,15,178.87,Net Banking,2024-07-26
+Clothing,48.25,10,43.43,UPI,2024-07-26
+Clothing,358.51,30,250.96,Credit Card,2024-07-26
+Clothing,428.15,25,321.11,Credit Card,2024-07-27
+Clothing,404.92,25,303.69,Cash on Delivery,2024-07-27
+Beauty,372.63,0,372.63,Cash on Delivery,2024-07-27
+Sports,249.57,50,124.78,Debit Card,2024-07-27
+Clothing,254.32,0,254.32,UPI,2024-07-27
+Books,168.18,5,159.77,Credit Card,2024-07-27
+Toys,296.84,25,222.63,Net Banking,2024-07-27
+Beauty,402.97,50,201.49,UPI,2024-07-27
+Beauty,293.28,30,205.3,Net Banking,2024-07-27
+Sports,75.21,15,63.93,Credit Card,2024-07-28
+Books,168.68,25,126.51,Cash on Delivery,2024-07-28
+Toys,65.75,0,65.75,Credit Card,2024-07-28
+Home & Kitchen,313.37,15,266.36,UPI,2024-07-28
+Home & Kitchen,154.46,5,146.74,Net Banking,2024-07-28
+Electronics,280.2,0,280.2,UPI,2024-07-28
+Toys,289.62,10,260.66,Net Banking,2024-07-28
+Home & Kitchen,407.25,10,366.53,Cash on Delivery,2024-07-28
+Electronics,178.67,20,142.94,Cash on Delivery,2024-07-28
+Electronics,284.9,0,284.9,UPI,2024-07-28
+Home & Kitchen,198.84,50,99.42,UPI,2024-07-28
+Home & Kitchen,268.41,20,214.73,Cash on Delivery,2024-07-28
+Electronics,159.68,30,111.78,Debit Card,2024-07-29
+Toys,93.61,30,65.53,Cash on Delivery,2024-07-29
+Clothing,254.19,10,228.77,Credit Card,2024-07-29
+Toys,108.04,25,81.03,UPI,2024-07-29
+Toys,103.8,0,103.8,Debit Card,2024-07-29
+Sports,30.46,30,21.32,UPI,2024-07-29
+Books,98.06,0,98.06,Debit Card,2024-07-29
+Electronics,477.0,25,357.75,Credit Card,2024-07-29
+Electronics,285.03,25,213.77,Debit Card,2024-07-29
+Books,26.45,25,19.84,Cash on Delivery,2024-07-29
+Toys,273.85,0,273.85,Cash on Delivery,2024-07-29
+Beauty,119.15,30,83.41,Cash on Delivery,2024-07-29
+Toys,130.19,5,123.68,Cash on Delivery,2024-07-29
+Home & Kitchen,469.29,5,445.83,Cash on Delivery,2024-07-29
+Beauty,453.66,0,453.66,Cash on Delivery,2024-07-29
+Beauty,19.44,15,16.52,Net Banking,2024-07-30
+Home & Kitchen,129.1,50,64.55,Net Banking,2024-07-30
+Sports,289.79,10,260.81,Debit Card,2024-07-30
+Home & Kitchen,265.18,5,251.92,UPI,2024-07-30
+Home & Kitchen,50.18,50,25.09,Net Banking,2024-07-30
+Books,415.48,15,353.16,Cash on Delivery,2024-07-30
+Electronics,402.37,0,402.37,Net Banking,2024-07-30
+Sports,496.36,25,372.27,Credit Card,2024-07-30
+Sports,253.73,10,228.36,Net Banking,2024-07-31
+Clothing,186.72,50,93.36,Credit Card,2024-07-31
+Beauty,223.73,30,156.61,Net Banking,2024-07-31
+Home & Kitchen,251.98,50,125.99,UPI,2024-07-31
+Clothing,311.0,25,233.25,Net Banking,2024-07-31
+Clothing,353.93,0,353.93,Net Banking,2024-07-31
+Electronics,316.29,30,221.4,Net Banking,2024-07-31
+Clothing,93.28,15,79.29,Net Banking,2024-07-31
+Sports,95.15,5,90.39,UPI,2024-07-31
+Toys,437.06,0,437.06,Debit Card,2024-07-31
+Books,498.73,25,374.05,UPI,2024-08-01
+Clothing,387.81,20,310.25,Cash on Delivery,2024-08-01
+Electronics,71.16,0,71.16,Net Banking,2024-08-01
+Home & Kitchen,212.65,50,106.33,UPI,2024-08-02
+Electronics,143.68,10,129.31,UPI,2024-08-02
+Home & Kitchen,349.25,10,314.32,UPI,2024-08-02
+Sports,156.89,50,78.44,UPI,2024-08-02
+Electronics,128.88,10,115.99,Debit Card,2024-08-02
+Toys,209.1,50,104.55,Credit Card,2024-08-02
+Toys,221.23,25,165.92,UPI,2024-08-02
+Beauty,468.38,25,351.28,Debit Card,2024-08-02
+Electronics,490.91,30,343.64,Net Banking,2024-08-02
+Home & Kitchen,108.12,50,54.06,Cash on Delivery,2024-08-02
+Electronics,365.38,50,182.69,UPI,2024-08-02
+Electronics,464.71,50,232.35,UPI,2024-08-03
+Clothing,490.77,10,441.69,UPI,2024-08-03
+Books,243.06,10,218.75,UPI,2024-08-03
+Toys,400.31,25,300.23,Net Banking,2024-08-03
+Books,285.17,0,285.17,Credit Card,2024-08-03
+Electronics,269.89,5,256.4,Credit Card,2024-08-03
+Sports,189.54,25,142.16,Debit Card,2024-08-03
+Sports,250.91,30,175.64,Net Banking,2024-08-03
+Home & Kitchen,298.68,30,209.08,UPI,2024-08-04
+Toys,232.86,20,186.29,Cash on Delivery,2024-08-04
+Home & Kitchen,313.34,30,219.34,Cash on Delivery,2024-08-04
+Electronics,260.45,25,195.34,UPI,2024-08-04
+Clothing,102.54,30,71.78,Debit Card,2024-08-04
+Clothing,15.45,0,15.45,UPI,2024-08-04
+Toys,216.8,30,151.76,Cash on Delivery,2024-08-04
+Sports,78.11,25,58.58,UPI,2024-08-04
+Electronics,257.41,25,193.06,UPI,2024-08-04
+Electronics,429.43,50,214.72,Credit Card,2024-08-04
+Home & Kitchen,154.33,25,115.75,Credit Card,2024-08-04
+Sports,86.95,25,65.21,Cash on Delivery,2024-08-05
+Sports,146.46,5,139.14,Cash on Delivery,2024-08-05
+Toys,73.18,50,36.59,Debit Card,2024-08-05
+Beauty,221.53,0,221.53,Debit Card,2024-08-05
+Beauty,381.75,50,190.88,Net Banking,2024-08-05
+Books,440.57,5,418.54,UPI,2024-08-05
+Beauty,147.84,20,118.27,Cash on Delivery,2024-08-05
+Home & Kitchen,214.64,20,171.71,Cash on Delivery,2024-08-05
+Electronics,352.95,50,176.47,UPI,2024-08-05
+Books,119.61,50,59.8,Debit Card,2024-08-06
+Books,209.08,5,198.63,UPI,2024-08-06
+Electronics,375.81,30,263.07,Debit Card,2024-08-06
+Beauty,235.13,25,176.35,UPI,2024-08-06
+Electronics,429.9,25,322.42,Cash on Delivery,2024-08-06
+Home & Kitchen,301.37,0,301.37,Credit Card,2024-08-06
+Books,52.51,25,39.38,Credit Card,2024-08-06
+Sports,269.87,50,134.94,UPI,2024-08-06
+Toys,49.61,10,44.65,Net Banking,2024-08-06
+Home & Kitchen,218.58,5,207.65,Debit Card,2024-08-06
+Clothing,184.6,20,147.68,Debit Card,2024-08-06
+Books,224.84,15,191.11,Credit Card,2024-08-06
+Toys,270.73,20,216.58,Net Banking,2024-08-06
+Clothing,394.07,5,374.37,UPI,2024-08-06
+Home & Kitchen,202.49,25,151.87,Net Banking,2024-08-06
+Electronics,186.96,20,149.57,Credit Card,2024-08-06
+Home & Kitchen,394.59,0,394.59,Cash on Delivery,2024-08-06
+Home & Kitchen,305.94,5,290.64,Cash on Delivery,2024-08-07
+Electronics,191.54,0,191.54,Debit Card,2024-08-07
+Toys,449.87,5,427.38,Debit Card,2024-08-07
+Home & Kitchen,389.76,0,389.76,Net Banking,2024-08-07
+Home & Kitchen,125.71,5,119.42,Net Banking,2024-08-07
+Toys,262.88,10,236.59,Net Banking,2024-08-07
+Clothing,412.47,15,350.6,Cash on Delivery,2024-08-07
+Sports,64.49,50,32.24,Net Banking,2024-08-07
+Home & Kitchen,19.09,5,18.14,Net Banking,2024-08-07
+Beauty,380.5,25,285.38,UPI,2024-08-07
+Books,13.49,5,12.82,Debit Card,2024-08-07
+Electronics,406.9,20,325.52,Credit Card,2024-08-07
+Electronics,384.9,20,307.92,UPI,2024-08-07
+Beauty,144.56,10,130.1,UPI,2024-08-08
+Beauty,358.01,5,340.11,Net Banking,2024-08-08
+Books,235.75,20,188.6,Cash on Delivery,2024-08-08
+Books,241.86,50,120.93,UPI,2024-08-08
+Home & Kitchen,52.98,0,52.98,Net Banking,2024-08-08
+Clothing,374.15,10,336.74,Net Banking,2024-08-08
+Clothing,419.78,20,335.82,UPI,2024-08-08
+Toys,420.77,10,378.69,Cash on Delivery,2024-08-08
+Home & Kitchen,389.59,10,350.63,Credit Card,2024-08-08
+Toys,197.83,25,148.37,Net Banking,2024-08-08
+Home & Kitchen,164.51,10,148.06,Debit Card,2024-08-08
+Sports,204.33,10,183.9,Credit Card,2024-08-08
+Beauty,126.15,50,63.08,Cash on Delivery,2024-08-08
+Sports,497.4,50,248.7,Debit Card,2024-08-08
+Beauty,89.92,25,67.44,Credit Card,2024-08-09
+Clothing,233.95,10,210.56,Cash on Delivery,2024-08-09
+Toys,467.24,0,467.24,UPI,2024-08-09
+Sports,246.87,10,222.18,UPI,2024-08-09
+Home & Kitchen,112.53,30,78.77,Net Banking,2024-08-09
+Clothing,116.77,5,110.93,Credit Card,2024-08-09
+Sports,330.13,50,165.06,Debit Card,2024-08-09
+Electronics,214.63,25,160.97,Net Banking,2024-08-09
+Books,221.27,30,154.89,Cash on Delivery,2024-08-09
+Clothing,390.78,25,293.08,Cash on Delivery,2024-08-09
+Beauty,102.7,30,71.89,Credit Card,2024-08-09
+Toys,393.82,50,196.91,Cash on Delivery,2024-08-10
+Beauty,286.5,5,272.18,Credit Card,2024-08-10
+Books,465.64,0,465.64,Debit Card,2024-08-10
+Home & Kitchen,207.33,20,165.86,Cash on Delivery,2024-08-10
+Books,152.35,50,76.17,UPI,2024-08-10
+Electronics,86.0,30,60.2,Net Banking,2024-08-10
+Books,375.68,10,338.11,UPI,2024-08-10
+Clothing,377.06,5,358.21,Credit Card,2024-08-11
+Beauty,479.19,0,479.19,Debit Card,2024-08-11
+Electronics,427.8,20,342.24,Credit Card,2024-08-11
+Electronics,433.48,50,216.74,UPI,2024-08-11
+Books,183.06,30,128.14,Cash on Delivery,2024-08-11
+Sports,51.31,50,25.66,Net Banking,2024-08-11
+Toys,263.15,5,249.99,Net Banking,2024-08-11
+Toys,95.61,30,66.93,Cash on Delivery,2024-08-11
+Home & Kitchen,245.49,20,196.39,UPI,2024-08-11
+Books,246.17,5,233.86,Credit Card,2024-08-11
+Home & Kitchen,459.03,20,367.22,Credit Card,2024-08-11
+Beauty,117.7,25,88.28,Net Banking,2024-08-11
+Home & Kitchen,172.7,30,120.89,UPI,2024-08-11
+Toys,280.73,5,266.69,Credit Card,2024-08-11
+Books,422.91,25,317.18,UPI,2024-08-12
+Home & Kitchen,55.95,10,50.36,Credit Card,2024-08-12
+Beauty,129.27,15,109.88,Debit Card,2024-08-12
+Clothing,427.29,5,405.93,Credit Card,2024-08-12
+Home & Kitchen,182.35,0,182.35,Debit Card,2024-08-12
+Toys,447.34,30,313.14,Debit Card,2024-08-12
+Sports,468.72,30,328.1,UPI,2024-08-12
+Beauty,27.26,30,19.08,Debit Card,2024-08-12
+Sports,11.94,20,9.55,Debit Card,2024-08-13
+Clothing,395.41,10,355.87,Cash on Delivery,2024-08-13
+Toys,252.68,0,252.68,UPI,2024-08-13
+Electronics,266.16,5,252.85,Cash on Delivery,2024-08-13
+Beauty,135.49,25,101.62,UPI,2024-08-13
+Sports,155.04,20,124.03,Cash on Delivery,2024-08-13
+Books,205.06,25,153.8,Cash on Delivery,2024-08-13
+Beauty,146.55,20,117.24,Debit Card,2024-08-13
+Clothing,79.33,20,63.46,UPI,2024-08-13
+Clothing,155.81,50,77.91,UPI,2024-08-14
+Home & Kitchen,171.64,20,137.31,Net Banking,2024-08-14
+Sports,134.53,15,114.35,Net Banking,2024-08-14
+Beauty,45.01,10,40.51,Cash on Delivery,2024-08-14
+Sports,230.27,0,230.27,UPI,2024-08-14
+Toys,206.92,25,155.19,Debit Card,2024-08-14
+Electronics,181.56,0,181.56,Debit Card,2024-08-14
+Clothing,371.72,15,315.96,Net Banking,2024-08-14
+Sports,334.08,15,283.97,Net Banking,2024-08-14
+Books,431.85,15,367.07,Net Banking,2024-08-14
+Clothing,44.95,5,42.7,UPI,2024-08-14
+Toys,357.9,30,250.53,UPI,2024-08-14
+Beauty,436.15,30,305.3,UPI,2024-08-14
+Beauty,57.34,20,45.87,Cash on Delivery,2024-08-15
+Toys,301.63,0,301.63,UPI,2024-08-15
+Books,35.85,10,32.27,Credit Card,2024-08-15
+Toys,62.47,15,53.1,Cash on Delivery,2024-08-15
+Home & Kitchen,170.19,50,85.09,Net Banking,2024-08-15
+Electronics,339.21,25,254.41,Cash on Delivery,2024-08-15
+Electronics,96.93,50,48.47,Cash on Delivery,2024-08-15
+Beauty,477.27,5,453.41,Credit Card,2024-08-15
+Home & Kitchen,481.86,5,457.77,UPI,2024-08-15
+Beauty,369.78,10,332.8,UPI,2024-08-15
+Toys,260.81,30,182.57,Credit Card,2024-08-15
+Books,204.69,50,102.34,Credit Card,2024-08-15
+Toys,168.92,10,152.03,Debit Card,2024-08-15
+Sports,185.53,15,157.7,UPI,2024-08-15
+Toys,33.14,50,16.57,Net Banking,2024-08-15
+Beauty,62.2,5,59.09,Cash on Delivery,2024-08-16
+Beauty,99.36,5,94.39,Net Banking,2024-08-16
+Home & Kitchen,188.8,10,169.92,UPI,2024-08-16
+Home & Kitchen,115.09,10,103.58,Debit Card,2024-08-16
+Electronics,255.6,10,230.04,Net Banking,2024-08-16
+Beauty,31.12,50,15.56,Cash on Delivery,2024-08-16
+Electronics,11.16,5,10.6,UPI,2024-08-16
+Electronics,328.44,0,328.44,Debit Card,2024-08-16
+Toys,275.78,30,193.05,Net Banking,2024-08-17
+Books,407.48,5,387.11,Credit Card,2024-08-17
+Clothing,79.12,5,75.16,UPI,2024-08-17
+Toys,337.58,5,320.7,UPI,2024-08-17
+Books,487.06,0,487.06,Net Banking,2024-08-17
+Toys,426.75,0,426.75,Net Banking,2024-08-17
+Home & Kitchen,477.05,50,238.53,Net Banking,2024-08-17
+Sports,291.5,25,218.62,Net Banking,2024-08-18
+Toys,437.3,0,437.3,Debit Card,2024-08-18
+Electronics,174.27,0,174.27,Debit Card,2024-08-18
+Books,175.86,0,175.86,Debit Card,2024-08-18
+Sports,129.45,5,122.98,Cash on Delivery,2024-08-18
+Toys,233.57,0,233.57,Cash on Delivery,2024-08-18
+Books,255.92,10,230.33,Debit Card,2024-08-18
+Clothing,435.97,15,370.57,UPI,2024-08-18
+Clothing,209.91,50,104.95,Cash on Delivery,2024-08-18
+Books,497.95,10,448.15,Debit Card,2024-08-18
+Toys,494.46,10,445.01,Credit Card,2024-08-18
+Sports,250.72,0,250.72,Credit Card,2024-08-18
+Clothing,249.86,50,124.93,Debit Card,2024-08-18
+Home & Kitchen,327.17,30,229.02,UPI,2024-08-18
+Beauty,161.16,30,112.81,Cash on Delivery,2024-08-19
+Home & Kitchen,486.62,30,340.63,Net Banking,2024-08-19
+Sports,117.91,0,117.91,Debit Card,2024-08-19
+Clothing,202.03,25,151.52,Net Banking,2024-08-19
+Books,403.62,50,201.81,UPI,2024-08-19
+Sports,254.27,5,241.56,Debit Card,2024-08-19
+Home & Kitchen,268.81,0,268.81,UPI,2024-08-19
+Books,463.83,10,417.45,Cash on Delivery,2024-08-19
+Home & Kitchen,235.02,15,199.77,Credit Card,2024-08-19
+Home & Kitchen,491.7,0,491.7,Credit Card,2024-08-19
+Beauty,333.66,5,316.98,Net Banking,2024-08-19
+Beauty,389.25,15,330.86,Net Banking,2024-08-20
+Clothing,149.98,0,149.98,Debit Card,2024-08-20
+Sports,104.47,10,94.02,Credit Card,2024-08-20
+Sports,489.42,50,244.71,Cash on Delivery,2024-08-20
+Toys,192.95,5,183.3,Debit Card,2024-08-20
+Clothing,221.02,15,187.87,Debit Card,2024-08-20
+Toys,84.34,50,42.17,Net Banking,2024-08-20
+Toys,31.79,0,31.79,Debit Card,2024-08-20
+Toys,489.95,20,391.96,Debit Card,2024-08-21
+Home & Kitchen,391.15,30,273.8,Credit Card,2024-08-21
+Electronics,370.3,30,259.21,Cash on Delivery,2024-08-21
+Home & Kitchen,295.8,0,295.8,Debit Card,2024-08-21
+Sports,367.27,25,275.45,UPI,2024-08-21
+Beauty,170.97,50,85.48,Net Banking,2024-08-21
+Beauty,230.21,0,230.21,UPI,2024-08-21
+Books,302.86,0,302.86,Net Banking,2024-08-21
+Electronics,154.15,20,123.32,Cash on Delivery,2024-08-21
+Sports,481.53,25,361.15,UPI,2024-08-21
+Electronics,393.83,50,196.91,Net Banking,2024-08-21
+Toys,221.92,20,177.54,Debit Card,2024-08-21
+Sports,168.01,50,84.0,UPI,2024-08-21
+Toys,229.69,25,172.27,UPI,2024-08-21
+Electronics,149.94,20,119.95,UPI,2024-08-21
+Home & Kitchen,412.27,20,329.82,UPI,2024-08-21
+Electronics,180.19,30,126.13,UPI,2024-08-21
+Beauty,44.39,0,44.39,UPI,2024-08-21
+Toys,331.73,15,281.97,Debit Card,2024-08-21
+Sports,356.66,5,338.83,Credit Card,2024-08-21
+Books,109.4,25,82.05,Debit Card,2024-08-21
+Sports,427.22,5,405.86,UPI,2024-08-22
+Home & Kitchen,197.33,25,148.0,Credit Card,2024-08-22
+Beauty,493.08,5,468.43,Credit Card,2024-08-22
+Toys,123.27,30,86.29,UPI,2024-08-22
+Sports,309.92,30,216.94,Net Banking,2024-08-22
+Electronics,263.22,15,223.74,Debit Card,2024-08-22
+Sports,10.78,10,9.7,Net Banking,2024-08-22
+Books,148.21,50,74.11,Net Banking,2024-08-22
+Toys,298.43,0,298.43,Cash on Delivery,2024-08-23
+Toys,160.3,5,152.28,UPI,2024-08-23
+Sports,182.04,0,182.04,UPI,2024-08-23
+Home & Kitchen,353.08,50,176.54,Credit Card,2024-08-23
+Electronics,328.54,15,279.26,UPI,2024-08-23
+Home & Kitchen,137.74,30,96.42,Cash on Delivery,2024-08-23
+Home & Kitchen,473.05,50,236.53,Net Banking,2024-08-23
+Books,123.61,15,105.07,Credit Card,2024-08-23
+Clothing,483.62,5,459.44,UPI,2024-08-23
+Clothing,43.48,25,32.61,UPI,2024-08-23
+Clothing,170.8,20,136.64,Cash on Delivery,2024-08-23
+Sports,244.61,10,220.15,Net Banking,2024-08-23
+Sports,229.52,20,183.62,Debit Card,2024-08-24
+Sports,393.04,5,373.39,Credit Card,2024-08-24
+Sports,100.75,30,70.52,Net Banking,2024-08-24
+Toys,96.29,30,67.4,Net Banking,2024-08-24
+Sports,499.96,50,249.98,Net Banking,2024-08-24
+Home & Kitchen,94.11,25,70.58,Net Banking,2024-08-24
+Electronics,436.45,20,349.16,Net Banking,2024-08-24
+Electronics,50.13,10,45.12,Cash on Delivery,2024-08-24
+Toys,167.04,20,133.63,Net Banking,2024-08-24
+Sports,142.92,25,107.19,Net Banking,2024-08-24
+Beauty,160.41,50,80.2,Net Banking,2024-08-24
+Beauty,364.54,5,346.31,Net Banking,2024-08-24
+Books,434.67,5,412.94,Cash on Delivery,2024-08-24
+Sports,135.6,0,135.6,Cash on Delivery,2024-08-24
+Beauty,78.43,15,66.67,Net Banking,2024-08-24
+Toys,334.47,30,234.13,Debit Card,2024-08-25
+Home & Kitchen,273.13,20,218.5,Debit Card,2024-08-25
+Home & Kitchen,430.03,30,301.02,UPI,2024-08-25
+Home & Kitchen,279.37,0,279.37,UPI,2024-08-25
+Books,389.82,25,292.37,UPI,2024-08-25
+Books,53.13,25,39.85,Cash on Delivery,2024-08-25
+Home & Kitchen,177.05,30,123.94,UPI,2024-08-25
+Electronics,302.95,15,257.51,Net Banking,2024-08-25
+Toys,330.6,30,231.42,Cash on Delivery,2024-08-25
+Home & Kitchen,367.49,20,293.99,Cash on Delivery,2024-08-25
+Toys,403.4,10,363.06,Net Banking,2024-08-25
+Home & Kitchen,275.11,50,137.56,Net Banking,2024-08-25
+Home & Kitchen,56.87,10,51.18,Credit Card,2024-08-25
+Home & Kitchen,138.62,10,124.76,Net Banking,2024-08-25
+Books,377.55,50,188.78,UPI,2024-08-25
+Beauty,335.09,0,335.09,Credit Card,2024-08-26
+Clothing,231.39,20,185.11,Cash on Delivery,2024-08-26
+Toys,63.98,25,47.98,Credit Card,2024-08-26
+Home & Kitchen,457.48,30,320.24,Cash on Delivery,2024-08-26
+Clothing,396.57,20,317.26,Debit Card,2024-08-26
+Toys,64.64,25,48.48,Net Banking,2024-08-26
+Books,492.78,5,468.14,Debit Card,2024-08-26
+Beauty,127.92,10,115.13,UPI,2024-08-26
+Books,105.16,5,99.9,Net Banking,2024-08-27
+Sports,202.59,30,141.81,Net Banking,2024-08-27
+Electronics,310.88,30,217.62,Credit Card,2024-08-27
+Home & Kitchen,72.96,5,69.31,Credit Card,2024-08-27
+Beauty,135.73,15,115.37,Debit Card,2024-08-27
+Beauty,471.46,15,400.74,Debit Card,2024-08-27
+Books,499.36,20,399.49,Debit Card,2024-08-27
+Electronics,221.03,0,221.03,UPI,2024-08-27
+Home & Kitchen,232.12,5,220.51,UPI,2024-08-27
+Clothing,478.79,5,454.85,Credit Card,2024-08-27
+Electronics,437.56,25,328.17,Debit Card,2024-08-28
+Books,407.43,5,387.06,Cash on Delivery,2024-08-28
+Clothing,246.49,15,209.52,UPI,2024-08-28
+Toys,305.11,5,289.85,Debit Card,2024-08-28
+Clothing,471.03,0,471.03,Credit Card,2024-08-28
+Clothing,171.84,30,120.29,UPI,2024-08-28
+Clothing,166.11,0,166.11,Cash on Delivery,2024-08-29
+Home & Kitchen,481.84,5,457.75,UPI,2024-08-29
+Electronics,458.12,15,389.4,UPI,2024-08-29
+Books,211.97,15,180.17,Debit Card,2024-08-29
+Toys,44.04,15,37.43,Net Banking,2024-08-29
+Electronics,451.74,20,361.39,Debit Card,2024-08-29
+Books,184.21,5,175.0,Credit Card,2024-08-29
+Books,46.58,20,37.26,Debit Card,2024-08-29
+Toys,418.08,0,418.08,Debit Card,2024-08-29
+Electronics,401.11,5,381.05,Net Banking,2024-08-29
+Books,256.64,10,230.98,Credit Card,2024-08-29
+Clothing,129.34,15,109.94,Cash on Delivery,2024-08-30
+Electronics,166.69,15,141.69,Debit Card,2024-08-30
+Electronics,25.28,5,24.02,Net Banking,2024-08-30
+Sports,50.14,25,37.61,Credit Card,2024-08-30
+Beauty,69.77,30,48.84,UPI,2024-08-30
+Sports,158.62,20,126.9,Cash on Delivery,2024-08-30
+Books,56.4,5,53.58,Debit Card,2024-08-30
+Toys,181.21,5,172.15,UPI,2024-08-30
+Sports,293.68,25,220.26,Credit Card,2024-08-30
+Toys,328.31,10,295.48,Credit Card,2024-08-30
+Sports,299.44,25,224.58,Debit Card,2024-08-30
+Beauty,335.86,20,268.69,UPI,2024-08-30
+Clothing,223.04,25,167.28,Net Banking,2024-08-31
+Home & Kitchen,51.27,30,35.89,UPI,2024-08-31
+Home & Kitchen,120.24,30,84.17,Credit Card,2024-08-31
+Home & Kitchen,496.03,15,421.63,Net Banking,2024-08-31
+Home & Kitchen,204.0,5,193.8,Cash on Delivery,2024-08-31
+Electronics,381.69,30,267.18,Cash on Delivery,2024-08-31
+Home & Kitchen,351.87,0,351.87,Net Banking,2024-08-31
+Sports,59.58,50,29.79,Debit Card,2024-08-31
+Sports,471.4,30,329.98,Debit Card,2024-08-31
+Toys,251.72,5,239.13,Debit Card,2024-08-31
+Beauty,199.31,5,189.34,UPI,2024-08-31
+Clothing,265.73,10,239.16,Cash on Delivery,2024-08-31
+Books,110.72,25,83.04,Cash on Delivery,2024-08-31
+Electronics,410.76,15,349.15,Cash on Delivery,2024-08-31
+Sports,462.49,15,393.12,Cash on Delivery,2024-08-31
+Toys,60.12,20,48.1,Net Banking,2024-09-01
+Clothing,145.14,15,123.37,Cash on Delivery,2024-09-01
+Sports,317.02,25,237.76,Credit Card,2024-09-01
+Beauty,286.91,50,143.46,UPI,2024-09-01
+Home & Kitchen,292.11,30,204.48,Debit Card,2024-09-01
+Beauty,95.3,5,90.53,Net Banking,2024-09-01
+Home & Kitchen,278.5,50,139.25,UPI,2024-09-01
+Books,73.29,0,73.29,UPI,2024-09-01
+Home & Kitchen,20.74,10,18.67,UPI,2024-09-01
+Books,461.56,20,369.25,Net Banking,2024-09-01
+Books,135.62,30,94.93,UPI,2024-09-01
+Toys,71.71,10,64.54,UPI,2024-09-01
+Beauty,170.1,15,144.58,Cash on Delivery,2024-09-02
+Clothing,78.14,0,78.14,UPI,2024-09-02
+Toys,223.69,20,178.95,Credit Card,2024-09-02
+Beauty,217.35,0,217.35,Debit Card,2024-09-02
+Beauty,382.0,20,305.6,UPI,2024-09-02
+Books,493.43,20,394.74,Cash on Delivery,2024-09-02
+Sports,399.88,5,379.89,Credit Card,2024-09-02
+Home & Kitchen,414.73,20,331.78,Net Banking,2024-09-02
+Sports,416.78,50,208.39,Debit Card,2024-09-02
+Clothing,244.73,50,122.36,UPI,2024-09-02
+Home & Kitchen,99.78,20,79.82,UPI,2024-09-03
+Sports,433.77,20,347.02,Net Banking,2024-09-03
+Home & Kitchen,105.15,5,99.89,Net Banking,2024-09-03
+Electronics,172.66,0,172.66,Credit Card,2024-09-03
+Home & Kitchen,336.49,20,269.19,Cash on Delivery,2024-09-03
+Electronics,195.24,5,185.48,Credit Card,2024-09-03
+Clothing,481.77,10,433.59,Credit Card,2024-09-03
+Home & Kitchen,128.95,0,128.95,Cash on Delivery,2024-09-03
+Toys,121.31,15,103.11,UPI,2024-09-03
+Beauty,435.68,0,435.68,Net Banking,2024-09-03
+Beauty,71.26,0,71.26,Credit Card,2024-09-03
+Sports,221.56,50,110.78,Credit Card,2024-09-03
+Sports,27.22,20,21.78,Debit Card,2024-09-03
+Beauty,293.84,15,249.76,UPI,2024-09-04
+Electronics,277.94,5,264.04,Debit Card,2024-09-04
+Books,134.52,30,94.16,Cash on Delivery,2024-09-04
+Clothing,492.24,30,344.57,Credit Card,2024-09-04
+Beauty,465.37,50,232.69,Credit Card,2024-09-04
+Books,309.67,25,232.25,UPI,2024-09-04
+Clothing,61.32,25,45.99,Cash on Delivery,2024-09-04
+Beauty,230.14,20,184.11,Credit Card,2024-09-04
+Toys,454.39,25,340.79,Credit Card,2024-09-04
+Sports,358.64,5,340.71,Net Banking,2024-09-04
+Beauty,202.43,20,161.94,Cash on Delivery,2024-09-05
+Books,331.56,50,165.78,Cash on Delivery,2024-09-05
+Home & Kitchen,147.17,0,147.17,UPI,2024-09-05
+Toys,257.21,5,244.35,UPI,2024-09-05
+Toys,410.07,50,205.03,Cash on Delivery,2024-09-05
+Home & Kitchen,246.18,30,172.33,Net Banking,2024-09-05
+Beauty,279.34,5,265.37,UPI,2024-09-05
+Electronics,181.26,50,90.63,Cash on Delivery,2024-09-05
+Books,371.67,0,371.67,Credit Card,2024-09-05
+Toys,424.14,50,212.07,Debit Card,2024-09-06
+Sports,65.76,10,59.18,Debit Card,2024-09-06
+Beauty,28.77,10,25.89,Debit Card,2024-09-06
+Beauty,424.21,30,296.95,Credit Card,2024-09-06
+Home & Kitchen,192.28,20,153.82,UPI,2024-09-06
+Beauty,27.13,30,18.99,Cash on Delivery,2024-09-06
+Sports,365.32,5,347.05,UPI,2024-09-06
+Books,222.28,0,222.28,Cash on Delivery,2024-09-07
+Beauty,177.17,25,132.88,Credit Card,2024-09-07
+Books,354.94,25,266.2,Cash on Delivery,2024-09-07
+Beauty,329.08,10,296.17,UPI,2024-09-07
+Home & Kitchen,309.63,25,232.22,Debit Card,2024-09-07
+Home & Kitchen,42.98,5,40.83,UPI,2024-09-07
+Home & Kitchen,95.16,10,85.64,UPI,2024-09-07
+Clothing,126.91,20,101.53,Debit Card,2024-09-07
+Beauty,96.61,5,91.78,UPI,2024-09-07
+Toys,386.7,20,309.36,UPI,2024-09-07
+Books,228.28,5,216.87,Debit Card,2024-09-07
+Sports,172.15,0,172.15,Cash on Delivery,2024-09-07
+Toys,11.62,25,8.71,UPI,2024-09-08
+Toys,51.33,20,41.06,Credit Card,2024-09-08
+Books,412.49,50,206.25,Net Banking,2024-09-08
+Clothing,30.68,50,15.34,Cash on Delivery,2024-09-08
+Toys,366.94,20,293.55,Cash on Delivery,2024-09-08
+Home & Kitchen,485.75,20,388.6,UPI,2024-09-08
+Clothing,355.43,25,266.57,UPI,2024-09-08
+Clothing,403.98,15,343.38,Net Banking,2024-09-08
+Sports,465.95,20,372.76,Credit Card,2024-09-08
+Home & Kitchen,407.72,5,387.33,UPI,2024-09-09
+Sports,474.41,0,474.41,UPI,2024-09-09
+Clothing,72.87,10,65.58,Credit Card,2024-09-09
+Electronics,120.68,15,102.58,Cash on Delivery,2024-09-09
+Books,12.31,10,11.08,Credit Card,2024-09-09
+Home & Kitchen,488.06,30,341.64,Credit Card,2024-09-09
+Clothing,470.92,50,235.46,UPI,2024-09-09
+Sports,182.28,20,145.82,UPI,2024-09-09
+Clothing,268.87,10,241.98,Debit Card,2024-09-09
+Sports,56.1,25,42.08,Net Banking,2024-09-09
+Books,66.37,25,49.78,Cash on Delivery,2024-09-09
+Toys,416.29,25,312.22,UPI,2024-09-09
+Toys,205.38,10,184.84,Credit Card,2024-09-09
+Beauty,382.33,15,324.98,Credit Card,2024-09-09
+Electronics,137.33,10,123.6,Debit Card,2024-09-09
+Clothing,147.97,5,140.57,Debit Card,2024-09-09
+Sports,338.44,10,304.6,Debit Card,2024-09-09
+Sports,223.01,25,167.26,UPI,2024-09-10
+Toys,341.35,30,238.94,Debit Card,2024-09-10
+Home & Kitchen,143.24,5,136.08,Credit Card,2024-09-10
+Beauty,71.34,0,71.34,UPI,2024-09-10
+Electronics,362.5,10,326.25,Credit Card,2024-09-10
+Beauty,430.96,15,366.32,Cash on Delivery,2024-09-10
+Beauty,106.65,30,74.66,UPI,2024-09-10
+Sports,176.41,20,141.13,Debit Card,2024-09-10
+Beauty,53.15,0,53.15,Debit Card,2024-09-10
+Beauty,483.93,50,241.97,Debit Card,2024-09-10
+Home & Kitchen,167.4,10,150.66,Cash on Delivery,2024-09-10
+Home & Kitchen,268.4,10,241.56,Credit Card,2024-09-10
+Clothing,350.58,0,350.58,Credit Card,2024-09-10
+Beauty,393.77,15,334.7,Cash on Delivery,2024-09-10
+Beauty,70.54,30,49.38,Net Banking,2024-09-11
+Books,327.4,30,229.18,Debit Card,2024-09-11
+Books,322.14,50,161.07,Credit Card,2024-09-11
+Toys,147.92,5,140.52,Credit Card,2024-09-11
+Clothing,110.66,0,110.66,Debit Card,2024-09-11
+Books,164.11,5,155.9,Net Banking,2024-09-11
+Sports,305.91,20,244.73,Debit Card,2024-09-11
+Beauty,187.86,20,150.29,Debit Card,2024-09-11
+Books,323.0,0,323.0,UPI,2024-09-11
+Beauty,301.06,5,286.01,Net Banking,2024-09-11
+Sports,440.74,30,308.52,Cash on Delivery,2024-09-11
+Sports,225.59,25,169.19,Net Banking,2024-09-11
+Toys,38.68,5,36.75,UPI,2024-09-11
+Books,44.29,10,39.86,Net Banking,2024-09-11
+Toys,483.48,15,410.96,Cash on Delivery,2024-09-12
+Beauty,157.11,10,141.4,Net Banking,2024-09-12
+Sports,366.4,15,311.44,Net Banking,2024-09-12
+Beauty,291.45,15,247.73,Credit Card,2024-09-12
+Clothing,297.32,0,297.32,Cash on Delivery,2024-09-12
+Sports,286.09,10,257.48,Cash on Delivery,2024-09-12
+Books,92.21,50,46.1,Cash on Delivery,2024-09-12
+Home & Kitchen,18.63,50,9.31,Credit Card,2024-09-12
+Sports,63.8,0,63.8,Credit Card,2024-09-12
+Electronics,387.62,50,193.81,Credit Card,2024-09-12
+Home & Kitchen,291.57,15,247.83,UPI,2024-09-12
+Home & Kitchen,441.45,10,397.31,Net Banking,2024-09-12
+Home & Kitchen,364.33,30,255.03,UPI,2024-09-12
+Beauty,150.84,15,128.21,UPI,2024-09-13
+Toys,291.38,10,262.24,Debit Card,2024-09-13
+Toys,304.02,15,258.42,Net Banking,2024-09-13
+Sports,121.05,25,90.79,Cash on Delivery,2024-09-13
+Beauty,126.93,5,120.58,Cash on Delivery,2024-09-13
+Toys,202.26,20,161.81,Cash on Delivery,2024-09-13
+Books,396.56,50,198.28,Cash on Delivery,2024-09-13
+Electronics,335.31,25,251.48,Net Banking,2024-09-13
+Books,407.59,50,203.79,Net Banking,2024-09-13
+Toys,309.67,25,232.25,Cash on Delivery,2024-09-13
+Books,466.36,25,349.77,UPI,2024-09-13
+Beauty,110.36,30,77.25,Credit Card,2024-09-14
+Toys,401.54,10,361.39,Debit Card,2024-09-14
+Toys,257.14,20,205.71,Net Banking,2024-09-14
+Books,486.05,50,243.03,Credit Card,2024-09-14
+Toys,185.17,0,185.17,Cash on Delivery,2024-09-14
+Clothing,361.48,30,253.04,Credit Card,2024-09-14
+Clothing,304.86,15,259.13,Net Banking,2024-09-14
+Sports,193.48,5,183.81,UPI,2024-09-14
+Electronics,68.08,10,61.27,Net Banking,2024-09-14
+Clothing,396.76,5,376.92,UPI,2024-09-14
+Clothing,89.77,10,80.79,Credit Card,2024-09-14
+Clothing,449.74,10,404.77,Cash on Delivery,2024-09-15
+Home & Kitchen,203.24,30,142.27,Net Banking,2024-09-15
+Beauty,271.04,10,243.94,Cash on Delivery,2024-09-15
+Sports,72.43,50,36.22,Debit Card,2024-09-15
+Home & Kitchen,396.78,50,198.39,Debit Card,2024-09-15
+Toys,227.18,5,215.82,Net Banking,2024-09-15
+Sports,82.55,20,66.04,Credit Card,2024-09-15
+Toys,63.96,5,60.76,UPI,2024-09-15
+Home & Kitchen,123.34,30,86.34,Debit Card,2024-09-15
+Books,44.14,50,22.07,Cash on Delivery,2024-09-15
+Home & Kitchen,54.3,0,54.3,UPI,2024-09-16
+Books,66.29,50,33.15,UPI,2024-09-16
+Clothing,472.32,0,472.32,Debit Card,2024-09-16
+Beauty,384.44,10,346.0,UPI,2024-09-16
+Sports,225.17,30,157.62,Cash on Delivery,2024-09-16
+Clothing,227.68,10,204.91,UPI,2024-09-16
+Home & Kitchen,41.08,30,28.76,Debit Card,2024-09-16
+Books,144.46,15,122.79,Credit Card,2024-09-16
+Home & Kitchen,214.62,0,214.62,Debit Card,2024-09-16
+Electronics,421.99,0,421.99,Net Banking,2024-09-16
+Toys,56.67,30,39.67,Credit Card,2024-09-16
+Clothing,447.22,15,380.14,Debit Card,2024-09-16
+Beauty,236.7,0,236.7,Cash on Delivery,2024-09-16
+Books,75.39,15,64.08,Net Banking,2024-09-16
+Clothing,450.07,15,382.56,Cash on Delivery,2024-09-16
+Electronics,471.26,15,400.57,UPI,2024-09-16
+Books,245.54,15,208.71,Cash on Delivery,2024-09-17
+Sports,417.51,0,417.51,Credit Card,2024-09-17
+Books,386.36,20,309.09,Debit Card,2024-09-17
+Books,274.87,50,137.44,Net Banking,2024-09-17
+Sports,351.99,10,316.79,Net Banking,2024-09-17
+Electronics,235.61,15,200.27,Credit Card,2024-09-17
+Electronics,52.37,50,26.18,Debit Card,2024-09-17
+Clothing,404.46,25,303.34,UPI,2024-09-17
+Books,25.98,15,22.08,Net Banking,2024-09-17
+Beauty,45.8,25,34.35,Debit Card,2024-09-17
+Home & Kitchen,332.48,5,315.86,UPI,2024-09-17
+Home & Kitchen,218.68,20,174.94,UPI,2024-09-18
+Books,64.47,15,54.8,Net Banking,2024-09-18
+Books,335.49,0,335.49,Net Banking,2024-09-18
+Clothing,33.02,15,28.07,UPI,2024-09-18
+Electronics,326.73,15,277.72,Net Banking,2024-09-18
+Beauty,437.68,10,393.91,Cash on Delivery,2024-09-18
+Beauty,18.74,5,17.8,Debit Card,2024-09-19
+Books,387.69,25,290.77,Net Banking,2024-09-19
+Home & Kitchen,440.11,5,418.1,Debit Card,2024-09-19
+Toys,473.17,10,425.85,Cash on Delivery,2024-09-19
+Books,447.4,20,357.92,Credit Card,2024-09-19
+Clothing,373.0,5,354.35,Cash on Delivery,2024-09-19
+Home & Kitchen,28.34,25,21.25,UPI,2024-09-19
+Home & Kitchen,128.74,50,64.37,Cash on Delivery,2024-09-19
+Electronics,125.2,0,125.2,Cash on Delivery,2024-09-19
+Sports,348.59,5,331.16,UPI,2024-09-19
+Sports,40.61,30,28.43,Debit Card,2024-09-20
+Clothing,219.93,25,164.95,Credit Card,2024-09-20
+Books,426.27,15,362.33,Cash on Delivery,2024-09-20
+Home & Kitchen,26.92,20,21.54,UPI,2024-09-20
+Beauty,329.78,10,296.8,Debit Card,2024-09-20
+Beauty,93.82,5,89.13,Net Banking,2024-09-20
+Toys,260.74,5,247.7,Net Banking,2024-09-20
+Toys,422.7,0,422.7,Debit Card,2024-09-20
+Toys,343.35,20,274.68,Credit Card,2024-09-20
+Electronics,395.72,20,316.58,Cash on Delivery,2024-09-20
+Books,436.44,10,392.8,UPI,2024-09-21
+Clothing,103.44,30,72.41,Debit Card,2024-09-21
+Books,282.01,30,197.41,Net Banking,2024-09-21
+Electronics,319.55,25,239.66,UPI,2024-09-21
+Beauty,14.65,15,12.45,Net Banking,2024-09-21
+Beauty,472.59,5,448.96,Debit Card,2024-09-21
+Home & Kitchen,95.11,20,76.09,Cash on Delivery,2024-09-21
+Sports,245.8,10,221.22,Debit Card,2024-09-21
+Electronics,249.3,5,236.84,Cash on Delivery,2024-09-22
+Sports,142.07,5,134.97,UPI,2024-09-22
+Toys,496.29,15,421.85,Net Banking,2024-09-22
+Beauty,180.46,15,153.39,Net Banking,2024-09-22
+Sports,353.7,10,318.33,UPI,2024-09-22
+Home & Kitchen,368.81,5,350.37,Net Banking,2024-09-22
+Beauty,409.47,30,286.63,Debit Card,2024-09-22
+Books,163.91,10,147.52,Cash on Delivery,2024-09-22
+Electronics,167.97,50,83.98,UPI,2024-09-22
+Clothing,168.31,10,151.48,Net Banking,2024-09-22
+Home & Kitchen,39.29,15,33.4,Credit Card,2024-09-22
+Books,125.47,15,106.65,Cash on Delivery,2024-09-22
+Beauty,85.36,50,42.68,UPI,2024-09-22
+Books,135.25,25,101.44,Credit Card,2024-09-22
+Clothing,146.25,10,131.62,Cash on Delivery,2024-09-22
+Home & Kitchen,473.16,30,331.21,Net Banking,2024-09-23
+Beauty,299.63,15,254.69,UPI,2024-09-23
+Toys,398.85,10,358.97,Debit Card,2024-09-23
+Beauty,430.43,50,215.22,Debit Card,2024-09-23
+Sports,286.09,25,214.57,Credit Card,2024-09-23
+Electronics,96.27,30,67.39,Credit Card,2024-09-23
+Beauty,52.29,0,52.29,UPI,2024-09-23
+Home & Kitchen,203.43,5,193.26,Debit Card,2024-09-23
+Clothing,69.31,50,34.66,Net Banking,2024-09-23
+Beauty,476.57,5,452.74,Credit Card,2024-09-23
+Electronics,369.36,10,332.42,Credit Card,2024-09-23
+Books,361.79,50,180.9,Net Banking,2024-09-23
+Books,387.72,20,310.18,Credit Card,2024-09-23
+Clothing,166.75,0,166.75,Debit Card,2024-09-23
+Sports,84.28,10,75.85,Cash on Delivery,2024-09-23
+Sports,360.88,30,252.62,Debit Card,2024-09-23
+Clothing,260.92,5,247.87,Net Banking,2024-09-23
+Toys,436.56,0,436.56,UPI,2024-09-23
+Sports,440.5,50,220.25,Net Banking,2024-09-24
+Home & Kitchen,180.6,0,180.6,UPI,2024-09-24
+Clothing,261.74,30,183.22,Cash on Delivery,2024-09-24
+Clothing,109.25,5,103.79,Credit Card,2024-09-24
+Beauty,174.56,0,174.56,Credit Card,2024-09-24
+Books,418.07,15,355.36,Debit Card,2024-09-24
+Books,214.73,50,107.36,UPI,2024-09-24
+Toys,141.24,50,70.62,Credit Card,2024-09-24
+Home & Kitchen,286.85,5,272.51,Cash on Delivery,2024-09-24
+Electronics,168.76,20,135.01,UPI,2024-09-24
+Electronics,191.77,25,143.83,UPI,2024-09-24
+Toys,375.08,20,300.06,Net Banking,2024-09-24
+Home & Kitchen,493.51,10,444.16,Cash on Delivery,2024-09-24
+Beauty,462.7,15,393.29,Debit Card,2024-09-25
+Beauty,74.24,10,66.82,Credit Card,2024-09-25
+Toys,74.45,15,63.28,Credit Card,2024-09-25
+Books,479.52,15,407.59,UPI,2024-09-25
+Home & Kitchen,32.72,30,22.9,Debit Card,2024-09-25
+Clothing,215.27,10,193.74,Cash on Delivery,2024-09-25
+Beauty,455.96,5,433.16,UPI,2024-09-25
+Home & Kitchen,69.64,20,55.71,Debit Card,2024-09-25
+Toys,304.79,30,213.35,UPI,2024-09-26
+Sports,411.73,5,391.14,Credit Card,2024-09-26
+Books,350.59,0,350.59,UPI,2024-09-26
+Beauty,198.26,0,198.26,Net Banking,2024-09-26
+Books,367.14,5,348.78,Net Banking,2024-09-26
+Beauty,68.93,10,62.04,Cash on Delivery,2024-09-26
+Home & Kitchen,326.94,5,310.59,Net Banking,2024-09-26
+Books,131.99,50,66.0,UPI,2024-09-26
+Toys,45.08,15,38.32,Net Banking,2024-09-26
+Beauty,244.8,20,195.84,Net Banking,2024-09-27
+Electronics,158.88,5,150.94,Net Banking,2024-09-27
+Sports,185.29,0,185.29,Credit Card,2024-09-27
+Books,434.06,50,217.03,Credit Card,2024-09-27
+Toys,42.07,15,35.76,Net Banking,2024-09-27
+Home & Kitchen,104.9,5,99.66,Cash on Delivery,2024-09-27
+Toys,189.0,10,170.1,Net Banking,2024-09-27
+Books,455.77,25,341.83,Credit Card,2024-09-27
+Home & Kitchen,348.91,15,296.57,Credit Card,2024-09-27
+Home & Kitchen,41.85,20,33.48,Cash on Delivery,2024-09-27
+Sports,301.91,0,301.91,Cash on Delivery,2024-09-27
+Beauty,120.16,10,108.14,Net Banking,2024-09-27
+Toys,141.33,0,141.33,Credit Card,2024-09-27
+Books,197.95,15,168.26,Net Banking,2024-09-27
+Clothing,117.42,20,93.94,Cash on Delivery,2024-09-28
+Toys,83.42,20,66.74,Credit Card,2024-09-28
+Sports,269.89,20,215.91,Net Banking,2024-09-28
+Home & Kitchen,133.49,50,66.75,UPI,2024-09-28
+Clothing,328.44,10,295.6,Credit Card,2024-09-28
+Home & Kitchen,251.55,5,238.97,Debit Card,2024-09-28
+Books,301.21,30,210.85,Net Banking,2024-09-28
+Books,31.73,5,30.14,Cash on Delivery,2024-09-29
+Toys,251.66,15,213.91,Debit Card,2024-09-29
+Home & Kitchen,314.16,30,219.91,UPI,2024-09-29
+Clothing,338.11,0,338.11,Cash on Delivery,2024-09-29
+Clothing,60.17,15,51.14,Cash on Delivery,2024-09-29
+Electronics,12.81,30,8.97,UPI,2024-09-29
+Toys,246.81,5,234.47,Credit Card,2024-09-29
+Sports,258.26,20,206.61,Debit Card,2024-09-29
+Electronics,260.66,30,182.46,Cash on Delivery,2024-09-29
+Home & Kitchen,270.36,15,229.81,Credit Card,2024-09-29
+Toys,236.62,20,189.3,Debit Card,2024-09-29
+Home & Kitchen,361.42,25,271.06,Cash on Delivery,2024-09-29
+Home & Kitchen,210.72,25,158.04,UPI,2024-09-29
+Clothing,14.37,0,14.37,Debit Card,2024-09-29
+Home & Kitchen,362.96,10,326.66,Debit Card,2024-09-30
+Home & Kitchen,474.64,5,450.91,Cash on Delivery,2024-09-30
+Clothing,328.41,20,262.73,Cash on Delivery,2024-09-30
+Books,74.9,5,71.16,UPI,2024-09-30
+Home & Kitchen,326.79,15,277.77,Cash on Delivery,2024-09-30
+Clothing,56.54,50,28.27,Debit Card,2024-09-30
+Toys,54.61,0,54.61,UPI,2024-09-30
+Books,128.2,15,108.97,Debit Card,2024-09-30
+Electronics,265.65,25,199.24,UPI,2024-09-30
+Toys,14.98,50,7.49,Net Banking,2024-09-30
+Beauty,233.79,20,187.03,Debit Card,2024-09-30
+Toys,433.53,10,390.18,Cash on Delivery,2024-10-01
+Electronics,101.38,20,81.1,Debit Card,2024-10-01
+Books,184.8,30,129.36,Debit Card,2024-10-01
+Electronics,272.05,15,231.24,UPI,2024-10-01
+Electronics,80.88,10,72.79,Credit Card,2024-10-01
+Toys,269.06,10,242.15,UPI,2024-10-01
+Home & Kitchen,426.03,15,362.13,Net Banking,2024-10-01
+Beauty,48.18,50,24.09,Cash on Delivery,2024-10-01
+Toys,486.64,10,437.98,Debit Card,2024-10-01
+Sports,45.3,5,43.03,Credit Card,2024-10-01
+Clothing,311.67,15,264.92,Net Banking,2024-10-01
+Toys,484.65,50,242.32,Credit Card,2024-10-02
+Books,483.73,20,386.98,Cash on Delivery,2024-10-02
+Home & Kitchen,327.6,30,229.32,Credit Card,2024-10-02
+Home & Kitchen,430.43,0,430.43,UPI,2024-10-02
+Books,285.95,20,228.76,Net Banking,2024-10-02
+Beauty,227.56,5,216.18,Net Banking,2024-10-02
+Clothing,53.55,30,37.48,Debit Card,2024-10-02
+Electronics,484.75,10,436.28,Net Banking,2024-10-02
+Home & Kitchen,464.61,0,464.61,Net Banking,2024-10-02
+Toys,14.21,30,9.95,Credit Card,2024-10-02
+Sports,116.85,30,81.79,Cash on Delivery,2024-10-02
+Toys,457.22,5,434.36,Net Banking,2024-10-02
+Books,333.82,30,233.67,Net Banking,2024-10-02
+Electronics,278.99,15,237.14,Credit Card,2024-10-02
+Books,118.57,30,83.0,Debit Card,2024-10-03
+Electronics,465.45,15,395.63,Net Banking,2024-10-03
+Clothing,349.42,30,244.59,Credit Card,2024-10-03
+Electronics,354.66,30,248.26,Cash on Delivery,2024-10-03
+Sports,362.7,50,181.35,Debit Card,2024-10-03
+Electronics,84.5,10,76.05,Cash on Delivery,2024-10-03
+Home & Kitchen,379.07,20,303.26,Net Banking,2024-10-03
+Electronics,376.17,50,188.09,Cash on Delivery,2024-10-03
+Sports,178.61,0,178.61,Debit Card,2024-10-03
+Home & Kitchen,178.39,25,133.79,UPI,2024-10-04
+Home & Kitchen,39.87,15,33.89,Debit Card,2024-10-04
+Beauty,316.3,15,268.86,Net Banking,2024-10-04
+Sports,386.52,5,367.19,Debit Card,2024-10-04
+Clothing,135.7,15,115.34,UPI,2024-10-04
+Home & Kitchen,197.66,15,168.01,UPI,2024-10-04
+Clothing,464.89,50,232.44,Net Banking,2024-10-04
+Sports,83.31,5,79.14,Debit Card,2024-10-04
+Home & Kitchen,18.79,50,9.39,Debit Card,2024-10-04
+Clothing,457.96,5,435.06,Cash on Delivery,2024-10-04
+Clothing,227.2,20,181.76,Credit Card,2024-10-04
+Books,96.73,25,72.55,UPI,2024-10-04
+Sports,226.49,10,203.84,Debit Card,2024-10-04
+Toys,352.31,20,281.85,Credit Card,2024-10-04
+Toys,110.52,20,88.42,Credit Card,2024-10-04
+Books,139.01,15,118.16,UPI,2024-10-05
+Home & Kitchen,55.36,20,44.29,UPI,2024-10-05
+Electronics,205.35,0,205.35,UPI,2024-10-05
+Clothing,455.19,15,386.91,Net Banking,2024-10-05
+Clothing,195.8,20,156.64,Credit Card,2024-10-05
+Electronics,211.9,15,180.12,Cash on Delivery,2024-10-05
+Books,179.54,10,161.59,Credit Card,2024-10-05
+Home & Kitchen,254.08,15,215.97,Credit Card,2024-10-05
+Beauty,373.87,50,186.94,UPI,2024-10-05
+Books,381.28,15,324.09,Cash on Delivery,2024-10-05
+Toys,242.35,50,121.17,Net Banking,2024-10-05
+Beauty,413.11,25,309.83,Cash on Delivery,2024-10-05
+Home & Kitchen,407.47,30,285.23,Credit Card,2024-10-05
+Beauty,96.54,25,72.41,UPI,2024-10-06
+Clothing,461.66,20,369.33,Credit Card,2024-10-06
+Toys,100.59,20,80.47,UPI,2024-10-06
+Sports,73.02,15,62.07,Credit Card,2024-10-06
+Clothing,471.77,15,401.0,UPI,2024-10-06
+Electronics,412.98,20,330.38,Debit Card,2024-10-06
+Sports,396.76,50,198.38,Net Banking,2024-10-06
+Beauty,62.51,30,43.76,Net Banking,2024-10-06
+Books,321.34,5,305.27,Debit Card,2024-10-06
+Toys,175.25,30,122.67,Credit Card,2024-10-06
+Clothing,68.68,30,48.08,UPI,2024-10-07
+Electronics,128.82,15,109.5,Net Banking,2024-10-07
+Electronics,384.8,25,288.6,Credit Card,2024-10-07
+Sports,205.82,5,195.53,Credit Card,2024-10-07
+Electronics,336.27,0,336.27,Cash on Delivery,2024-10-07
+Beauty,142.53,10,128.28,UPI,2024-10-07
+Home & Kitchen,88.07,30,61.65,UPI,2024-10-07
+Books,302.72,50,151.36,UPI,2024-10-07
+Toys,332.62,20,266.1,UPI,2024-10-07
+Home & Kitchen,315.53,0,315.53,UPI,2024-10-07
+Home & Kitchen,28.03,20,22.42,Credit Card,2024-10-07
+Sports,480.02,50,240.01,Debit Card,2024-10-07
+Electronics,305.34,15,259.54,Credit Card,2024-10-07
+Beauty,381.05,10,342.94,Debit Card,2024-10-07
+Electronics,32.89,0,32.89,Credit Card,2024-10-08
+Electronics,237.6,5,225.72,Cash on Delivery,2024-10-08
+Beauty,138.64,20,110.91,Credit Card,2024-10-08
+Beauty,452.7,30,316.89,UPI,2024-10-08
+Toys,345.43,15,293.62,Debit Card,2024-10-08
+Books,384.7,15,327.0,Debit Card,2024-10-08
+Books,154.62,50,77.31,Net Banking,2024-10-08
+Clothing,44.29,0,44.29,Credit Card,2024-10-08
+Beauty,223.91,30,156.74,Debit Card,2024-10-08
+Sports,251.13,0,251.13,Cash on Delivery,2024-10-09
+Books,409.67,20,327.74,UPI,2024-10-09
+Home & Kitchen,269.25,30,188.47,UPI,2024-10-09
+Clothing,215.06,0,215.06,Net Banking,2024-10-09
+Books,441.84,25,331.38,Net Banking,2024-10-09
+Toys,151.15,50,75.58,Debit Card,2024-10-09
+Sports,306.61,50,153.31,Debit Card,2024-10-10
+Sports,426.79,15,362.77,Debit Card,2024-10-10
+Books,94.52,30,66.16,Cash on Delivery,2024-10-10
+Sports,30.21,10,27.19,Credit Card,2024-10-10
+Books,452.41,30,316.69,Credit Card,2024-10-10
+Home & Kitchen,296.45,5,281.63,Debit Card,2024-10-10
+Books,146.93,20,117.54,Debit Card,2024-10-10
+Sports,242.2,30,169.54,Credit Card,2024-10-10
+Electronics,108.21,10,97.39,Credit Card,2024-10-10
+Clothing,50.93,20,40.74,UPI,2024-10-10
+Sports,23.85,20,19.08,Cash on Delivery,2024-10-10
+Clothing,52.46,0,52.46,UPI,2024-10-10
+Books,381.47,30,267.03,Net Banking,2024-10-10
+Clothing,438.82,50,219.41,UPI,2024-10-11
+Electronics,378.56,10,340.7,UPI,2024-10-11
+Books,402.1,50,201.05,Net Banking,2024-10-11
+Books,370.14,30,259.1,Debit Card,2024-10-11
+Electronics,326.01,0,326.01,UPI,2024-10-11
+Clothing,210.56,20,168.45,Credit Card,2024-10-11
+Sports,450.51,50,225.25,Credit Card,2024-10-11
+Home & Kitchen,55.0,15,46.75,UPI,2024-10-11
+Toys,52.94,15,45.0,Net Banking,2024-10-11
+Home & Kitchen,51.83,50,25.91,Debit Card,2024-10-11
+Beauty,126.06,0,126.06,UPI,2024-10-11
+Electronics,417.54,0,417.54,Credit Card,2024-10-11
+Clothing,397.16,30,278.01,Cash on Delivery,2024-10-11
+Toys,450.51,30,315.36,UPI,2024-10-11
+Books,31.08,50,15.54,Credit Card,2024-10-11
+Sports,337.33,15,286.73,UPI,2024-10-11
+Home & Kitchen,235.35,15,200.05,UPI,2024-10-12
+Toys,37.83,5,35.94,Credit Card,2024-10-12
+Beauty,249.79,20,199.83,UPI,2024-10-12
+Beauty,65.88,30,46.12,Cash on Delivery,2024-10-12
+Electronics,311.29,10,280.16,Debit Card,2024-10-12
+Electronics,354.92,0,354.92,Debit Card,2024-10-12
+Sports,123.71,50,61.85,UPI,2024-10-12
+Beauty,300.6,15,255.51,UPI,2024-10-12
+Sports,319.98,10,287.98,Credit Card,2024-10-12
+Toys,178.71,5,169.77,Credit Card,2024-10-12
+Books,58.85,50,29.43,Debit Card,2024-10-12
+Toys,27.12,5,25.76,Cash on Delivery,2024-10-13
+Toys,219.83,5,208.84,Credit Card,2024-10-13
+Books,125.36,30,87.75,Debit Card,2024-10-13
+Clothing,473.91,30,331.74,Credit Card,2024-10-13
+Beauty,81.78,10,73.6,Net Banking,2024-10-13
+Clothing,32.29,0,32.29,UPI,2024-10-13
+Beauty,397.84,30,278.49,Net Banking,2024-10-13
+Clothing,163.98,20,131.18,Debit Card,2024-10-13
+Books,161.64,0,161.64,Net Banking,2024-10-13
+Beauty,350.77,5,333.23,UPI,2024-10-13
+Books,335.09,20,268.07,Debit Card,2024-10-13
+Beauty,292.74,0,292.74,Debit Card,2024-10-13
+Books,330.31,15,280.76,Net Banking,2024-10-14
+Beauty,475.59,20,380.47,Net Banking,2024-10-14
+Home & Kitchen,171.89,10,154.7,Cash on Delivery,2024-10-14
+Books,489.86,30,342.9,Cash on Delivery,2024-10-14
+Books,324.33,0,324.33,UPI,2024-10-14
+Clothing,278.69,30,195.08,Credit Card,2024-10-14
+Toys,261.25,30,182.88,Net Banking,2024-10-14
+Beauty,265.86,15,225.98,Net Banking,2024-10-14
+Beauty,494.21,10,444.79,UPI,2024-10-14
+Books,403.11,20,322.49,Debit Card,2024-10-14
+Sports,108.02,10,97.22,UPI,2024-10-14
+Home & Kitchen,281.87,50,140.94,UPI,2024-10-14
+Electronics,247.73,20,198.18,Cash on Delivery,2024-10-14
+Books,281.84,25,211.38,Credit Card,2024-10-15
+Electronics,87.2,5,82.84,UPI,2024-10-15
+Books,243.15,50,121.58,Debit Card,2024-10-15
+Home & Kitchen,359.03,25,269.27,Debit Card,2024-10-15
+Electronics,278.54,15,236.76,Debit Card,2024-10-15
+Clothing,338.68,10,304.81,Credit Card,2024-10-15
+Books,393.77,5,374.08,Debit Card,2024-10-15
+Books,295.26,15,250.97,Credit Card,2024-10-15
+Books,446.45,5,424.13,UPI,2024-10-15
+Beauty,59.31,20,47.45,Credit Card,2024-10-15
+Beauty,206.19,0,206.19,Cash on Delivery,2024-10-15
+Clothing,169.17,25,126.88,UPI,2024-10-16
+Sports,47.04,5,44.69,Debit Card,2024-10-16
+Toys,221.53,30,155.07,UPI,2024-10-16
+Electronics,249.64,10,224.68,UPI,2024-10-16
+Home & Kitchen,149.3,5,141.84,UPI,2024-10-16
+Clothing,352.7,10,317.43,UPI,2024-10-16
+Beauty,284.26,50,142.13,Debit Card,2024-10-16
+Home & Kitchen,10.37,5,9.85,Credit Card,2024-10-16
+Sports,45.39,50,22.7,Net Banking,2024-10-16
+Clothing,84.26,5,80.05,Cash on Delivery,2024-10-16
+Clothing,388.74,15,330.43,Cash on Delivery,2024-10-17
+Home & Kitchen,274.11,15,232.99,Credit Card,2024-10-17
+Books,41.06,10,36.95,Cash on Delivery,2024-10-17
+Clothing,394.82,0,394.82,Credit Card,2024-10-17
+Toys,92.41,50,46.2,Net Banking,2024-10-17
+Electronics,14.58,10,13.12,Debit Card,2024-10-17
+Toys,80.06,15,68.05,Debit Card,2024-10-17
+Electronics,247.41,5,235.04,Credit Card,2024-10-17
+Clothing,328.07,30,229.65,Net Banking,2024-10-17
+Electronics,243.29,25,182.47,Net Banking,2024-10-17
+Beauty,359.48,10,323.53,Credit Card,2024-10-17
+Toys,315.16,10,283.64,Credit Card,2024-10-17
+Sports,116.06,0,116.06,Net Banking,2024-10-17
+Electronics,371.41,10,334.27,Credit Card,2024-10-17
+Clothing,448.45,0,448.45,Debit Card,2024-10-17
+Home & Kitchen,38.25,30,26.77,Credit Card,2024-10-17
+Home & Kitchen,149.82,15,127.35,Cash on Delivery,2024-10-18
+Clothing,117.31,0,117.31,Net Banking,2024-10-18
+Sports,18.83,25,14.12,Cash on Delivery,2024-10-18
+Electronics,312.92,15,265.98,Debit Card,2024-10-18
+Home & Kitchen,14.23,10,12.81,Net Banking,2024-10-18
+Beauty,384.34,50,192.17,UPI,2024-10-18
+Electronics,132.31,10,119.08,Credit Card,2024-10-18
+Beauty,178.71,30,125.1,UPI,2024-10-18
+Books,184.5,0,184.5,Debit Card,2024-10-18
+Toys,463.69,50,231.84,Debit Card,2024-10-18
+Clothing,438.97,10,395.07,Cash on Delivery,2024-10-18
+Electronics,436.95,10,393.25,Credit Card,2024-10-18
+Toys,292.37,50,146.19,Debit Card,2024-10-18
+Electronics,224.56,50,112.28,Cash on Delivery,2024-10-19
+Toys,190.3,50,95.15,Net Banking,2024-10-19
+Beauty,179.26,50,89.63,Cash on Delivery,2024-10-19
+Books,286.12,30,200.28,Net Banking,2024-10-19
+Toys,13.73,5,13.04,Debit Card,2024-10-19
+Electronics,294.66,15,250.46,Net Banking,2024-10-19
+Toys,469.41,5,445.94,Cash on Delivery,2024-10-19
+Home & Kitchen,305.93,10,275.34,Cash on Delivery,2024-10-19
+Electronics,477.51,25,358.13,Cash on Delivery,2024-10-19
+Sports,368.61,5,350.18,Debit Card,2024-10-19
+Clothing,298.3,25,223.73,Credit Card,2024-10-20
+Sports,131.33,50,65.67,Debit Card,2024-10-20
+Clothing,250.45,10,225.41,Net Banking,2024-10-20
+Clothing,48.56,0,48.56,Credit Card,2024-10-20
+Toys,45.18,30,31.63,Credit Card,2024-10-20
+Home & Kitchen,498.59,30,349.01,Cash on Delivery,2024-10-20
+Electronics,117.15,5,111.29,Debit Card,2024-10-20
+Electronics,141.65,50,70.83,UPI,2024-10-20
+Beauty,210.69,10,189.62,Credit Card,2024-10-20
+Electronics,18.56,15,15.78,Cash on Delivery,2024-10-20
+Electronics,217.03,20,173.62,Debit Card,2024-10-20
+Clothing,496.06,15,421.65,Debit Card,2024-10-20
+Clothing,132.67,15,112.77,Cash on Delivery,2024-10-20
+Books,330.53,10,297.48,Cash on Delivery,2024-10-20
+Beauty,32.7,5,31.07,Credit Card,2024-10-21
+Electronics,108.86,5,103.42,Debit Card,2024-10-21
+Books,73.09,10,65.78,Cash on Delivery,2024-10-21
+Home & Kitchen,442.91,0,442.91,Net Banking,2024-10-21
+Sports,484.56,0,484.56,UPI,2024-10-21
+Electronics,309.01,25,231.76,Debit Card,2024-10-21
+Sports,41.53,0,41.53,UPI,2024-10-21
+Home & Kitchen,68.53,0,68.53,Debit Card,2024-10-21
+Books,458.34,0,458.34,UPI,2024-10-21
+Beauty,196.54,0,196.54,Debit Card,2024-10-21
+Toys,379.45,0,379.45,UPI,2024-10-21
+Beauty,226.97,25,170.23,Credit Card,2024-10-21
+Toys,149.91,25,112.43,Credit Card,2024-10-21
+Toys,422.63,50,211.31,UPI,2024-10-21
+Books,237.95,15,202.26,Net Banking,2024-10-22
+Beauty,416.88,25,312.66,Net Banking,2024-10-22
+Toys,152.57,0,152.57,UPI,2024-10-22
+Toys,301.6,20,241.28,Debit Card,2024-10-22
+Electronics,26.86,15,22.83,Debit Card,2024-10-22
+Books,170.5,10,153.45,Cash on Delivery,2024-10-22
+Toys,339.89,10,305.9,UPI,2024-10-22
+Electronics,146.09,0,146.09,Credit Card,2024-10-22
+Home & Kitchen,477.27,30,334.09,UPI,2024-10-22
+Electronics,404.92,50,202.46,Debit Card,2024-10-22
+Beauty,238.75,20,191.0,Credit Card,2024-10-23
+Toys,267.5,25,200.62,UPI,2024-10-23
+Home & Kitchen,30.52,20,24.42,Net Banking,2024-10-23
+Electronics,307.25,10,276.53,Cash on Delivery,2024-10-23
+Books,428.85,15,364.52,Cash on Delivery,2024-10-23
+Sports,485.37,15,412.56,UPI,2024-10-23
+Home & Kitchen,342.44,20,273.95,Net Banking,2024-10-23
+Electronics,160.11,30,112.08,Cash on Delivery,2024-10-23
+Clothing,369.37,0,369.37,Credit Card,2024-10-24
+Clothing,51.97,20,41.58,Credit Card,2024-10-24
+Electronics,181.62,50,90.81,Credit Card,2024-10-24
+Books,442.05,10,397.85,Net Banking,2024-10-24
+Sports,479.31,0,479.31,Debit Card,2024-10-24
+Sports,107.75,25,80.81,Net Banking,2024-10-24
+Books,299.12,15,254.25,Net Banking,2024-10-24
+Sports,473.18,50,236.59,Debit Card,2024-10-24
+Sports,363.85,5,345.66,Debit Card,2024-10-24
+Books,399.38,50,199.69,Credit Card,2024-10-24
+Books,169.79,5,161.3,UPI,2024-10-25
+Clothing,459.22,10,413.3,Net Banking,2024-10-25
+Beauty,213.97,50,106.98,UPI,2024-10-25
+Books,312.78,15,265.86,Debit Card,2024-10-25
+Books,211.53,30,148.07,Cash on Delivery,2024-10-25
+Sports,350.46,5,332.94,Net Banking,2024-10-25
+Beauty,320.31,15,272.26,Net Banking,2024-10-25
+Toys,253.31,5,240.64,Debit Card,2024-10-25
+Beauty,401.83,30,281.28,Net Banking,2024-10-25
+Home & Kitchen,206.97,0,206.97,Net Banking,2024-10-25
+Toys,477.48,0,477.48,UPI,2024-10-25
+Books,290.9,15,247.26,Cash on Delivery,2024-10-25
+Beauty,61.47,20,49.18,UPI,2024-10-25
+Clothing,308.66,5,293.23,UPI,2024-10-25
+Sports,378.97,0,378.97,Cash on Delivery,2024-10-25
+Clothing,282.16,5,268.05,Net Banking,2024-10-25
+Books,244.37,0,244.37,Net Banking,2024-10-25
+Books,315.54,10,283.99,Debit Card,2024-10-26
+Beauty,243.65,0,243.65,Cash on Delivery,2024-10-26
+Sports,379.93,30,265.95,Debit Card,2024-10-26
+Toys,168.44,0,168.44,Debit Card,2024-10-26
+Books,445.72,50,222.86,Cash on Delivery,2024-10-26
+Toys,366.82,5,348.48,UPI,2024-10-26
+Sports,375.09,5,356.34,Debit Card,2024-10-26
+Home & Kitchen,114.6,5,108.87,Cash on Delivery,2024-10-26
+Clothing,82.43,20,65.94,Cash on Delivery,2024-10-26
+Toys,203.83,10,183.45,Net Banking,2024-10-26
+Clothing,230.18,10,207.16,Net Banking,2024-10-26
+Beauty,58.57,5,55.64,Debit Card,2024-10-26
+Home & Kitchen,89.46,15,76.04,Credit Card,2024-10-26
+Home & Kitchen,106.27,15,90.33,Net Banking,2024-10-27
+Books,137.81,10,124.03,Debit Card,2024-10-27
+Clothing,330.38,15,280.82,Net Banking,2024-10-27
+Books,466.27,20,373.02,Credit Card,2024-10-27
+Beauty,260.01,15,221.01,UPI,2024-10-27
+Toys,258.4,25,193.8,UPI,2024-10-27
+Electronics,350.51,50,175.25,UPI,2024-10-27
+Sports,286.23,0,286.23,Net Banking,2024-10-27
+Clothing,435.14,15,369.87,Debit Card,2024-10-27
+Home & Kitchen,422.47,15,359.1,Debit Card,2024-10-27
+Toys,219.74,20,175.79,Cash on Delivery,2024-10-27
+Toys,232.96,50,116.48,Credit Card,2024-10-28
+Books,474.78,30,332.35,UPI,2024-10-28
+Home & Kitchen,149.52,30,104.66,Net Banking,2024-10-28
+Beauty,393.9,50,196.95,Credit Card,2024-10-28
+Clothing,142.15,50,71.08,Net Banking,2024-10-28
+Books,458.94,0,458.94,UPI,2024-10-28
+Beauty,197.76,0,197.76,Debit Card,2024-10-28
+Beauty,320.98,5,304.93,UPI,2024-10-28
+Books,383.46,15,325.94,Net Banking,2024-10-28
+Books,494.06,10,444.65,Credit Card,2024-10-29
+Books,480.65,30,336.45,UPI,2024-10-29
+Clothing,424.33,5,403.11,Cash on Delivery,2024-10-29
+Toys,389.18,20,311.34,Cash on Delivery,2024-10-29
+Books,295.86,30,207.1,UPI,2024-10-29
+Home & Kitchen,245.52,20,196.42,Debit Card,2024-10-29
+Clothing,222.24,25,166.68,Debit Card,2024-10-29
+Books,392.88,25,294.66,Net Banking,2024-10-30
+Sports,428.97,10,386.07,UPI,2024-10-30
+Beauty,447.8,20,358.24,Cash on Delivery,2024-10-30
+Electronics,222.07,10,199.86,Credit Card,2024-10-30
+Books,69.37,0,69.37,Debit Card,2024-10-30
+Electronics,171.28,30,119.9,Debit Card,2024-10-30
+Home & Kitchen,98.93,0,98.93,UPI,2024-10-30
+Sports,97.09,30,67.96,Credit Card,2024-10-30
+Home & Kitchen,310.86,10,279.77,UPI,2024-10-30
+Electronics,408.46,50,204.23,UPI,2024-10-30
+Beauty,181.51,15,154.28,Debit Card,2024-10-31
+Home & Kitchen,176.92,0,176.92,UPI,2024-10-31
+Clothing,333.61,10,300.25,Credit Card,2024-10-31
+Clothing,404.79,5,384.55,Cash on Delivery,2024-10-31
+Electronics,136.96,25,102.72,UPI,2024-10-31
+Beauty,209.41,50,104.7,Net Banking,2024-10-31
+Home & Kitchen,263.49,20,210.79,UPI,2024-10-31
+Home & Kitchen,471.76,10,424.58,Cash on Delivery,2024-10-31
+Books,429.37,50,214.69,Credit Card,2024-10-31
+Electronics,297.32,0,297.32,UPI,2024-10-31
+Electronics,397.3,50,198.65,UPI,2024-10-31
+Beauty,445.45,15,378.63,Net Banking,2024-10-31
+Sports,235.86,20,188.69,Net Banking,2024-10-31
+Beauty,113.72,50,56.86,UPI,2024-11-01
+Sports,178.75,15,151.94,Net Banking,2024-11-01
+Clothing,246.59,0,246.59,UPI,2024-11-01
+Toys,112.55,25,84.41,Cash on Delivery,2024-11-01
+Books,55.9,20,44.72,Cash on Delivery,2024-11-01
+Sports,484.13,30,338.89,UPI,2024-11-01
+Clothing,438.0,5,416.1,Net Banking,2024-11-01
+Home & Kitchen,336.95,30,235.86,Debit Card,2024-11-01
+Toys,442.51,0,442.51,Credit Card,2024-11-01
+Books,229.55,15,195.12,Cash on Delivery,2024-11-02
+Books,394.16,10,354.74,Net Banking,2024-11-02
+Toys,112.97,25,84.73,UPI,2024-11-02
+Home & Kitchen,137.59,15,116.95,Debit Card,2024-11-02
+Books,327.19,20,261.75,Debit Card,2024-11-02
+Home & Kitchen,16.18,5,15.37,Credit Card,2024-11-02
+Clothing,104.37,20,83.5,Cash on Delivery,2024-11-02
+Sports,50.37,10,45.33,Credit Card,2024-11-02
+Beauty,406.97,15,345.92,Cash on Delivery,2024-11-02
+Beauty,106.66,25,80.0,Cash on Delivery,2024-11-02
+Books,329.33,15,279.93,Debit Card,2024-11-02
+Books,485.4,20,388.32,Credit Card,2024-11-02
+Toys,403.23,5,383.07,UPI,2024-11-03
+Beauty,481.03,50,240.51,Credit Card,2024-11-03
+Beauty,62.99,30,44.09,UPI,2024-11-03
+Electronics,171.18,25,128.38,Credit Card,2024-11-03
+Books,95.18,0,95.18,Debit Card,2024-11-03
+Books,386.62,15,328.63,Net Banking,2024-11-03
+Books,255.26,25,191.44,Net Banking,2024-11-03
+Electronics,267.99,5,254.59,Cash on Delivery,2024-11-03
+Beauty,339.83,25,254.87,UPI,2024-11-03
+Books,444.77,25,333.58,Cash on Delivery,2024-11-03
+Beauty,16.99,0,16.99,Debit Card,2024-11-03
+Toys,347.71,10,312.94,Debit Card,2024-11-03
+Toys,379.65,30,265.75,Credit Card,2024-11-04
+Home & Kitchen,257.67,0,257.67,Debit Card,2024-11-04
+Home & Kitchen,270.51,25,202.88,Cash on Delivery,2024-11-04
+Beauty,304.06,5,288.86,UPI,2024-11-04
+Books,491.18,5,466.62,Debit Card,2024-11-04
+Home & Kitchen,175.5,25,131.62,Credit Card,2024-11-04
+Beauty,42.93,0,42.93,UPI,2024-11-04
+Beauty,137.04,0,137.04,UPI,2024-11-04
+Home & Kitchen,449.09,25,336.82,UPI,2024-11-04
+Beauty,347.27,0,347.27,Cash on Delivery,2024-11-04
+Beauty,353.55,15,300.52,Debit Card,2024-11-04
+Sports,133.14,25,99.85,UPI,2024-11-04
+Home & Kitchen,480.8,25,360.6,Net Banking,2024-11-05
+Home & Kitchen,420.6,25,315.45,Credit Card,2024-11-05
+Books,124.42,0,124.42,Credit Card,2024-11-05
+Sports,271.59,25,203.69,Debit Card,2024-11-05
+Sports,16.81,25,12.61,Credit Card,2024-11-05
+Toys,377.73,0,377.73,Cash on Delivery,2024-11-05
+Books,494.14,50,247.07,UPI,2024-11-05
+Toys,481.22,5,457.16,Debit Card,2024-11-05
+Electronics,442.46,0,442.46,Net Banking,2024-11-05
+Toys,435.67,0,435.67,Debit Card,2024-11-05
+Sports,41.61,15,35.37,Credit Card,2024-11-05
+Toys,46.78,15,39.76,Cash on Delivery,2024-11-05
+Books,97.64,10,87.88,Net Banking,2024-11-05
+Toys,169.63,0,169.63,Net Banking,2024-11-06
+Sports,138.81,50,69.41,Credit Card,2024-11-06
+Beauty,200.14,10,180.13,Credit Card,2024-11-06
+Beauty,290.57,5,276.04,Cash on Delivery,2024-11-06
+Beauty,399.88,5,379.89,Cash on Delivery,2024-11-06
+Electronics,288.22,0,288.22,Debit Card,2024-11-06
+Books,11.78,50,5.89,UPI,2024-11-06
+Clothing,330.71,25,248.03,Cash on Delivery,2024-11-06
+Electronics,335.09,15,284.83,Cash on Delivery,2024-11-07
+Toys,354.39,10,318.95,Debit Card,2024-11-07
+Clothing,313.85,0,313.85,Credit Card,2024-11-07
+Sports,475.5,10,427.95,Cash on Delivery,2024-11-07
+Electronics,450.48,5,427.96,Debit Card,2024-11-07
+Sports,278.41,5,264.49,Cash on Delivery,2024-11-07
+Electronics,368.93,50,184.47,Net Banking,2024-11-07
+Books,395.73,15,336.37,Cash on Delivery,2024-11-07
+Clothing,115.88,25,86.91,Credit Card,2024-11-07
+Books,152.41,50,76.2,UPI,2024-11-08
+Toys,336.87,0,336.87,Debit Card,2024-11-08
+Beauty,361.82,20,289.46,Cash on Delivery,2024-11-08
+Electronics,235.82,50,117.91,Cash on Delivery,2024-11-08
+Home & Kitchen,427.63,25,320.72,Debit Card,2024-11-08
+Sports,274.65,20,219.72,Debit Card,2024-11-08
+Books,71.82,0,71.82,Net Banking,2024-11-08
+Clothing,197.51,20,158.01,Debit Card,2024-11-08
+Books,221.52,30,155.06,Cash on Delivery,2024-11-08
+Sports,436.92,20,349.54,Cash on Delivery,2024-11-08
+Clothing,129.52,25,97.14,Cash on Delivery,2024-11-08
+Clothing,468.53,25,351.4,Debit Card,2024-11-08
+Beauty,433.65,20,346.92,Cash on Delivery,2024-11-09
+Books,154.85,30,108.39,UPI,2024-11-09
+Toys,364.43,50,182.22,Cash on Delivery,2024-11-09
+Beauty,120.64,0,120.64,Debit Card,2024-11-09
+Sports,405.16,25,303.87,Debit Card,2024-11-09
+Sports,306.26,50,153.13,Credit Card,2024-11-09
+Sports,459.22,0,459.22,Debit Card,2024-11-09
+Toys,233.53,25,175.15,Debit Card,2024-11-09
+Sports,468.2,10,421.38,Credit Card,2024-11-09
+Home & Kitchen,133.82,15,113.75,Net Banking,2024-11-09
+Beauty,182.13,25,136.6,Cash on Delivery,2024-11-09
+Toys,131.54,5,124.96,Net Banking,2024-11-09
+Sports,399.39,10,359.45,Net Banking,2024-11-10
+Sports,123.91,25,92.93,Credit Card,2024-11-10
+Clothing,325.51,15,276.68,Debit Card,2024-11-10
+Electronics,320.78,15,272.66,Credit Card,2024-11-10
+Books,170.9,15,145.27,Cash on Delivery,2024-11-10
+Home & Kitchen,320.67,50,160.34,Credit Card,2024-11-10
+Sports,67.36,25,50.52,Net Banking,2024-11-10
+Beauty,82.9,20,66.32,Credit Card,2024-11-10
+Clothing,162.81,30,113.97,Credit Card,2024-11-10
+Home & Kitchen,263.55,50,131.78,Debit Card,2024-11-10
+Home & Kitchen,173.97,30,121.78,Net Banking,2024-11-11
+Toys,179.55,10,161.6,Credit Card,2024-11-11
+Beauty,264.02,30,184.81,Credit Card,2024-11-11
+Clothing,330.76,10,297.68,Debit Card,2024-11-11
+Home & Kitchen,287.77,10,258.99,Cash on Delivery,2024-11-11
+Clothing,473.12,10,425.81,UPI,2024-11-11
+Beauty,92.91,15,78.97,UPI,2024-11-11
+Toys,280.66,15,238.56,Debit Card,2024-11-11
+Sports,313.21,30,219.25,Debit Card,2024-11-11
+Beauty,336.04,20,268.83,Net Banking,2024-11-11
+Clothing,167.14,10,150.43,Cash on Delivery,2024-11-12
+Books,301.17,25,225.88,UPI,2024-11-12
+Toys,182.16,0,182.16,Credit Card,2024-11-12
+Home & Kitchen,411.6,30,288.12,Debit Card,2024-11-12
+Electronics,457.41,25,343.06,Net Banking,2024-11-12
+Clothing,41.11,20,32.89,Debit Card,2024-11-12
+Electronics,34.3,10,30.87,Cash on Delivery,2024-11-12
+Clothing,77.64,25,58.23,UPI,2024-11-12
+Home & Kitchen,238.92,25,179.19,Cash on Delivery,2024-11-12
+Home & Kitchen,382.64,30,267.85,Credit Card,2024-11-12
+Sports,189.35,50,94.67,UPI,2024-11-12
+Sports,112.45,5,106.83,UPI,2024-11-12
+Sports,36.53,15,31.05,Net Banking,2024-11-12
+Home & Kitchen,165.06,30,115.54,Debit Card,2024-11-12
+Sports,401.02,50,200.51,Credit Card,2024-11-12
+Electronics,31.43,10,28.29,Net Banking,2024-11-12
+Electronics,75.9,30,53.13,Net Banking,2024-11-12
+Clothing,399.41,20,319.53,UPI,2024-11-12
+Books,215.49,5,204.72,Debit Card,2024-11-13
+Books,334.55,5,317.82,Net Banking,2024-11-13
+Beauty,15.28,20,12.22,UPI,2024-11-13
+Books,237.27,0,237.27,Cash on Delivery,2024-11-13
+Sports,22.6,0,22.6,Cash on Delivery,2024-11-13
+Clothing,151.55,10,136.4,Net Banking,2024-11-13
+Beauty,43.47,50,21.73,Credit Card,2024-11-13
+Sports,348.18,0,348.18,Debit Card,2024-11-13
+Beauty,248.07,15,210.86,Net Banking,2024-11-13
+Books,222.4,20,177.92,Debit Card,2024-11-13
+Toys,170.08,50,85.04,Net Banking,2024-11-13
+Toys,454.14,10,408.73,Net Banking,2024-11-13
+Sports,444.49,50,222.25,Credit Card,2024-11-13
+Home & Kitchen,68.45,30,47.91,Net Banking,2024-11-13
+Books,257.35,50,128.68,Credit Card,2024-11-13
+Home & Kitchen,261.23,20,208.98,Cash on Delivery,2024-11-13
+Toys,231.11,20,184.89,UPI,2024-11-13
+Books,30.81,25,23.11,UPI,2024-11-13
+Beauty,266.2,0,266.2,UPI,2024-11-14
+Home & Kitchen,262.23,20,209.78,Net Banking,2024-11-14
+Home & Kitchen,493.82,25,370.37,Debit Card,2024-11-14
+Home & Kitchen,171.06,5,162.51,Net Banking,2024-11-14
+Home & Kitchen,334.87,50,167.44,Cash on Delivery,2024-11-14
+Clothing,21.26,15,18.07,Net Banking,2024-11-14
+Beauty,437.1,20,349.68,Net Banking,2024-11-14
+Toys,178.5,25,133.88,Cash on Delivery,2024-11-15
+Clothing,30.85,15,26.22,Debit Card,2024-11-15
+Clothing,208.08,15,176.87,UPI,2024-11-15
+Clothing,386.24,5,366.93,Cash on Delivery,2024-11-15
+Beauty,98.73,5,93.79,Credit Card,2024-11-15
+Electronics,291.23,5,276.67,Debit Card,2024-11-15
+Beauty,145.2,15,123.42,Debit Card,2024-11-15
+Electronics,55.31,30,38.72,UPI,2024-11-15
+Sports,243.74,15,207.18,UPI,2024-11-15
+Beauty,71.51,5,67.93,Debit Card,2024-11-15
+Toys,171.3,50,85.65,Net Banking,2024-11-15
+Books,329.54,20,263.63,Net Banking,2024-11-16
+Books,323.85,50,161.93,Credit Card,2024-11-16
+Clothing,456.4,30,319.48,Credit Card,2024-11-16
+Books,109.77,10,98.79,Credit Card,2024-11-16
+Home & Kitchen,350.82,30,245.57,Debit Card,2024-11-16
+Toys,143.49,50,71.75,Debit Card,2024-11-16
+Clothing,477.1,15,405.54,Cash on Delivery,2024-11-16
+Books,368.25,20,294.6,Credit Card,2024-11-16
+Electronics,488.92,30,342.24,Credit Card,2024-11-16
+Electronics,195.26,5,185.5,Credit Card,2024-11-16
+Clothing,186.26,20,149.01,UPI,2024-11-16
+Sports,108.95,0,108.95,Net Banking,2024-11-16
+Clothing,213.0,25,159.75,Cash on Delivery,2024-11-16
+Beauty,77.96,15,66.27,Cash on Delivery,2024-11-17
+Beauty,210.36,10,189.32,Cash on Delivery,2024-11-17
+Sports,310.41,15,263.85,Cash on Delivery,2024-11-17
+Books,312.0,15,265.2,Debit Card,2024-11-17
+Sports,74.64,30,52.25,Cash on Delivery,2024-11-17
+Electronics,458.77,10,412.89,UPI,2024-11-17
+Clothing,472.01,10,424.81,Cash on Delivery,2024-11-17
+Beauty,33.33,10,30.0,Credit Card,2024-11-17
+Clothing,457.38,20,365.9,Cash on Delivery,2024-11-17
+Electronics,447.66,30,313.36,Debit Card,2024-11-17
+Beauty,498.34,5,473.42,Net Banking,2024-11-17
+Books,272.64,20,218.11,Cash on Delivery,2024-11-17
+Clothing,460.17,15,391.14,UPI,2024-11-17
+Books,485.0,15,412.25,Net Banking,2024-11-17
+Toys,493.29,25,369.97,Debit Card,2024-11-17
+Toys,185.53,10,166.98,Cash on Delivery,2024-11-17
+Toys,71.02,50,35.51,Cash on Delivery,2024-11-17
+Books,323.03,10,290.73,UPI,2024-11-18
+Books,205.1,50,102.55,Net Banking,2024-11-18
+Toys,200.44,50,100.22,UPI,2024-11-18
+Home & Kitchen,147.84,20,118.27,Credit Card,2024-11-18
+Sports,25.95,15,22.06,Debit Card,2024-11-18
+Toys,282.33,10,254.1,UPI,2024-11-18
+Home & Kitchen,59.42,20,47.54,UPI,2024-11-18
+Electronics,62.46,30,43.72,Debit Card,2024-11-18
+Home & Kitchen,391.64,25,293.73,Debit Card,2024-11-18
+Clothing,347.13,5,329.77,Net Banking,2024-11-18
+Electronics,112.67,50,56.34,Debit Card,2024-11-19
+Beauty,194.6,50,97.3,UPI,2024-11-19
+Books,357.6,20,286.08,Credit Card,2024-11-19
+Toys,212.87,15,180.94,Cash on Delivery,2024-11-19
+Toys,373.78,25,280.33,UPI,2024-11-19
+Beauty,130.13,10,117.12,UPI,2024-11-19
+Home & Kitchen,129.48,15,110.06,Credit Card,2024-11-19
+Books,119.18,10,107.26,Cash on Delivery,2024-11-19
+Clothing,478.77,20,383.02,Net Banking,2024-11-19
+Books,351.26,10,316.13,Credit Card,2024-11-20
+Electronics,354.49,30,248.14,Cash on Delivery,2024-11-20
+Books,466.55,25,349.91,Net Banking,2024-11-20
+Clothing,315.8,0,315.8,Net Banking,2024-11-20
+Electronics,477.36,25,358.02,Net Banking,2024-11-20
+Clothing,401.8,10,361.62,Net Banking,2024-11-20
+Clothing,469.76,20,375.81,UPI,2024-11-20
+Books,226.93,30,158.85,Net Banking,2024-11-20
+Books,137.13,5,130.27,Cash on Delivery,2024-11-20
+Home & Kitchen,413.16,15,351.19,Cash on Delivery,2024-11-20
+Home & Kitchen,110.73,30,77.51,Cash on Delivery,2024-11-21
+Home & Kitchen,390.66,15,332.06,Debit Card,2024-11-21
+Books,384.23,15,326.6,Debit Card,2024-11-21
+Sports,362.61,0,362.61,Cash on Delivery,2024-11-21
+Toys,250.53,10,225.48,Net Banking,2024-11-21
+Home & Kitchen,399.27,0,399.27,Net Banking,2024-11-21
+Clothing,424.42,5,403.2,Debit Card,2024-11-21
+Toys,241.86,5,229.77,Credit Card,2024-11-21
+Clothing,378.95,20,303.16,Credit Card,2024-11-21
+Toys,199.48,15,169.56,Net Banking,2024-11-21
+Electronics,193.43,15,164.42,Cash on Delivery,2024-11-21
+Sports,484.14,25,363.11,Net Banking,2024-11-21
+Electronics,27.64,50,13.82,Cash on Delivery,2024-11-21
